@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-20T17:44:04.892Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-20T19:50:35.761Z",
   "lastPull": {
-    "id": 583,
-    "name": "vanillish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "id": 900,
+    "name": "kleavor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
     "types": [
-      "ice"
+      "bug",
+      "rock"
     ],
-    "totalStats": 395,
-    "grade": "N",
-    "pulledAt": "2026-09-20T17:44:04.892Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T19:50:35.761Z"
   },
   "pulls": [
+    {
+      "id": 900,
+      "name": "kleavor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T19:50:35.761Z"
+    },
     {
       "id": 583,
       "name": "vanillish",
@@ -69,6 +82,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:44:04.892Z",
       "lastPulledAt": "2026-09-20T17:44:04.892Z"
+    },
+    "900": {
+      "id": 900,
+      "name": "kleavor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T19:50:35.761Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T19:50:35.761Z",
+      "lastPulledAt": "2026-09-20T19:50:35.761Z"
     }
   },
   "typeTotals": {

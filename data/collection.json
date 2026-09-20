@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-20T14:48:42.401Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-20T17:44:04.892Z",
   "lastPull": {
-    "id": 3,
-    "name": "venusaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "id": 583,
+    "name": "vanillish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
     "types": [
-      "grass",
-      "poison"
+      "ice"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T14:48:42.401Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-09-20T17:44:04.892Z"
   },
   "pulls": [
+    {
+      "id": 583,
+      "name": "vanillish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-20T17:44:04.892Z"
+    },
     {
       "id": 3,
       "name": "venusaur",
@@ -44,6 +54,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T14:48:42.401Z",
       "lastPulledAt": "2026-09-20T14:48:42.401Z"
+    },
+    "583": {
+      "id": 583,
+      "name": "vanillish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-20T17:44:04.892Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T17:44:04.892Z",
+      "lastPulledAt": "2026-09-20T17:44:04.892Z"
     }
   },
   "typeTotals": {

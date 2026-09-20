@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 3,
-  "updatedAt": "2026-09-20T19:50:35.761Z",
+  "totalPulls": 4,
+  "updatedAt": "2026-09-20T22:21:42.070Z",
   "lastPull": {
-    "id": 900,
-    "name": "kleavor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
+    "id": 581,
+    "name": "swanna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
     "types": [
-      "bug",
-      "rock"
+      "water",
+      "flying"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T19:50:35.761Z"
+    "totalStats": 473,
+    "grade": "R",
+    "pulledAt": "2026-09-20T22:21:42.070Z"
   },
   "pulls": [
+    {
+      "id": 581,
+      "name": "swanna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 473,
+      "grade": "R",
+      "pulledAt": "2026-09-20T22:21:42.070Z"
+    },
     {
       "id": 900,
       "name": "kleavor",
@@ -67,6 +79,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T14:48:42.401Z",
       "lastPulledAt": "2026-09-20T14:48:42.401Z"
+    },
+    "581": {
+      "id": 581,
+      "name": "swanna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 473,
+      "grade": "R",
+      "pulledAt": "2026-09-20T22:21:42.070Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T22:21:42.070Z",
+      "lastPulledAt": "2026-09-20T22:21:42.070Z"
     },
     "583": {
       "id": 583,

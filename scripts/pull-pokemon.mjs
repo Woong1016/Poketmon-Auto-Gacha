@@ -1,5 +1,4 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
-import { json } from "node:stream/consumers";
 
 const DATA_PATH = "data/collection.json";
 const README_PATH = "README.md";
@@ -12,7 +11,7 @@ const pokemonId = randomInt(1, MAX_POKEMON_ID);
 
 // TODO-API-1: PokéAPI 주소에 무작위 pokemonId를 넣고 fetch로 요청하세요.
 // 정답 예시는 Notion 수업 자료에 있습니다.
-const response = await fetch(`https://pokeapi.co/api/v2/pokemon${pokemonId}`);
+const response = await fetch(`https://pokeapi.co/api/v2/pokemon/${pokemonId}`);
 if (!response.ok) throw new Error(`PokéAPI 호출 실패: HTTP ${response.status}`);
 
 // TODO-API-2: HTTP 응답 본문을 JavaScript 객체로 변환하세요.
@@ -59,8 +58,8 @@ collection.pulls = collection.pulls.slice(0, 10);
 
 // TODO-API-3: collection 객체를 JSON 문자열로 변환해 DATA_PATH에 저장하세요.
 // 아래 오류 발생 코드를 writeFile 코드로 교체합니다.
-//throw new Error("TODO-API-3: collection.json 저장 코드를 작성하세요.");
-await writeFile(DATA_PATH,`${JSON.stringify(collection,null,2)}\n`,"utf8");
+await writeFile(DATA_PATH, `${JSON.stringify(collection, null, 2)}\n` ,"utf8");
+
 await updateReadme(collection);
 
 // Workflow의 커밋 메시지에서 사용합니다.

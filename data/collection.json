@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-20T22:21:42.070Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-21T00:26:41.053Z",
   "lastPull": {
-    "id": 581,
-    "name": "swanna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+    "id": 511,
+    "name": "pansage",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
     "types": [
-      "water",
-      "flying"
+      "grass"
     ],
-    "totalStats": 473,
-    "grade": "R",
-    "pulledAt": "2026-09-20T22:21:42.070Z"
+    "totalStats": 316,
+    "grade": "N",
+    "pulledAt": "2026-09-21T00:26:41.053Z"
   },
   "pulls": [
+    {
+      "id": 511,
+      "name": "pansage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-21T00:26:41.053Z"
+    },
     {
       "id": 581,
       "name": "swanna",
@@ -79,6 +89,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T14:48:42.401Z",
       "lastPulledAt": "2026-09-20T14:48:42.401Z"
+    },
+    "511": {
+      "id": 511,
+      "name": "pansage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-21T00:26:41.053Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T00:26:41.053Z",
+      "lastPulledAt": "2026-09-21T00:26:41.053Z"
     },
     "581": {
       "id": 581,

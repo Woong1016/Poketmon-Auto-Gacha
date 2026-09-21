@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-21T05:22:20.884Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-21T11:01:14.115Z",
   "lastPull": {
-    "id": 417,
-    "name": "pachirisu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
+    "id": 62,
+    "name": "poliwrath",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
     "types": [
-      "electric"
+      "water",
+      "fighting"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-21T05:22:20.884Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-09-21T11:01:14.115Z"
   },
   "pulls": [
+    {
+      "id": 62,
+      "name": "poliwrath",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T11:01:14.115Z"
+    },
     {
       "id": 417,
       "name": "pachirisu",
@@ -100,6 +113,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T14:48:42.401Z",
       "lastPulledAt": "2026-09-20T14:48:42.401Z"
+    },
+    "62": {
+      "id": 62,
+      "name": "poliwrath",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T11:01:14.115Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T11:01:14.115Z",
+      "lastPulledAt": "2026-09-21T11:01:14.115Z"
     },
     "417": {
       "id": 417,

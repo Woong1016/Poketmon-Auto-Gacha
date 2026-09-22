@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-22T00:05:11.390Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-22T04:51:59.271Z",
   "lastPull": {
-    "id": 19,
-    "name": "rattata",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "id": 497,
+    "name": "serperior",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 253,
-    "grade": "N",
-    "pulledAt": "2026-09-22T00:05:11.390Z"
+    "totalStats": 528,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T04:51:59.271Z"
   },
   "pulls": [
+    {
+      "id": 497,
+      "name": "serperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T04:51:59.271Z"
+    },
     {
       "id": 19,
       "name": "rattata",
@@ -117,18 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-20T17:44:04.892Z"
-    },
-    {
-      "id": 3,
-      "name": "venusaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-20T14:48:42.401Z"
     }
   ],
   "pokemon": {
@@ -225,6 +224,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T05:22:20.884Z",
       "lastPulledAt": "2026-09-21T05:22:20.884Z"
+    },
+    "497": {
+      "id": 497,
+      "name": "serperior",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 528,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T04:51:59.271Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T04:51:59.271Z",
+      "lastPulledAt": "2026-09-22T04:51:59.271Z"
     },
     "511": {
       "id": 511,

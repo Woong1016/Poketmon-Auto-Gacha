@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 16,
-  "updatedAt": "2026-09-22T23:47:01.477Z",
+  "totalPulls": 17,
+  "updatedAt": "2026-09-23T01:52:09.021Z",
   "lastPull": {
-    "id": 491,
-    "name": "darkrai",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "id": 663,
+    "name": "talonflame",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
     "types": [
-      "dark"
+      "fire",
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-22T23:47:01.477Z"
+    "totalStats": 499,
+    "grade": "R",
+    "pulledAt": "2026-09-23T01:52:09.021Z"
   },
   "pulls": [
+    {
+      "id": 663,
+      "name": "talonflame",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 499,
+      "grade": "R",
+      "pulledAt": "2026-09-23T01:52:09.021Z"
+    },
     {
       "id": 491,
       "name": "darkrai",
@@ -115,18 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-21T17:01:58.082Z"
-    },
-    {
-      "id": 62,
-      "name": "poliwrath",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T11:01:14.115Z"
     }
   ],
   "pokemon": {
@@ -360,6 +361,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:44:04.892Z",
       "lastPulledAt": "2026-09-20T17:44:04.892Z"
+    },
+    "663": {
+      "id": 663,
+      "name": "talonflame",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 499,
+      "grade": "R",
+      "pulledAt": "2026-09-23T01:52:09.021Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T01:52:09.021Z",
+      "lastPulledAt": "2026-09-23T01:52:09.021Z"
     },
     "900": {
       "id": 900,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 18,
-  "updatedAt": "2026-09-23T07:40:03.327Z",
+  "totalPulls": 19,
+  "updatedAt": "2026-09-23T13:02:10.628Z",
   "lastPull": {
-    "id": 383,
-    "name": "groudon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "id": 141,
+    "name": "kabutops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
     "types": [
-      "ground"
+      "rock",
+      "water"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-09-23T07:40:03.327Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-09-23T13:02:10.628Z"
   },
   "pulls": [
+    {
+      "id": 141,
+      "name": "kabutops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-23T13:02:10.628Z"
+    },
     {
       "id": 383,
       "name": "groudon",
@@ -114,18 +127,6 @@
       "totalStats": 253,
       "grade": "N",
       "pulledAt": "2026-09-22T00:05:11.390Z"
-    },
-    {
-      "id": 221,
-      "name": "piloswine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
-      "types": [
-        "ice",
-        "ground"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-21T21:03:06.814Z"
     }
   ],
   "pokemon": {
@@ -206,6 +207,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T09:49:55.706Z",
       "lastPulledAt": "2026-09-22T09:49:55.706Z"
+    },
+    "141": {
+      "id": 141,
+      "name": "kabutops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-23T13:02:10.628Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T13:02:10.628Z",
+      "lastPulledAt": "2026-09-23T13:02:10.628Z"
     },
     "147": {
       "id": 147,

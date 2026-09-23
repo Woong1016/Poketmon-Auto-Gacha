@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 20,
-  "updatedAt": "2026-09-23T17:50:57.437Z",
+  "totalPulls": 21,
+  "updatedAt": "2026-09-23T21:25:18.359Z",
   "lastPull": {
-    "id": 322,
-    "name": "numel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "id": 167,
+    "name": "spinarak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
     "types": [
-      "fire",
-      "ground"
+      "bug",
+      "poison"
     ],
-    "totalStats": 305,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-09-23T17:50:57.437Z"
+    "pulledAt": "2026-09-23T21:25:18.359Z"
   },
   "pulls": [
+    {
+      "id": 167,
+      "name": "spinarak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-23T21:25:18.359Z"
+    },
     {
       "id": 322,
       "name": "numel",
@@ -117,17 +129,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-22T09:49:55.706Z"
-    },
-    {
-      "id": 497,
-      "name": "serperior",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 528,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T04:51:59.271Z"
     }
   ],
   "pokemon": {
@@ -239,6 +240,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T14:17:26.895Z",
       "lastPulledAt": "2026-09-22T14:17:26.895Z"
+    },
+    "167": {
+      "id": 167,
+      "name": "spinarak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-23T21:25:18.359Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T21:25:18.359Z",
+      "lastPulledAt": "2026-09-23T21:25:18.359Z"
     },
     "221": {
       "id": 221,

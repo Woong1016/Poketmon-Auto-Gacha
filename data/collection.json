@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 17,
-  "updatedAt": "2026-09-23T01:52:09.021Z",
+  "totalPulls": 18,
+  "updatedAt": "2026-09-23T07:40:03.327Z",
   "lastPull": {
-    "id": 663,
-    "name": "talonflame",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "id": 383,
+    "name": "groudon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
     "types": [
-      "fire",
-      "flying"
+      "ground"
     ],
-    "totalStats": 499,
-    "grade": "R",
-    "pulledAt": "2026-09-23T01:52:09.021Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-09-23T07:40:03.327Z"
   },
   "pulls": [
+    {
+      "id": 383,
+      "name": "groudon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-23T07:40:03.327Z"
+    },
     {
       "id": 663,
       "name": "talonflame",
@@ -116,18 +126,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-21T21:03:06.814Z"
-    },
-    {
-      "id": 12,
-      "name": "butterfree",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-09-21T17:01:58.082Z"
     }
   ],
   "pokemon": {
@@ -254,6 +252,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T21:29:02.239Z",
       "lastPulledAt": "2026-09-22T21:29:02.239Z"
+    },
+    "383": {
+      "id": 383,
+      "name": "groudon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-23T07:40:03.327Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T07:40:03.327Z",
+      "lastPulledAt": "2026-09-23T07:40:03.327Z"
     },
     "413": {
       "id": 413,

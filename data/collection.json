@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-24T09:32:16.889Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-24T14:27:01.726Z",
   "lastPull": {
-    "id": 751,
-    "name": "dewpider",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+    "id": 904,
+    "name": "overqwil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
     "types": [
-      "water",
-      "bug"
+      "dark",
+      "poison"
     ],
-    "totalStats": 269,
-    "grade": "N",
-    "pulledAt": "2026-09-24T09:32:16.889Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T14:27:01.726Z"
   },
   "pulls": [
+    {
+      "id": 904,
+      "name": "overqwil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T14:27:01.726Z"
+    },
     {
       "id": 751,
       "name": "dewpider",
@@ -119,17 +131,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-22T23:47:01.477Z"
-    },
-    {
-      "id": 242,
-      "name": "blissey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T21:29:02.239Z"
     }
   ],
   "pokemon": {
@@ -505,6 +506,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:50:35.761Z",
       "lastPulledAt": "2026-09-20T19:50:35.761Z"
+    },
+    "904": {
+      "id": 904,
+      "name": "overqwil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
+      "types": [
+        "dark",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T14:27:01.726Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T14:27:01.726Z",
+      "lastPulledAt": "2026-09-24T14:27:01.726Z"
     }
   },
   "typeTotals": {

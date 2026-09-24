@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 26,
-  "updatedAt": "2026-09-24T18:37:33.405Z",
+  "totalPulls": 27,
+  "updatedAt": "2026-09-24T21:50:04.890Z",
   "lastPull": {
-    "id": 986,
-    "name": "brute-bonnet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+    "id": 431,
+    "name": "glameow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
     "types": [
-      "grass",
-      "dark"
+      "normal"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T18:37:33.405Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-24T21:50:04.890Z"
   },
   "pulls": [
+    {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-24T21:50:04.890Z"
+    },
     {
       "id": 986,
       "name": "brute-bonnet",
@@ -120,18 +130,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-09-23T07:40:03.327Z"
-    },
-    {
-      "id": 663,
-      "name": "talonflame",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 499,
-      "grade": "R",
-      "pulledAt": "2026-09-23T01:52:09.021Z"
     }
   ],
   "pokemon": {
@@ -367,6 +365,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T05:22:20.884Z",
       "lastPulledAt": "2026-09-21T05:22:20.884Z"
+    },
+    "431": {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-24T21:50:04.890Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T21:50:04.890Z",
+      "lastPulledAt": "2026-09-24T21:50:04.890Z"
     },
     "483": {
       "id": 483,

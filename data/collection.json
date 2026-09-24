@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 23,
-  "updatedAt": "2026-09-24T04:31:33.600Z",
+  "totalPulls": 24,
+  "updatedAt": "2026-09-24T09:32:16.889Z",
   "lastPull": {
-    "id": 155,
-    "name": "cyndaquil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "id": 751,
+    "name": "dewpider",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
     "types": [
-      "fire"
+      "water",
+      "bug"
     ],
-    "totalStats": 309,
+    "totalStats": 269,
     "grade": "N",
-    "pulledAt": "2026-09-24T04:31:33.600Z"
+    "pulledAt": "2026-09-24T09:32:16.889Z"
   },
   "pulls": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-24T09:32:16.889Z"
+    },
     {
       "id": 155,
       "name": "cyndaquil",
@@ -117,18 +130,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-22T21:29:02.239Z"
-    },
-    {
-      "id": 413,
-      "name": "wormadam-plant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 424,
-      "grade": "R",
-      "pulledAt": "2026-09-22T18:10:25.494Z"
     }
   ],
   "pokemon": {
@@ -472,6 +473,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:52:09.021Z",
       "lastPulledAt": "2026-09-23T01:52:09.021Z"
+    },
+    "751": {
+      "id": 751,
+      "name": "dewpider",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-24T09:32:16.889Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T09:32:16.889Z",
+      "lastPulledAt": "2026-09-24T09:32:16.889Z"
     },
     "900": {
       "id": 900,

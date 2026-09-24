@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-23T23:54:59.081Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-24T04:31:33.600Z",
   "lastPull": {
-    "id": 483,
-    "name": "dialga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "id": 155,
+    "name": "cyndaquil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
     "types": [
-      "steel",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-09-23T23:54:59.081Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-09-24T04:31:33.600Z"
   },
   "pulls": [
+    {
+      "id": 155,
+      "name": "cyndaquil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-09-24T04:31:33.600Z"
+    },
     {
       "id": 483,
       "name": "dialga",
@@ -119,17 +129,6 @@
       "totalStats": 424,
       "grade": "R",
       "pulledAt": "2026-09-22T18:10:25.494Z"
-    },
-    {
-      "id": 147,
-      "name": "dratini",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-22T14:17:26.895Z"
     }
   ],
   "pokemon": {
@@ -241,6 +240,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T14:17:26.895Z",
       "lastPulledAt": "2026-09-22T14:17:26.895Z"
+    },
+    "155": {
+      "id": 155,
+      "name": "cyndaquil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-09-24T04:31:33.600Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T04:31:33.600Z",
+      "lastPulledAt": "2026-09-24T04:31:33.600Z"
     },
     "167": {
       "id": 167,

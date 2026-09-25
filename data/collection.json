@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 30,
-  "updatedAt": "2026-09-25T10:11:49.725Z",
+  "totalPulls": 31,
+  "updatedAt": "2026-09-25T15:21:04.321Z",
   "lastPull": {
-    "id": 321,
-    "name": "wailord",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "id": 1021,
+    "name": "raging-bolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
     "types": [
-      "water"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 500,
+    "totalStats": 590,
     "grade": "SR",
-    "pulledAt": "2026-09-25T10:11:49.725Z"
+    "pulledAt": "2026-09-25T15:21:04.321Z"
   },
   "pulls": [
+    {
+      "id": 1021,
+      "name": "raging-bolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T15:21:04.321Z"
+    },
     {
       "id": 321,
       "name": "wailord",
@@ -116,18 +129,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-09-23T23:54:59.081Z"
-    },
-    {
-      "id": 167,
-      "name": "spinarak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-09-23T21:25:18.359Z"
     }
   ],
   "pokemon": {
@@ -595,6 +596,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T18:37:33.405Z",
       "lastPulledAt": "2026-09-24T18:37:33.405Z"
+    },
+    "1021": {
+      "id": 1021,
+      "name": "raging-bolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 590,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T15:21:04.321Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T15:21:04.321Z",
+      "lastPulledAt": "2026-09-25T15:21:04.321Z"
     }
   },
   "typeTotals": {

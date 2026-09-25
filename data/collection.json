@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 27,
-  "updatedAt": "2026-09-24T21:50:04.890Z",
+  "totalPulls": 28,
+  "updatedAt": "2026-09-25T00:12:22.154Z",
   "lastPull": {
-    "id": 431,
-    "name": "glameow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+    "id": 704,
+    "name": "goomy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
     "types": [
-      "normal"
+      "dragon"
     ],
-    "totalStats": 310,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-24T21:50:04.890Z"
+    "pulledAt": "2026-09-25T00:12:22.154Z"
   },
   "pulls": [
+    {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-25T00:12:22.154Z"
+    },
     {
       "id": 431,
       "name": "glameow",
@@ -119,17 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-23T13:02:10.628Z"
-    },
-    {
-      "id": 383,
-      "name": "groudon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-09-23T07:40:03.327Z"
     }
   ],
   "pokemon": {
@@ -488,6 +488,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:52:09.021Z",
       "lastPulledAt": "2026-09-23T01:52:09.021Z"
+    },
+    "704": {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-25T00:12:22.154Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T00:12:22.154Z",
+      "lastPulledAt": "2026-09-25T00:12:22.154Z"
     },
     "751": {
       "id": 751,

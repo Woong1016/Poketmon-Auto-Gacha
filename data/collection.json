@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 31,
-  "updatedAt": "2026-09-25T15:21:04.321Z",
+  "totalPulls": 32,
+  "updatedAt": "2026-09-25T19:28:14.713Z",
   "lastPull": {
-    "id": 1021,
-    "name": "raging-bolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+    "id": 375,
+    "name": "metang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
     "types": [
-      "electric",
-      "dragon"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 590,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T15:21:04.321Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-25T19:28:14.713Z"
   },
   "pulls": [
+    {
+      "id": 375,
+      "name": "metang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-25T19:28:14.713Z"
+    },
     {
       "id": 1021,
       "name": "raging-bolt",
@@ -117,18 +129,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-09-24T04:31:33.600Z"
-    },
-    {
-      "id": 483,
-      "name": "dialga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-09-23T23:54:59.081Z"
     }
   ],
   "pokemon": {
@@ -348,6 +348,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T17:50:57.437Z",
       "lastPulledAt": "2026-09-23T17:50:57.437Z"
+    },
+    "375": {
+      "id": 375,
+      "name": "metang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-25T19:28:14.713Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T19:28:14.713Z",
+      "lastPulledAt": "2026-09-25T19:28:14.713Z"
     },
     "383": {
       "id": 383,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-26T11:21:41.857Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-26T15:04:52.785Z",
   "lastPull": {
-    "id": 450,
-    "name": "hippowdon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "id": 422,
+    "name": "shellos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
     "types": [
-      "ground"
+      "water"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-09-26T11:21:41.857Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-09-26T15:04:52.785Z"
   },
   "pulls": [
+    {
+      "id": 422,
+      "name": "shellos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-26T15:04:52.785Z"
+    },
     {
       "id": 450,
       "name": "hippowdon",
@@ -115,17 +126,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-25T00:12:22.154Z"
-    },
-    {
-      "id": 431,
-      "name": "glameow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-24T21:50:04.890Z"
     }
   ],
   "pokemon": {
@@ -422,6 +422,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T05:22:20.884Z",
       "lastPulledAt": "2026-09-21T05:22:20.884Z"
+    },
+    "422": {
+      "id": 422,
+      "name": "shellos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-09-26T15:04:52.785Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T15:04:52.785Z",
+      "lastPulledAt": "2026-09-26T15:04:52.785Z"
     },
     "431": {
       "id": 431,

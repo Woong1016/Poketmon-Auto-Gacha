@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 33,
-  "updatedAt": "2026-09-25T22:45:02.082Z",
+  "totalPulls": 34,
+  "updatedAt": "2026-09-26T00:57:50.283Z",
   "lastPull": {
-    "id": 186,
-    "name": "politoed",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
+    "id": 717,
+    "name": "yveltal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
     "types": [
-      "water"
+      "dark",
+      "flying"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T22:45:02.082Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-09-26T00:57:50.283Z"
   },
   "pulls": [
+    {
+      "id": 717,
+      "name": "yveltal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T00:57:50.283Z"
+    },
     {
       "id": 186,
       "name": "politoed",
@@ -116,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-24T14:27:01.726Z"
-    },
-    {
-      "id": 751,
-      "name": "dewpider",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
-      "types": [
-        "water",
-        "bug"
-      ],
-      "totalStats": 269,
-      "grade": "N",
-      "pulledAt": "2026-09-24T09:32:16.889Z"
     }
   ],
   "pokemon": {
@@ -562,6 +563,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T00:12:22.154Z",
       "lastPulledAt": "2026-09-25T00:12:22.154Z"
+    },
+    "717": {
+      "id": 717,
+      "name": "yveltal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-09-26T00:57:50.283Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T00:57:50.283Z",
+      "lastPulledAt": "2026-09-26T00:57:50.283Z"
     },
     "751": {
       "id": 751,

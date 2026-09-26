@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 34,
-  "updatedAt": "2026-09-26T00:57:50.283Z",
+  "totalPulls": 35,
+  "updatedAt": "2026-09-26T06:04:55.787Z",
   "lastPull": {
-    "id": 717,
-    "name": "yveltal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+    "id": 641,
+    "name": "tornadus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
     "types": [
-      "dark",
       "flying"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-09-26T00:57:50.283Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T06:04:55.787Z"
   },
   "pulls": [
+    {
+      "id": 641,
+      "name": "tornadus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T06:04:55.787Z"
+    },
     {
       "id": 717,
       "name": "yveltal",
@@ -117,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-24T18:37:33.405Z"
-    },
-    {
-      "id": 904,
-      "name": "overqwil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
-      "types": [
-        "dark",
-        "poison"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T14:27:01.726Z"
     }
   ],
   "pokemon": {
@@ -532,6 +530,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:44:04.892Z",
       "lastPulledAt": "2026-09-20T17:44:04.892Z"
+    },
+    "641": {
+      "id": 641,
+      "name": "tornadus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T06:04:55.787Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T06:04:55.787Z",
+      "lastPulledAt": "2026-09-26T06:04:55.787Z"
     },
     "663": {
       "id": 663,

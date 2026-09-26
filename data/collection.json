@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 39,
-  "updatedAt": "2026-09-26T21:35:14.219Z",
+  "totalPulls": 40,
+  "updatedAt": "2026-09-26T23:54:21.096Z",
   "lastPull": {
-    "id": 43,
-    "name": "oddish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "id": 351,
+    "name": "castform",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
     "types": [
-      "grass",
-      "poison"
+      "normal"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-09-26T21:35:14.219Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-09-26T23:54:21.096Z"
   },
   "pulls": [
+    {
+      "id": 351,
+      "name": "castform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-26T23:54:21.096Z"
+    },
     {
       "id": 43,
       "name": "oddish",
@@ -117,17 +127,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-09-25T15:21:04.321Z"
-    },
-    {
-      "id": 321,
-      "name": "wailord",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T10:11:49.725Z"
     }
   ],
   "pokemon": {
@@ -378,6 +377,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T17:50:57.437Z",
       "lastPulledAt": "2026-09-23T17:50:57.437Z"
+    },
+    "351": {
+      "id": 351,
+      "name": "castform",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-26T23:54:21.096Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T23:54:21.096Z",
+      "lastPulledAt": "2026-09-26T23:54:21.096Z"
     },
     "375": {
       "id": 375,

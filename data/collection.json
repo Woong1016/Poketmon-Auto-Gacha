@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 40,
-  "updatedAt": "2026-09-26T23:54:21.096Z",
+  "totalPulls": 41,
+  "updatedAt": "2026-09-27T05:07:42.835Z",
   "lastPull": {
-    "id": 351,
-    "name": "castform",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+    "id": 434,
+    "name": "stunky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
     "types": [
-      "normal"
+      "poison",
+      "dark"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-26T23:54:21.096Z"
+    "totalStats": 329,
+    "grade": "N",
+    "pulledAt": "2026-09-27T05:07:42.835Z"
   },
   "pulls": [
+    {
+      "id": 434,
+      "name": "stunky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-09-27T05:07:42.835Z"
+    },
     {
       "id": 351,
       "name": "castform",
@@ -115,18 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-25T19:28:14.713Z"
-    },
-    {
-      "id": 1021,
-      "name": "raging-bolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T15:21:04.321Z"
     }
   ],
   "pokemon": {
@@ -484,6 +485,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T21:50:04.890Z",
       "lastPulledAt": "2026-09-24T21:50:04.890Z"
+    },
+    "434": {
+      "id": 434,
+      "name": "stunky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 329,
+      "grade": "N",
+      "pulledAt": "2026-09-27T05:07:42.835Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T05:07:42.835Z",
+      "lastPulledAt": "2026-09-27T05:07:42.835Z"
     },
     "450": {
       "id": 450,

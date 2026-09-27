@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-27T15:17:55.384Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-27T19:06:14.741Z",
   "lastPull": {
-    "id": 106,
-    "name": "hitmonlee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "id": 879,
+    "name": "copperajah",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
     "types": [
-      "fighting"
+      "steel"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-09-27T15:17:55.384Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T19:06:14.741Z"
   },
   "pulls": [
+    {
+      "id": 879,
+      "name": "copperajah",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T19:06:14.741Z"
+    },
     {
       "id": 106,
       "name": "hitmonlee",
@@ -114,18 +125,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-26T06:04:55.787Z"
-    },
-    {
-      "id": 717,
-      "name": "yveltal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-09-26T00:57:50.283Z"
     }
   ],
   "pokemon": {
@@ -729,6 +728,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T18:35:57.835Z",
       "lastPulledAt": "2026-09-26T18:35:57.835Z"
+    },
+    "879": {
+      "id": 879,
+      "name": "copperajah",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T19:06:14.741Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T19:06:14.741Z",
+      "lastPulledAt": "2026-09-27T19:06:14.741Z"
     },
     "900": {
       "id": 900,

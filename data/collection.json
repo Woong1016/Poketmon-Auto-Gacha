@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-27T19:06:14.741Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-27T22:09:40.804Z",
   "lastPull": {
-    "id": 879,
-    "name": "copperajah",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+    "id": 406,
+    "name": "budew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
     "types": [
-      "steel"
+      "grass",
+      "poison"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T19:06:14.741Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-09-27T22:09:40.804Z"
   },
   "pulls": [
+    {
+      "id": 406,
+      "name": "budew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-27T22:09:40.804Z"
+    },
     {
       "id": 879,
       "name": "copperajah",
@@ -114,17 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-26T11:21:41.857Z"
-    },
-    {
-      "id": 641,
-      "name": "tornadus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
-      "types": [
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T06:04:55.787Z"
     }
   ],
   "pokemon": {
@@ -451,6 +453,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T07:40:03.327Z",
       "lastPulledAt": "2026-09-23T07:40:03.327Z"
+    },
+    "406": {
+      "id": 406,
+      "name": "budew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-27T22:09:40.804Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T22:09:40.804Z",
+      "lastPulledAt": "2026-09-27T22:09:40.804Z"
     },
     "413": {
       "id": 413,

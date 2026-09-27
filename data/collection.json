@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 41,
-  "updatedAt": "2026-09-27T05:07:42.835Z",
+  "totalPulls": 42,
+  "updatedAt": "2026-09-27T10:33:45.275Z",
   "lastPull": {
-    "id": 434,
-    "name": "stunky",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
+    "id": 210,
+    "name": "granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
     "types": [
-      "poison",
-      "dark"
+      "fairy"
     ],
-    "totalStats": 329,
-    "grade": "N",
-    "pulledAt": "2026-09-27T05:07:42.835Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-09-27T10:33:45.275Z"
   },
   "pulls": [
+    {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-27T10:33:45.275Z"
+    },
     {
       "id": 434,
       "name": "stunky",
@@ -116,18 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-25T22:45:02.082Z"
-    },
-    {
-      "id": 375,
-      "name": "metang",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-25T19:28:14.713Z"
     }
   ],
   "pokemon": {
@@ -316,6 +314,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T22:45:02.082Z",
       "lastPulledAt": "2026-09-25T22:45:02.082Z"
+    },
+    "210": {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-27T10:33:45.275Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T10:33:45.275Z",
+      "lastPulledAt": "2026-09-27T10:33:45.275Z"
     },
     "221": {
       "id": 221,

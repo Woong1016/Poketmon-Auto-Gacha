@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 48,
-  "updatedAt": "2026-09-28T14:11:34.400Z",
+  "totalPulls": 49,
+  "updatedAt": "2026-09-28T20:36:34.554Z",
   "lastPull": {
-    "id": 642,
-    "name": "thundurus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
+    "id": 656,
+    "name": "froakie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
     "types": [
-      "electric",
-      "flying"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-09-28T14:11:34.400Z"
+    "totalStats": 314,
+    "grade": "N",
+    "pulledAt": "2026-09-28T20:36:34.554Z"
   },
   "pulls": [
+    {
+      "id": 656,
+      "name": "froakie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-09-28T20:36:34.554Z"
+    },
     {
       "id": 642,
       "name": "thundurus-incarnate",
@@ -117,18 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-26T23:54:21.096Z"
-    },
-    {
-      "id": 43,
-      "name": "oddish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-26T21:35:14.219Z"
     }
   ],
   "pokemon": {
@@ -717,6 +715,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T14:11:34.400Z",
       "lastPulledAt": "2026-09-28T14:11:34.400Z"
+    },
+    "656": {
+      "id": 656,
+      "name": "froakie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-09-28T20:36:34.554Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T20:36:34.554Z",
+      "lastPulledAt": "2026-09-28T20:36:34.554Z"
     },
     "663": {
       "id": 663,

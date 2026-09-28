@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-27T22:09:40.804Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-28T00:49:29.950Z",
   "lastPull": {
-    "id": 406,
-    "name": "budew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "id": 233,
+    "name": "porygon2",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
     "types": [
-      "grass",
-      "poison"
+      "normal"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-09-27T22:09:40.804Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-09-28T00:49:29.950Z"
   },
   "pulls": [
+    {
+      "id": 233,
+      "name": "porygon2",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T00:49:29.950Z"
+    },
     {
       "id": 406,
       "name": "budew",
@@ -116,17 +126,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-26T15:04:52.785Z"
-    },
-    {
-      "id": 450,
-      "name": "hippowdon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-26T11:21:41.857Z"
     }
   ],
   "pokemon": {
@@ -361,6 +360,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T21:03:06.814Z",
       "lastPulledAt": "2026-09-21T21:03:06.814Z"
+    },
+    "233": {
+      "id": 233,
+      "name": "porygon2",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T00:49:29.950Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T00:49:29.950Z",
+      "lastPulledAt": "2026-09-28T00:49:29.950Z"
     },
     "242": {
       "id": 242,

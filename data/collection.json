@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 47,
-  "updatedAt": "2026-09-28T06:10:19.855Z",
+  "totalPulls": 48,
+  "updatedAt": "2026-09-28T14:11:34.400Z",
   "lastPull": {
-    "id": 144,
-    "name": "articuno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "id": 642,
+    "name": "thundurus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
     "types": [
-      "ice",
+      "electric",
       "flying"
     ],
     "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-09-28T06:10:19.855Z"
+    "pulledAt": "2026-09-28T14:11:34.400Z"
   },
   "pulls": [
+    {
+      "id": 642,
+      "name": "thundurus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T14:11:34.400Z"
+    },
     {
       "id": 144,
       "name": "articuno",
@@ -117,17 +129,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-26T21:35:14.219Z"
-    },
-    {
-      "id": 753,
-      "name": "fomantis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-09-26T18:35:57.835Z"
     }
   ],
   "pokemon": {
@@ -700,6 +701,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T06:04:55.787Z",
       "lastPulledAt": "2026-09-26T06:04:55.787Z"
+    },
+    "642": {
+      "id": 642,
+      "name": "thundurus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-09-28T14:11:34.400Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T14:11:34.400Z",
+      "lastPulledAt": "2026-09-28T14:11:34.400Z"
     },
     "663": {
       "id": 663,

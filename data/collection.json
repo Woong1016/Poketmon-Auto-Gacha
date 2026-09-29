@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-29T06:12:45.167Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-29T13:07:18.880Z",
   "lastPull": {
-    "id": 92,
-    "name": "gastly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "id": 868,
+    "name": "milcery",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
     "types": [
-      "ghost",
-      "poison"
+      "fairy"
     ],
-    "totalStats": 310,
+    "totalStats": 270,
     "grade": "N",
-    "pulledAt": "2026-09-29T06:12:45.167Z"
+    "pulledAt": "2026-09-29T13:07:18.880Z"
   },
   "pulls": [
+    {
+      "id": 868,
+      "name": "milcery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-29T13:07:18.880Z"
+    },
     {
       "id": 92,
       "name": "gastly",
@@ -117,17 +127,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-27T15:17:55.384Z"
-    },
-    {
-      "id": 210,
-      "name": "granbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-27T10:33:45.275Z"
     }
   ],
   "pokemon": {
@@ -840,6 +839,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T00:33:59.770Z",
       "lastPulledAt": "2026-09-29T00:33:59.770Z"
+    },
+    "868": {
+      "id": 868,
+      "name": "milcery",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-09-29T13:07:18.880Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T13:07:18.880Z",
+      "lastPulledAt": "2026-09-29T13:07:18.880Z"
     },
     "879": {
       "id": 879,

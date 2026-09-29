@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-29T13:07:18.880Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-29T18:38:40.729Z",
   "lastPull": {
-    "id": 868,
-    "name": "milcery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "id": 911,
+    "name": "skeledirge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
     "types": [
-      "fairy"
+      "fire",
+      "ghost"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-09-29T13:07:18.880Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-29T18:38:40.729Z"
   },
   "pulls": [
+    {
+      "id": 911,
+      "name": "skeledirge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T18:38:40.729Z"
+    },
     {
       "id": 868,
       "name": "milcery",
@@ -116,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-27T19:06:14.741Z"
-    },
-    {
-      "id": 106,
-      "name": "hitmonlee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-09-27T15:17:55.384Z"
     }
   ],
   "pokemon": {
@@ -901,6 +903,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T14:27:01.726Z",
       "lastPulledAt": "2026-09-24T14:27:01.726Z"
+    },
+    "911": {
+      "id": 911,
+      "name": "skeledirge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T18:38:40.729Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T18:38:40.729Z",
+      "lastPulledAt": "2026-09-29T18:38:40.729Z"
     },
     "986": {
       "id": 986,

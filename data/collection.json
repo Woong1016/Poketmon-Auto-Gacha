@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-29T00:33:59.770Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-29T06:12:45.167Z",
   "lastPull": {
-    "id": 796,
-    "name": "xurkitree",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+    "id": 92,
+    "name": "gastly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
     "types": [
-      "electric"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-29T00:33:59.770Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-29T06:12:45.167Z"
   },
   "pulls": [
+    {
+      "id": 92,
+      "name": "gastly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-29T06:12:45.167Z"
+    },
     {
       "id": 796,
       "name": "xurkitree",
@@ -115,18 +128,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-27T10:33:45.275Z"
-    },
-    {
-      "id": 434,
-      "name": "stunky",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
-      "types": [
-        "poison",
-        "dark"
-      ],
-      "totalStats": 329,
-      "grade": "N",
-      "pulledAt": "2026-09-27T05:07:42.835Z"
     }
   ],
   "pokemon": {
@@ -238,6 +239,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T09:49:55.706Z",
       "lastPulledAt": "2026-09-22T09:49:55.706Z"
+    },
+    "92": {
+      "id": 92,
+      "name": "gastly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-29T06:12:45.167Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T06:12:45.167Z",
+      "lastPulledAt": "2026-09-29T06:12:45.167Z"
     },
     "106": {
       "id": 106,

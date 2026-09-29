@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-29T18:38:40.729Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-29T22:39:21.975Z",
   "lastPull": {
-    "id": 911,
-    "name": "skeledirge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+    "id": 958,
+    "name": "tinkatuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
     "types": [
-      "fire",
-      "ghost"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-29T18:38:40.729Z"
+    "totalStats": 380,
+    "grade": "N",
+    "pulledAt": "2026-09-29T22:39:21.975Z"
   },
   "pulls": [
+    {
+      "id": 958,
+      "name": "tinkatuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-09-29T22:39:21.975Z"
+    },
     {
       "id": 911,
       "name": "skeledirge",
@@ -118,17 +130,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-09-27T22:09:40.804Z"
-    },
-    {
-      "id": 879,
-      "name": "copperajah",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T19:06:14.741Z"
     }
   ],
   "pokemon": {
@@ -919,6 +920,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T18:38:40.729Z",
       "lastPulledAt": "2026-09-29T18:38:40.729Z"
+    },
+    "958": {
+      "id": 958,
+      "name": "tinkatuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-09-29T22:39:21.975Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T22:39:21.975Z",
+      "lastPulledAt": "2026-09-29T22:39:21.975Z"
     },
     "986": {
       "id": 986,

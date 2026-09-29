@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 49,
-  "updatedAt": "2026-09-28T20:36:34.554Z",
+  "totalPulls": 50,
+  "updatedAt": "2026-09-29T00:33:59.770Z",
   "lastPull": {
-    "id": 656,
-    "name": "froakie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "id": 796,
+    "name": "xurkitree",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
     "types": [
-      "water"
+      "electric"
     ],
-    "totalStats": 314,
-    "grade": "N",
-    "pulledAt": "2026-09-28T20:36:34.554Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-29T00:33:59.770Z"
   },
   "pulls": [
+    {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T00:33:59.770Z"
+    },
     {
       "id": 656,
       "name": "froakie",
@@ -116,17 +127,6 @@
       "totalStats": 329,
       "grade": "N",
       "pulledAt": "2026-09-27T05:07:42.835Z"
-    },
-    {
-      "id": 351,
-      "name": "castform",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-26T23:54:21.096Z"
     }
   ],
   "pokemon": {
@@ -808,6 +808,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T18:35:57.835Z",
       "lastPulledAt": "2026-09-26T18:35:57.835Z"
+    },
+    "796": {
+      "id": 796,
+      "name": "xurkitree",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-29T00:33:59.770Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T00:33:59.770Z",
+      "lastPulledAt": "2026-09-29T00:33:59.770Z"
     },
     "879": {
       "id": 879,

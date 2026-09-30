@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 55,
-  "updatedAt": "2026-09-30T01:37:34.311Z",
+  "totalPulls": 56,
+  "updatedAt": "2026-09-30T07:29:07.346Z",
   "lastPull": {
-    "id": 368,
-    "name": "gorebyss",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+    "id": 743,
+    "name": "ribombee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
     "types": [
-      "water"
+      "bug",
+      "fairy"
     ],
-    "totalStats": 485,
+    "totalStats": 464,
     "grade": "R",
-    "pulledAt": "2026-09-30T01:37:34.311Z"
+    "pulledAt": "2026-09-30T07:29:07.346Z"
   },
   "pulls": [
+    {
+      "id": 743,
+      "name": "ribombee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-09-30T07:29:07.346Z"
+    },
     {
       "id": 368,
       "name": "gorebyss",
@@ -117,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-28T06:10:19.855Z"
-    },
-    {
-      "id": 233,
-      "name": "porygon2",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T00:49:29.950Z"
     }
   ],
   "pokemon": {
@@ -809,6 +811,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:57:50.283Z",
       "lastPulledAt": "2026-09-26T00:57:50.283Z"
+    },
+    "743": {
+      "id": 743,
+      "name": "ribombee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-09-30T07:29:07.346Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T07:29:07.346Z",
+      "lastPulledAt": "2026-09-30T07:29:07.346Z"
     },
     "751": {
       "id": 751,

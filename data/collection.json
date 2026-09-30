@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-30T07:29:07.346Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-30T14:12:06.876Z",
   "lastPull": {
-    "id": 743,
-    "name": "ribombee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+    "id": 19,
+    "name": "rattata",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
     "types": [
-      "bug",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 464,
-    "grade": "R",
-    "pulledAt": "2026-09-30T07:29:07.346Z"
+    "totalStats": 253,
+    "grade": "N",
+    "pulledAt": "2026-09-30T14:12:06.876Z"
   },
   "pulls": [
+    {
+      "id": 19,
+      "name": "rattata",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 253,
+      "grade": "N",
+      "pulledAt": "2026-09-30T14:12:06.876Z"
+    },
     {
       "id": 743,
       "name": "ribombee",
@@ -118,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-28T14:11:34.400Z"
-    },
-    {
-      "id": 144,
-      "name": "articuno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
-      "types": [
-        "ice",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T06:10:19.855Z"
     }
   ],
   "pokemon": {
@@ -175,10 +173,10 @@
       "totalStats": 253,
       "grade": "N",
       "pulledAt": "2026-09-22T00:05:11.390Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T00:05:11.390Z",
-      "lastPulledAt": "2026-09-22T00:05:11.390Z"
+      "lastPulledAt": "2026-09-30T14:12:06.876Z"
     },
     "43": {
       "id": 43,

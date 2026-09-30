@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 57,
-  "updatedAt": "2026-09-30T14:12:06.876Z",
+  "totalPulls": 58,
+  "updatedAt": "2026-09-30T19:29:33.690Z",
   "lastPull": {
-    "id": 19,
-    "name": "rattata",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "id": 733,
+    "name": "toucannon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 253,
-    "grade": "N",
-    "pulledAt": "2026-09-30T14:12:06.876Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-30T19:29:33.690Z"
   },
   "pulls": [
+    {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-30T19:29:33.690Z"
+    },
     {
       "id": 19,
       "name": "rattata",
@@ -116,18 +129,6 @@
       "totalStats": 314,
       "grade": "N",
       "pulledAt": "2026-09-28T20:36:34.554Z"
-    },
-    {
-      "id": 642,
-      "name": "thundurus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-28T14:11:34.400Z"
     }
   ],
   "pokemon": {
@@ -809,6 +810,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:57:50.283Z",
       "lastPulledAt": "2026-09-26T00:57:50.283Z"
+    },
+    "733": {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-30T19:29:33.690Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T19:29:33.690Z",
+      "lastPulledAt": "2026-09-30T19:29:33.690Z"
     },
     "743": {
       "id": 743,

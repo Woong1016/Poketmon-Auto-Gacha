@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-29T22:39:21.975Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-30T01:37:34.311Z",
   "lastPull": {
-    "id": 958,
-    "name": "tinkatuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+    "id": 368,
+    "name": "gorebyss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
     "types": [
-      "fairy",
-      "steel"
+      "water"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-09-29T22:39:21.975Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-30T01:37:34.311Z"
   },
   "pulls": [
+    {
+      "id": 368,
+      "name": "gorebyss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-30T01:37:34.311Z"
+    },
     {
       "id": 958,
       "name": "tinkatuff",
@@ -118,18 +128,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-09-28T00:49:29.950Z"
-    },
-    {
-      "id": 406,
-      "name": "budew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-09-27T22:09:40.804Z"
     }
   ],
   "pokemon": {
@@ -472,6 +470,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T23:54:21.096Z",
       "lastPulledAt": "2026-09-26T23:54:21.096Z"
+    },
+    "368": {
+      "id": 368,
+      "name": "gorebyss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-30T01:37:34.311Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T01:37:34.311Z",
+      "lastPulledAt": "2026-09-30T01:37:34.311Z"
     },
     "375": {
       "id": 375,

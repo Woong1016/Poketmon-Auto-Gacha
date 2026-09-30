@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>포켓몬 배틀 · JavaScript 실습</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+  <header>
+    <div><p class="eyebrow">FOR C# DEVELOPERS</p><h1>포켓몬 배틀 로직 실습</h1></div>
+    <button id="newGame">새로운 3대3 배틀</button>
+  </header>
+  <section class="progress" id="progress">
+    <span data-step="1">1 · 한 마리</span><span data-step="2">2 · 3대3 팀</span><span data-step="3">3 · 공격</span>
+    <span data-step="4">4 · 상성</span><span data-step="5">5 · 반격</span><span data-step="6">6 · 교체·전적</span>
+  </section>
+  <div class="notice" id="notice">app.js의 STEP 1부터 구현하세요.</div>
+  <section class="arena">
+    <div class="scoreline"><strong>PLAYER</strong><b>VS</b><strong>RIVAL</strong></div>
+    <div class="field">
+      <article class="fighter"><img id="playerImage" alt="플레이어 포켓몬"><h2 id="playerName">?</h2><div class="types" id="playerTypes"></div><div class="hp-row"><span>HP</span><span id="playerHpText">0 / 0</span></div><div class="hp"><i id="playerHp"></i></div></article>
+      <article class="fighter enemy"><img id="enemyImage" alt="상대 포켓몬"><h2 id="enemyName">?</h2><div class="types" id="enemyTypes"></div><div class="hp-row"><span>HP</span><span id="enemyHpText">0 / 0</span></div><div class="hp"><i id="enemyHp"></i></div></article>
+    </div>
+    <div class="teams"><div id="playerTeam"></div><div id="enemyTeam"></div></div>
+  </section>
+  <section class="panel"><div><h3>배틀 로그</h3><div id="battleLog">새 게임을 시작하세요.</div></div><div><h3>기술 선택</h3><div class="moves" id="moveButtons"><button disabled>기술 없음</button></div></div></section>
+</main>
+<!-- 완성본 -->
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 60,
-  "updatedAt": "2026-10-01T02:13:34.234Z",
+  "totalPulls": 61,
+  "updatedAt": "2026-10-01T09:05:48.803Z",
   "lastPull": {
-    "id": 867,
-    "name": "runerigus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
+    "id": 40,
+    "name": "wigglytuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
     "types": [
-      "ground",
-      "ghost"
+      "normal",
+      "fairy"
     ],
-    "totalStats": 483,
+    "totalStats": 435,
     "grade": "R",
-    "pulledAt": "2026-10-01T02:13:34.234Z"
+    "pulledAt": "2026-10-01T09:05:48.803Z"
   },
   "pulls": [
+    {
+      "id": 40,
+      "name": "wigglytuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-01T09:05:48.803Z"
+    },
     {
       "id": 867,
       "name": "runerigus",
@@ -119,18 +131,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-29T13:07:18.880Z"
-    },
-    {
-      "id": 92,
-      "name": "gastly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-29T06:12:45.167Z"
     }
   ],
   "pokemon": {
@@ -180,6 +180,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T00:05:11.390Z",
       "lastPulledAt": "2026-09-30T14:12:06.876Z"
+    },
+    "40": {
+      "id": 40,
+      "name": "wigglytuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-01T09:05:48.803Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T09:05:48.803Z",
+      "lastPulledAt": "2026-10-01T09:05:48.803Z"
     },
     "43": {
       "id": 43,

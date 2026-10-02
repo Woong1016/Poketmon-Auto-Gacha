@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-10-02T00:55:44.670Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-10-02T06:55:26.595Z",
   "lastPull": {
-    "id": 746,
-    "name": "wishiwashi-solo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png",
+    "id": 560,
+    "name": "scrafty",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
     "types": [
-      "water"
+      "dark",
+      "fighting"
     ],
-    "totalStats": 175,
-    "grade": "N",
-    "pulledAt": "2026-10-02T00:55:44.670Z"
+    "totalStats": 488,
+    "grade": "R",
+    "pulledAt": "2026-10-02T06:55:26.595Z"
   },
   "pulls": [
+    {
+      "id": 560,
+      "name": "scrafty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-10-02T06:55:26.595Z"
+    },
     {
       "id": 746,
       "name": "wishiwashi-solo",
@@ -118,17 +131,6 @@
       "totalStats": 464,
       "grade": "R",
       "pulledAt": "2026-09-30T07:29:07.346Z"
-    },
-    {
-      "id": 368,
-      "name": "gorebyss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-30T01:37:34.311Z"
     }
   ],
   "pokemon": {
@@ -702,6 +704,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T00:26:41.053Z",
       "lastPulledAt": "2026-09-21T00:26:41.053Z"
+    },
+    "560": {
+      "id": 560,
+      "name": "scrafty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-10-02T06:55:26.595Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T06:55:26.595Z",
+      "lastPulledAt": "2026-10-02T06:55:26.595Z"
     },
     "581": {
       "id": 581,

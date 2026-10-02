@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 65,
-  "updatedAt": "2026-10-02T06:55:26.595Z",
+  "totalPulls": 66,
+  "updatedAt": "2026-10-02T13:46:49.786Z",
   "lastPull": {
-    "id": 560,
-    "name": "scrafty",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "id": 582,
+    "name": "vanillite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
     "types": [
-      "dark",
-      "fighting"
+      "ice"
     ],
-    "totalStats": 488,
-    "grade": "R",
-    "pulledAt": "2026-10-02T06:55:26.595Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-02T13:46:49.786Z"
   },
   "pulls": [
+    {
+      "id": 582,
+      "name": "vanillite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-02T13:46:49.786Z"
+    },
     {
       "id": 560,
       "name": "scrafty",
@@ -119,18 +129,6 @@
       "totalStats": 253,
       "grade": "N",
       "pulledAt": "2026-09-30T14:12:06.876Z"
-    },
-    {
-      "id": 743,
-      "name": "ribombee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
-      "types": [
-        "bug",
-        "fairy"
-      ],
-      "totalStats": 464,
-      "grade": "R",
-      "pulledAt": "2026-09-30T07:29:07.346Z"
     }
   ],
   "pokemon": {
@@ -736,6 +734,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T22:21:42.070Z",
       "lastPulledAt": "2026-09-20T22:21:42.070Z"
+    },
+    "582": {
+      "id": 582,
+      "name": "vanillite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-02T13:46:49.786Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T13:46:49.786Z",
+      "lastPulledAt": "2026-10-02T13:46:49.786Z"
     },
     "583": {
       "id": 583,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-10-03T12:30:56.809Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-10-03T16:43:00.012Z",
   "lastPull": {
-    "id": 436,
-    "name": "bronzor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "id": 350,
+    "name": "milotic",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
     "types": [
-      "steel",
-      "psychic"
+      "water"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-03T12:30:56.809Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T16:43:00.012Z"
   },
   "pulls": [
+    {
+      "id": 350,
+      "name": "milotic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T16:43:00.012Z"
+    },
     {
       "id": 436,
       "name": "bronzor",
@@ -116,18 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-01T21:15:45.664Z"
-    },
-    {
-      "id": 1023,
-      "name": "iron-crown",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-10-01T16:26:06.766Z"
     }
   ],
   "pokemon": {
@@ -471,6 +469,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T17:50:57.437Z",
       "lastPulledAt": "2026-09-23T17:50:57.437Z"
+    },
+    "350": {
+      "id": 350,
+      "name": "milotic",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T16:43:00.012Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T16:43:00.012Z",
+      "lastPulledAt": "2026-10-03T16:43:00.012Z"
     },
     "351": {
       "id": 351,

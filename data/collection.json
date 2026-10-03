@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 73,
-  "updatedAt": "2026-10-03T19:32:13.963Z",
+  "totalPulls": 74,
+  "updatedAt": "2026-10-03T22:25:45.069Z",
   "lastPull": {
-    "id": 274,
-    "name": "nuzleaf",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "id": 646,
+    "name": "kyurem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
     "types": [
-      "grass",
-      "dark"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-10-03T19:32:13.963Z"
+    "totalStats": 660,
+    "grade": "SSR",
+    "pulledAt": "2026-10-03T22:25:45.069Z"
   },
   "pulls": [
+    {
+      "id": 646,
+      "name": "kyurem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-10-03T22:25:45.069Z"
+    },
     {
       "id": 274,
       "name": "nuzleaf",
@@ -117,17 +129,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-10-02T06:55:26.595Z"
-    },
-    {
-      "id": 746,
-      "name": "wishiwashi-solo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 175,
-      "grade": "N",
-      "pulledAt": "2026-10-02T00:55:44.670Z"
     }
   ],
   "pokemon": {
@@ -903,6 +904,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T14:11:34.400Z",
       "lastPulledAt": "2026-09-28T14:11:34.400Z"
+    },
+    "646": {
+      "id": 646,
+      "name": "kyurem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-10-03T22:25:45.069Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T22:25:45.069Z",
+      "lastPulledAt": "2026-10-03T22:25:45.069Z"
     },
     "656": {
       "id": 656,

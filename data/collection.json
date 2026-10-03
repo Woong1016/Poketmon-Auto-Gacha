@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-10-02T22:37:47.803Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-10-03T01:28:15.850Z",
   "lastPull": {
-    "id": 476,
-    "name": "probopass",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
+    "id": 412,
+    "name": "burmy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
     "types": [
-      "rock",
-      "steel"
+      "bug"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-02T22:37:47.803Z"
+    "totalStats": 224,
+    "grade": "N",
+    "pulledAt": "2026-10-03T01:28:15.850Z"
   },
   "pulls": [
+    {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-10-03T01:28:15.850Z"
+    },
     {
       "id": 476,
       "name": "probopass",
@@ -118,18 +128,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-10-01T02:13:34.234Z"
-    },
-    {
-      "id": 628,
-      "name": "braviary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T23:11:06.301Z"
     }
   ],
   "pokemon": {
@@ -550,6 +548,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:09:40.804Z",
       "lastPulledAt": "2026-09-27T22:09:40.804Z"
+    },
+    "412": {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-10-03T01:28:15.850Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T01:28:15.850Z",
+      "lastPulledAt": "2026-10-03T01:28:15.850Z"
     },
     "413": {
       "id": 413,

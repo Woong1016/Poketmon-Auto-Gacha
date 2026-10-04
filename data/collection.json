@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 77,
-  "updatedAt": "2026-10-04T14:13:16.972Z",
+  "totalPulls": 78,
+  "updatedAt": "2026-10-04T18:13:19.710Z",
   "lastPull": {
-    "id": 768,
-    "name": "golisopod",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
+    "id": 988,
+    "name": "slither-wing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
     "types": [
       "bug",
-      "water"
+      "fighting"
     ],
-    "totalStats": 530,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-04T14:13:16.972Z"
+    "pulledAt": "2026-10-04T18:13:19.710Z"
   },
   "pulls": [
+    {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T18:13:19.710Z"
+    },
     {
       "id": 768,
       "name": "golisopod",
@@ -118,18 +130,6 @@
       "totalStats": 224,
       "grade": "N",
       "pulledAt": "2026-10-03T01:28:15.850Z"
-    },
-    {
-      "id": 476,
-      "name": "probopass",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T22:37:47.803Z"
     }
   ],
   "pokemon": {
@@ -1248,6 +1248,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T18:37:33.405Z",
       "lastPulledAt": "2026-09-24T18:37:33.405Z"
+    },
+    "988": {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T18:13:19.710Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T18:13:19.710Z",
+      "lastPulledAt": "2026-10-04T18:13:19.710Z"
     },
     "1004": {
       "id": 1004,

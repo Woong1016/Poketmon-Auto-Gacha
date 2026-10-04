@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-10-03T22:25:45.069Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-10-04T01:56:49.305Z",
   "lastPull": {
-    "id": 646,
-    "name": "kyurem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+    "id": 409,
+    "name": "rampardos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
     "types": [
-      "dragon",
-      "ice"
+      "rock"
     ],
-    "totalStats": 660,
-    "grade": "SSR",
-    "pulledAt": "2026-10-03T22:25:45.069Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-04T01:56:49.305Z"
   },
   "pulls": [
+    {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-04T01:56:49.305Z"
+    },
     {
       "id": 646,
       "name": "kyurem",
@@ -117,18 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-02T13:46:49.786Z"
-    },
-    {
-      "id": 560,
-      "name": "scrafty",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
-      "types": [
-        "dark",
-        "fighting"
-      ],
-      "totalStats": 488,
-      "grade": "R",
-      "pulledAt": "2026-10-02T06:55:26.595Z"
     }
   ],
   "pokemon": {
@@ -580,6 +578,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:09:40.804Z",
       "lastPulledAt": "2026-09-27T22:09:40.804Z"
+    },
+    "409": {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-04T01:56:49.305Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T01:56:49.305Z",
+      "lastPulledAt": "2026-10-04T01:56:49.305Z"
     },
     "412": {
       "id": 412,

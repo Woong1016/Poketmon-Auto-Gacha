@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-10-04T01:56:49.305Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-10-04T08:19:36.509Z",
   "lastPull": {
-    "id": 409,
-    "name": "rampardos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "id": 1004,
+    "name": "chi-yu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
     "types": [
-      "rock"
+      "dark",
+      "fire"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-04T01:56:49.305Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T08:19:36.509Z"
   },
   "pulls": [
+    {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T08:19:36.509Z"
+    },
     {
       "id": 409,
       "name": "rampardos",
@@ -116,17 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-02T18:45:00.712Z"
-    },
-    {
-      "id": 582,
-      "name": "vanillite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-02T13:46:49.786Z"
     }
   ],
   "pokemon": {
@@ -1229,6 +1231,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T18:37:33.405Z",
       "lastPulledAt": "2026-09-24T18:37:33.405Z"
+    },
+    "1004": {
+      "id": 1004,
+      "name": "chi-yu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T08:19:36.509Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T08:19:36.509Z",
+      "lastPulledAt": "2026-10-04T08:19:36.509Z"
     },
     "1021": {
       "id": 1021,

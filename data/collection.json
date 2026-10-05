@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 79,
-  "updatedAt": "2026-10-04T21:39:08.277Z",
+  "totalPulls": 80,
+  "updatedAt": "2026-10-05T00:11:55.744Z",
   "lastPull": {
-    "id": 46,
-    "name": "paras",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "id": 121,
+    "name": "starmie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "types": [
-      "bug",
-      "grass"
+      "water",
+      "psychic"
     ],
-    "totalStats": 285,
-    "grade": "N",
-    "pulledAt": "2026-10-04T21:39:08.277Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-05T00:11:55.744Z"
   },
   "pulls": [
+    {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T00:11:55.744Z"
+    },
     {
       "id": 46,
       "name": "paras",
@@ -120,17 +132,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-03T12:30:56.809Z"
-    },
-    {
-      "id": 671,
-      "name": "florges",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 552,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T07:02:49.400Z"
     }
   ],
   "pokemon": {
@@ -305,6 +306,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:17:55.384Z",
       "lastPulledAt": "2026-09-27T15:17:55.384Z"
+    },
+    "121": {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T00:11:55.744Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T00:11:55.744Z",
+      "lastPulledAt": "2026-10-05T00:11:55.744Z"
     },
     "141": {
       "id": 141,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-10-05T05:54:56.434Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-10-05T14:24:02.192Z",
   "lastPull": {
-    "id": 953,
-    "name": "rellor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+    "id": 22,
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "types": [
-      "bug"
+      "normal",
+      "flying"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-10-05T05:54:56.434Z"
+    "totalStats": 442,
+    "grade": "R",
+    "pulledAt": "2026-10-05T14:24:02.192Z"
   },
   "pulls": [
+    {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-10-05T14:24:02.192Z"
+    },
     {
       "id": 953,
       "name": "rellor",
@@ -119,17 +132,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-03T19:32:13.963Z"
-    },
-    {
-      "id": 350,
-      "name": "milotic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T16:43:00.012Z"
     }
   ],
   "pokemon": {
@@ -179,6 +181,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T00:05:11.390Z",
       "lastPulledAt": "2026-09-30T14:12:06.876Z"
+    },
+    "22": {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-10-05T14:24:02.192Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T14:24:02.192Z",
+      "lastPulledAt": "2026-10-05T14:24:02.192Z"
     },
     "40": {
       "id": 40,

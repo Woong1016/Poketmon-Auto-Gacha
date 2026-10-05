@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-10-05T14:24:02.192Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-10-05T21:35:48.221Z",
   "lastPull": {
-    "id": 22,
-    "name": "fearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "id": 789,
+    "name": "cosmog",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
     "types": [
-      "normal",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 442,
-    "grade": "R",
-    "pulledAt": "2026-10-05T14:24:02.192Z"
+    "totalStats": 200,
+    "grade": "N",
+    "pulledAt": "2026-10-05T21:35:48.221Z"
   },
   "pulls": [
+    {
+      "id": 789,
+      "name": "cosmog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-05T21:35:48.221Z"
+    },
     {
       "id": 22,
       "name": "fearow",
@@ -120,18 +130,6 @@
       "totalStats": 660,
       "grade": "SSR",
       "pulledAt": "2026-10-03T22:25:45.069Z"
-    },
-    {
-      "id": 274,
-      "name": "nuzleaf",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-03T19:32:13.963Z"
     }
   ],
   "pokemon": {
@@ -1157,6 +1155,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T14:13:16.972Z",
       "lastPulledAt": "2026-10-04T14:13:16.972Z"
+    },
+    "789": {
+      "id": 789,
+      "name": "cosmog",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-05T21:35:48.221Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T21:35:48.221Z",
+      "lastPulledAt": "2026-10-05T21:35:48.221Z"
     },
     "796": {
       "id": 796,

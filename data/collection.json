@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-10-05T00:11:55.744Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-10-05T05:54:56.434Z",
   "lastPull": {
-    "id": 121,
-    "name": "starmie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "id": 953,
+    "name": "rellor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
     "types": [
-      "water",
-      "psychic"
+      "bug"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-05T00:11:55.744Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-10-05T05:54:56.434Z"
   },
   "pulls": [
+    {
+      "id": 953,
+      "name": "rellor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-05T05:54:56.434Z"
+    },
     {
       "id": 121,
       "name": "starmie",
@@ -120,18 +130,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-03T16:43:00.012Z"
-    },
-    {
-      "id": 436,
-      "name": "bronzor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-03T12:30:56.809Z"
     }
   ],
   "pokemon": {
@@ -1250,6 +1248,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T18:38:40.729Z",
       "lastPulledAt": "2026-09-29T18:38:40.729Z"
+    },
+    "953": {
+      "id": 953,
+      "name": "rellor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-10-05T05:54:56.434Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T05:54:56.434Z",
+      "lastPulledAt": "2026-10-05T05:54:56.434Z"
     },
     "958": {
       "id": 958,

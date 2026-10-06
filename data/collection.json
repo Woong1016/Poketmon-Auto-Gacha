@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-10-06T15:50:04.096Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-10-06T20:43:41.456Z",
   "lastPull": {
-    "id": 90,
-    "name": "shellder",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "id": 673,
+    "name": "gogoat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-06T15:50:04.096Z"
+    "totalStats": 531,
+    "grade": "SR",
+    "pulledAt": "2026-10-06T20:43:41.456Z"
   },
   "pulls": [
+    {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T20:43:41.456Z"
+    },
     {
       "id": 90,
       "name": "shellder",
@@ -116,18 +127,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-04T18:13:19.710Z"
-    },
-    {
-      "id": 768,
-      "name": "golisopod",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
-      "types": [
-        "bug",
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T14:13:16.972Z"
     }
   ],
   "pokemon": {
@@ -1058,6 +1057,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T07:02:49.400Z",
       "lastPulledAt": "2026-10-03T07:02:49.400Z"
+    },
+    "673": {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T20:43:41.456Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T20:43:41.456Z",
+      "lastPulledAt": "2026-10-06T20:43:41.456Z"
     },
     "704": {
       "id": 704,

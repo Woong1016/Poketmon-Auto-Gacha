@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 85,
-  "updatedAt": "2026-10-06T08:52:07.846Z",
+  "totalPulls": 86,
+  "updatedAt": "2026-10-06T15:50:04.096Z",
   "lastPull": {
-    "id": 412,
-    "name": "burmy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+    "id": 90,
+    "name": "shellder",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
     "types": [
-      "bug"
+      "water"
     ],
-    "totalStats": 224,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-10-06T08:52:07.846Z"
+    "pulledAt": "2026-10-06T15:50:04.096Z"
   },
   "pulls": [
+    {
+      "id": 90,
+      "name": "shellder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-06T15:50:04.096Z"
+    },
     {
       "id": 412,
       "name": "burmy",
@@ -117,18 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-04T14:13:16.972Z"
-    },
-    {
-      "id": 1004,
-      "name": "chi-yu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T08:19:36.509Z"
     }
   ],
   "pokemon": {
@@ -288,6 +287,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T09:49:55.706Z",
       "lastPulledAt": "2026-09-22T09:49:55.706Z"
+    },
+    "90": {
+      "id": 90,
+      "name": "shellder",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-06T15:50:04.096Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T15:50:04.096Z",
+      "lastPulledAt": "2026-10-06T15:50:04.096Z"
     },
     "92": {
       "id": 92,

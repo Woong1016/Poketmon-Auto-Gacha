@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-10-05T21:35:48.221Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-10-06T01:54:13.320Z",
   "lastPull": {
-    "id": 789,
-    "name": "cosmog",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
+    "id": 239,
+    "name": "elekid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
     "types": [
-      "psychic"
+      "electric"
     ],
-    "totalStats": 200,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-05T21:35:48.221Z"
+    "pulledAt": "2026-10-06T01:54:13.320Z"
   },
   "pulls": [
+    {
+      "id": 239,
+      "name": "elekid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-06T01:54:13.320Z"
+    },
     {
       "id": 789,
       "name": "cosmog",
@@ -118,18 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-04T01:56:49.305Z"
-    },
-    {
-      "id": 646,
-      "name": "kyurem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
-      "types": [
-        "dragon",
-        "ice"
-      ],
-      "totalStats": 660,
-      "grade": "SSR",
-      "pulledAt": "2026-10-03T22:25:45.069Z"
     }
   ],
   "pokemon": {
@@ -475,6 +474,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:49:29.950Z",
       "lastPulledAt": "2026-09-28T00:49:29.950Z"
+    },
+    "239": {
+      "id": 239,
+      "name": "elekid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-06T01:54:13.320Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T01:54:13.320Z",
+      "lastPulledAt": "2026-10-06T01:54:13.320Z"
     },
     "242": {
       "id": 242,

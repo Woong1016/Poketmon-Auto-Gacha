@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 84,
-  "updatedAt": "2026-10-06T01:54:13.320Z",
+  "totalPulls": 85,
+  "updatedAt": "2026-10-06T08:52:07.846Z",
   "lastPull": {
-    "id": 239,
-    "name": "elekid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
+    "id": 412,
+    "name": "burmy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
     "types": [
-      "electric"
+      "bug"
     ],
-    "totalStats": 360,
+    "totalStats": 224,
     "grade": "N",
-    "pulledAt": "2026-10-06T01:54:13.320Z"
+    "pulledAt": "2026-10-06T08:52:07.846Z"
   },
   "pulls": [
+    {
+      "id": 412,
+      "name": "burmy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 224,
+      "grade": "N",
+      "pulledAt": "2026-10-06T08:52:07.846Z"
+    },
     {
       "id": 239,
       "name": "elekid",
@@ -118,17 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-04T08:19:36.509Z"
-    },
-    {
-      "id": 409,
-      "name": "rampardos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-04T01:56:49.305Z"
     }
   ],
   "pokemon": {
@@ -669,10 +669,10 @@
       "totalStats": 224,
       "grade": "N",
       "pulledAt": "2026-10-03T01:28:15.850Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T01:28:15.850Z",
-      "lastPulledAt": "2026-10-03T01:28:15.850Z"
+      "lastPulledAt": "2026-10-06T08:52:07.846Z"
     },
     "413": {
       "id": 413,

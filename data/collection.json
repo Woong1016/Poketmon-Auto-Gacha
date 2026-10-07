@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-10-06T20:43:41.456Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-10-07T00:11:55.810Z",
   "lastPull": {
-    "id": 673,
-    "name": "gogoat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "id": 514,
+    "name": "simisear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
     "types": [
-      "grass"
+      "fire"
     ],
-    "totalStats": 531,
-    "grade": "SR",
-    "pulledAt": "2026-10-06T20:43:41.456Z"
+    "totalStats": 498,
+    "grade": "R",
+    "pulledAt": "2026-10-07T00:11:55.810Z"
   },
   "pulls": [
+    {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-07T00:11:55.810Z"
+    },
     {
       "id": 673,
       "name": "gogoat",
@@ -115,18 +126,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-10-04T21:39:08.277Z"
-    },
-    {
-      "id": 988,
-      "name": "slither-wing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T18:13:19.710Z"
     }
   ],
   "pokemon": {
@@ -886,6 +885,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T00:26:41.053Z",
       "lastPulledAt": "2026-09-21T00:26:41.053Z"
+    },
+    "514": {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-07T00:11:55.810Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T00:11:55.810Z",
+      "lastPulledAt": "2026-10-07T00:11:55.810Z"
     },
     "560": {
       "id": 560,

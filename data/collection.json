@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-10-07T13:37:20.083Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-10-07T19:32:35.821Z",
   "lastPull": {
-    "id": 960,
-    "name": "wiglett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-10-07T13:37:20.083Z"
+    "totalStats": 470,
+    "grade": "R",
+    "pulledAt": "2026-10-07T19:32:35.821Z"
   },
   "pulls": [
+    {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-07T19:32:35.821Z"
+    },
     {
       "id": 960,
       "name": "wiglett",
@@ -114,17 +125,6 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-10-05T14:24:02.192Z"
-    },
-    {
-      "id": 953,
-      "name": "rellor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-05T05:54:56.434Z"
     }
   ],
   "pokemon": {
@@ -1334,6 +1334,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T18:38:40.729Z",
       "lastPulledAt": "2026-09-29T18:38:40.729Z"
+    },
+    "925": {
+      "id": 925,
+      "name": "maushold-family-of-four",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-07T19:32:35.821Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T19:32:35.821Z",
+      "lastPulledAt": "2026-10-07T19:32:35.821Z"
     },
     "953": {
       "id": 953,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-10-07T19:32:35.821Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-10-07T23:49:39.781Z",
   "lastPull": {
-    "id": 925,
-    "name": "maushold-family-of-four",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "id": 944,
+    "name": "shroodle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
     "types": [
+      "poison",
       "normal"
     ],
-    "totalStats": 470,
-    "grade": "R",
-    "pulledAt": "2026-10-07T19:32:35.821Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-07T23:49:39.781Z"
   },
   "pulls": [
+    {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-07T23:49:39.781Z"
+    },
     {
       "id": 925,
       "name": "maushold-family-of-four",
@@ -113,18 +126,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-10-05T21:35:48.221Z"
-    },
-    {
-      "id": 22,
-      "name": "fearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 442,
-      "grade": "R",
-      "pulledAt": "2026-10-05T14:24:02.192Z"
     }
   ],
   "pokemon": {
@@ -1349,6 +1350,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T19:32:35.821Z",
       "lastPulledAt": "2026-10-07T19:32:35.821Z"
+    },
+    "944": {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-07T23:49:39.781Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T23:49:39.781Z",
+      "lastPulledAt": "2026-10-07T23:49:39.781Z"
     },
     "953": {
       "id": 953,

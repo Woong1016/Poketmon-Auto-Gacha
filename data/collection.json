@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 93,
-  "updatedAt": "2026-10-08T03:53:15.109Z",
+  "totalPulls": 94,
+  "updatedAt": "2026-10-08T11:16:29.476Z",
   "lastPull": {
-    "id": 303,
-    "name": "mawile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "id": 444,
+    "name": "gabite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
     "types": [
-      "steel",
-      "fairy"
+      "dragon",
+      "ground"
     ],
-    "totalStats": 380,
-    "grade": "N",
-    "pulledAt": "2026-10-08T03:53:15.109Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-08T11:16:29.476Z"
   },
   "pulls": [
+    {
+      "id": 444,
+      "name": "gabite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-08T11:16:29.476Z"
+    },
     {
       "id": 303,
       "name": "mawile",
@@ -116,17 +128,6 @@
       "totalStats": 224,
       "grade": "N",
       "pulledAt": "2026-10-06T08:52:07.846Z"
-    },
-    {
-      "id": 239,
-      "name": "elekid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-06T01:54:13.320Z"
     }
   ],
   "pokemon": {
@@ -795,6 +796,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T12:30:56.809Z",
       "lastPulledAt": "2026-10-03T12:30:56.809Z"
+    },
+    "444": {
+      "id": 444,
+      "name": "gabite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-08T11:16:29.476Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T11:16:29.476Z",
+      "lastPulledAt": "2026-10-08T11:16:29.476Z"
     },
     "450": {
       "id": 450,

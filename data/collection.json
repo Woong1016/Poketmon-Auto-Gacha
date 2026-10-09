@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 99,
-  "updatedAt": "2026-10-09T17:09:03.943Z",
+  "totalPulls": 100,
+  "updatedAt": "2026-10-09T21:42:10.653Z",
   "lastPull": {
-    "id": 235,
-    "name": "smeargle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+    "id": 154,
+    "name": "meganium",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-10-09T17:09:03.943Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T21:42:10.653Z"
   },
   "pulls": [
+    {
+      "id": 154,
+      "name": "meganium",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T21:42:10.653Z"
+    },
     {
       "id": 235,
       "name": "smeargle",
@@ -118,17 +129,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-10-07T19:32:35.821Z"
-    },
-    {
-      "id": 960,
-      "name": "wiglett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-10-07T13:37:20.083Z"
     }
   ],
   "pokemon": {
@@ -397,6 +397,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T14:17:26.895Z",
       "lastPulledAt": "2026-09-22T14:17:26.895Z"
+    },
+    "154": {
+      "id": 154,
+      "name": "meganium",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T21:42:10.653Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T21:42:10.653Z",
+      "lastPulledAt": "2026-10-09T21:42:10.653Z"
     },
     "155": {
       "id": 155,

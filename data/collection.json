@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-10-09T10:24:10.699Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-10-09T17:09:03.943Z",
   "lastPull": {
-    "id": 536,
-    "name": "palpitoad",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+    "id": 235,
+    "name": "smeargle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
     "types": [
-      "water",
-      "ground"
+      "normal"
     ],
-    "totalStats": 384,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-10-09T10:24:10.699Z"
+    "pulledAt": "2026-10-09T17:09:03.943Z"
   },
   "pulls": [
+    {
+      "id": 235,
+      "name": "smeargle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-09T17:09:03.943Z"
+    },
     {
       "id": 536,
       "name": "palpitoad",
@@ -119,18 +129,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-07T13:37:20.083Z"
-    },
-    {
-      "id": 628,
-      "name": "braviary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T06:11:28.836Z"
     }
   ],
   "pokemon": {
@@ -491,6 +489,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T00:49:29.950Z",
       "lastPulledAt": "2026-09-28T00:49:29.950Z"
+    },
+    "235": {
+      "id": 235,
+      "name": "smeargle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-09T17:09:03.943Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T17:09:03.943Z",
+      "lastPulledAt": "2026-10-09T17:09:03.943Z"
     },
     "236": {
       "id": 236,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-10-09T21:42:10.653Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-10-10T01:19:22.130Z",
   "lastPull": {
-    "id": 154,
-    "name": "meganium",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+    "id": 800,
+    "name": "necrozma",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
     "types": [
-      "grass"
+      "psychic"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T21:42:10.653Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-10T01:19:22.130Z"
   },
   "pulls": [
+    {
+      "id": 800,
+      "name": "necrozma",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-10T01:19:22.130Z"
+    },
     {
       "id": 154,
       "name": "meganium",
@@ -118,17 +129,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-07T23:49:39.781Z"
-    },
-    {
-      "id": 925,
-      "name": "maushold-family-of-four",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-10-07T19:32:35.821Z"
     }
   ],
   "pokemon": {
@@ -1369,6 +1369,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T00:33:59.770Z",
       "lastPulledAt": "2026-09-29T00:33:59.770Z"
+    },
+    "800": {
+      "id": 800,
+      "name": "necrozma",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-10T01:19:22.130Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T01:19:22.130Z",
+      "lastPulledAt": "2026-10-10T01:19:22.130Z"
     },
     "867": {
       "id": 867,

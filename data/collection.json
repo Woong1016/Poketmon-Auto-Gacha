@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-10-10T07:24:30.012Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-10-10T13:56:24.796Z",
   "lastPull": {
-    "id": 902,
-    "name": "basculegion-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+    "id": 923,
+    "name": "pawmot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
     "types": [
-      "water",
-      "ghost"
+      "electric",
+      "fighting"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-10T07:24:30.012Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-10T13:56:24.796Z"
   },
   "pulls": [
+    {
+      "id": 923,
+      "name": "pawmot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-10T13:56:24.796Z"
+    },
     {
       "id": 902,
       "name": "basculegion-male",
@@ -118,18 +130,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-08T11:16:29.476Z"
-    },
-    {
-      "id": 303,
-      "name": "mawile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
-      "types": [
-        "steel",
-        "fairy"
-      ],
-      "totalStats": 380,
-      "grade": "N",
-      "pulledAt": "2026-10-08T03:53:15.109Z"
     }
   ],
   "pokemon": {
@@ -1495,6 +1495,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T18:38:40.729Z",
       "lastPulledAt": "2026-09-29T18:38:40.729Z"
+    },
+    "923": {
+      "id": 923,
+      "name": "pawmot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-10T13:56:24.796Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T13:56:24.796Z",
+      "lastPulledAt": "2026-10-10T13:56:24.796Z"
     },
     "925": {
       "id": 925,

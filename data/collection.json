@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 101,
-  "updatedAt": "2026-10-10T01:19:22.130Z",
+  "totalPulls": 102,
+  "updatedAt": "2026-10-10T07:24:30.012Z",
   "lastPull": {
-    "id": 800,
-    "name": "necrozma",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
+    "id": 902,
+    "name": "basculegion-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
     "types": [
-      "psychic"
+      "water",
+      "ghost"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-10T01:19:22.130Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T07:24:30.012Z"
   },
   "pulls": [
+    {
+      "id": 902,
+      "name": "basculegion-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T07:24:30.012Z"
+    },
     {
       "id": 800,
       "name": "necrozma",
@@ -117,18 +130,6 @@
       "totalStats": 380,
       "grade": "N",
       "pulledAt": "2026-10-08T03:53:15.109Z"
-    },
-    {
-      "id": 944,
-      "name": "shroodle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
-      "types": [
-        "poison",
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-07T23:49:39.781Z"
     }
   ],
   "pokemon": {
@@ -1446,6 +1447,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T19:50:35.761Z",
       "lastPulledAt": "2026-09-20T19:50:35.761Z"
+    },
+    "902": {
+      "id": 902,
+      "name": "basculegion-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T07:24:30.012Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T07:24:30.012Z",
+      "lastPulledAt": "2026-10-10T07:24:30.012Z"
     },
     "904": {
       "id": 904,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 107,
-  "updatedAt": "2026-10-11T07:00:34.959Z",
+  "totalPulls": 108,
+  "updatedAt": "2026-10-11T14:01:25.341Z",
   "lastPull": {
-    "id": 688,
-    "name": "binacle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
+    "id": 263,
+    "name": "zigzagoon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
     "types": [
-      "rock",
-      "water"
+      "normal"
     ],
-    "totalStats": 306,
+    "totalStats": 240,
     "grade": "N",
-    "pulledAt": "2026-10-11T07:00:34.959Z"
+    "pulledAt": "2026-10-11T14:01:25.341Z"
   },
   "pulls": [
+    {
+      "id": 263,
+      "name": "zigzagoon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-11T14:01:25.341Z"
+    },
     {
       "id": 688,
       "name": "binacle",
@@ -117,18 +127,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-10-09T17:09:03.943Z"
-    },
-    {
-      "id": 536,
-      "name": "palpitoad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 384,
-      "grade": "N",
-      "pulledAt": "2026-10-09T10:24:10.699Z"
     }
   ],
   "pokemon": {
@@ -580,6 +578,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T21:29:02.239Z",
       "lastPulledAt": "2026-09-22T21:29:02.239Z"
+    },
+    "263": {
+      "id": 263,
+      "name": "zigzagoon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-10-11T14:01:25.341Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T14:01:25.341Z",
+      "lastPulledAt": "2026-10-11T14:01:25.341Z"
     },
     "274": {
       "id": 274,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-10-10T21:57:41.337Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-10-11T00:51:49.053Z",
   "lastPull": {
-    "id": 222,
-    "name": "corsola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
+    "id": 865,
+    "name": "sirfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
     "types": [
-      "water",
-      "rock"
+      "fighting"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-10T21:57:41.337Z"
+    "totalStats": 507,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T00:51:49.053Z"
   },
   "pulls": [
+    {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T00:51:49.053Z"
+    },
     {
       "id": 222,
       "name": "corsola",
@@ -118,18 +128,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-09T02:58:57.717Z"
-    },
-    {
-      "id": 586,
-      "name": "sawsbuck",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
-      "types": [
-        "normal",
-        "grass"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-08T23:14:53.285Z"
     }
   ],
   "pokemon": {
@@ -1416,6 +1414,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T01:19:22.130Z",
       "lastPulledAt": "2026-10-10T01:19:22.130Z"
+    },
+    "865": {
+      "id": 865,
+      "name": "sirfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 507,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T00:51:49.053Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T00:51:49.053Z",
+      "lastPulledAt": "2026-10-11T00:51:49.053Z"
     },
     "867": {
       "id": 867,

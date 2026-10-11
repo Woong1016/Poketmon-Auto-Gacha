@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-10-11T18:52:44.945Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-10-11T22:46:50.831Z",
   "lastPull": {
-    "id": 437,
-    "name": "bronzong",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+    "id": 87,
+    "name": "dewgong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
     "types": [
-      "steel",
-      "psychic"
+      "water",
+      "ice"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-11T18:52:44.945Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-11T22:46:50.831Z"
   },
   "pulls": [
+    {
+      "id": 87,
+      "name": "dewgong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-11T22:46:50.831Z"
+    },
     {
       "id": 437,
       "name": "bronzong",
@@ -118,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-10T01:19:22.130Z"
-    },
-    {
-      "id": 154,
-      "name": "meganium",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-09T21:42:10.653Z"
     }
   ],
   "pokemon": {
@@ -288,6 +289,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T09:49:55.706Z",
       "lastPulledAt": "2026-09-22T09:49:55.706Z"
+    },
+    "87": {
+      "id": 87,
+      "name": "dewgong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-11T22:46:50.831Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T22:46:50.831Z",
+      "lastPulledAt": "2026-10-11T22:46:50.831Z"
     },
     "90": {
       "id": 90,

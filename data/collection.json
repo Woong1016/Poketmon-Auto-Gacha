@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-10-11T14:01:25.341Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-10-11T18:52:44.945Z",
   "lastPull": {
-    "id": 263,
-    "name": "zigzagoon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "id": 437,
+    "name": "bronzong",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
     "types": [
-      "normal"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 240,
-    "grade": "N",
-    "pulledAt": "2026-10-11T14:01:25.341Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-11T18:52:44.945Z"
   },
   "pulls": [
+    {
+      "id": 437,
+      "name": "bronzong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T18:52:44.945Z"
+    },
     {
       "id": 263,
       "name": "zigzagoon",
@@ -116,17 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-09T21:42:10.653Z"
-    },
-    {
-      "id": 235,
-      "name": "smeargle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-09T17:09:03.943Z"
     }
   ],
   "pokemon": {
@@ -887,6 +889,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T12:30:56.809Z",
       "lastPulledAt": "2026-10-03T12:30:56.809Z"
+    },
+    "437": {
+      "id": 437,
+      "name": "bronzong",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-11T18:52:44.945Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T18:52:44.945Z",
+      "lastPulledAt": "2026-10-11T18:52:44.945Z"
     },
     "444": {
       "id": 444,

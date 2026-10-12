@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 111,
-  "updatedAt": "2026-10-12T01:51:58.341Z",
+  "totalPulls": 112,
+  "updatedAt": "2026-10-12T09:02:22.218Z",
   "lastPull": {
-    "id": 382,
-    "name": "kyogre",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "id": 514,
+    "name": "simisear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
     "types": [
-      "water"
+      "fire"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-12T01:51:58.341Z"
+    "totalStats": 498,
+    "grade": "R",
+    "pulledAt": "2026-10-12T09:02:22.218Z"
   },
   "pulls": [
+    {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-12T09:02:22.218Z"
+    },
     {
       "id": 382,
       "name": "kyogre",
@@ -117,18 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-10T13:56:24.796Z"
-    },
-    {
-      "id": 902,
-      "name": "basculegion-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T07:24:30.012Z"
     }
   ],
   "pokemon": {
@@ -1070,10 +1069,10 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-10-07T00:11:55.810Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T00:11:55.810Z",
-      "lastPulledAt": "2026-10-07T00:11:55.810Z"
+      "lastPulledAt": "2026-10-12T09:02:22.218Z"
     },
     "536": {
       "id": 536,

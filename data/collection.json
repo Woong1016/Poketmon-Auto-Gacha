@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-13T01:19:10.056Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-13T07:56:20.852Z",
   "lastPull": {
-    "id": 77,
-    "name": "ponyta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "id": 671,
+    "name": "florges",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
     "types": [
-      "fire"
+      "fairy"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-13T01:19:10.056Z"
+    "totalStats": 552,
+    "grade": "SR",
+    "pulledAt": "2026-10-13T07:56:20.852Z"
   },
   "pulls": [
+    {
+      "id": 671,
+      "name": "florges",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 552,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T07:56:20.852Z"
+    },
     {
       "id": 77,
       "name": "ponyta",
@@ -116,18 +127,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-10-11T00:51:49.053Z"
-    },
-    {
-      "id": 222,
-      "name": "corsola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-10T21:57:41.337Z"
     }
   ],
   "pokemon": {
@@ -1303,10 +1302,10 @@
       "totalStats": 552,
       "grade": "SR",
       "pulledAt": "2026-10-03T07:02:49.400Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T07:02:49.400Z",
-      "lastPulledAt": "2026-10-03T07:02:49.400Z"
+      "lastPulledAt": "2026-10-13T07:56:20.852Z"
     },
     "673": {
       "id": 673,

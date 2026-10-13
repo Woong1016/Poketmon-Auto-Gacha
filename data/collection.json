@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 116,
-  "updatedAt": "2026-10-13T15:51:48.631Z",
+  "totalPulls": 117,
+  "updatedAt": "2026-10-13T21:09:21.543Z",
   "lastPull": {
-    "id": 996,
-    "name": "frigibax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+    "id": 13,
+    "name": "weedle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
     "types": [
-      "dragon",
-      "ice"
+      "bug",
+      "poison"
     ],
-    "totalStats": 320,
+    "totalStats": 195,
     "grade": "N",
-    "pulledAt": "2026-10-13T15:51:48.631Z"
+    "pulledAt": "2026-10-13T21:09:21.543Z"
   },
   "pulls": [
+    {
+      "id": 13,
+      "name": "weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-10-13T21:09:21.543Z"
+    },
     {
       "id": 996,
       "name": "frigibax",
@@ -117,18 +129,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-11T14:01:25.341Z"
-    },
-    {
-      "id": 688,
-      "name": "binacle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 306,
-      "grade": "N",
-      "pulledAt": "2026-10-11T07:00:34.959Z"
     }
   ],
   "pokemon": {
@@ -163,6 +163,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T17:01:58.082Z",
       "lastPulledAt": "2026-09-21T17:01:58.082Z"
+    },
+    "13": {
+      "id": 13,
+      "name": "weedle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-10-13T21:09:21.543Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T21:09:21.543Z",
+      "lastPulledAt": "2026-10-13T21:09:21.543Z"
     },
     "19": {
       "id": 19,

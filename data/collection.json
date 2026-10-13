@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 113,
-  "updatedAt": "2026-10-12T19:00:22.799Z",
+  "totalPulls": 114,
+  "updatedAt": "2026-10-13T01:19:10.056Z",
   "lastPull": {
-    "id": 500,
-    "name": "emboar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "id": 77,
+    "name": "ponyta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
     "types": [
-      "fire",
-      "fighting"
+      "fire"
     ],
-    "totalStats": 528,
-    "grade": "SR",
-    "pulledAt": "2026-10-12T19:00:22.799Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-13T01:19:10.056Z"
   },
   "pulls": [
+    {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-13T01:19:10.056Z"
+    },
     {
       "id": 500,
       "name": "emboar",
@@ -118,17 +128,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-10T21:57:41.337Z"
-    },
-    {
-      "id": 713,
-      "name": "avalugg",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 514,
-      "grade": "SR",
-      "pulledAt": "2026-10-10T18:26:38.088Z"
     }
   ],
   "pokemon": {
@@ -273,6 +272,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T11:01:14.115Z",
       "lastPulledAt": "2026-09-21T11:01:14.115Z"
+    },
+    "77": {
+      "id": 77,
+      "name": "ponyta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-13T01:19:10.056Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T01:19:10.056Z",
+      "lastPulledAt": "2026-10-13T01:19:10.056Z"
     },
     "86": {
       "id": 86,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-10-13T07:56:20.852Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-10-13T15:51:48.631Z",
   "lastPull": {
-    "id": 671,
-    "name": "florges",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
+    "id": 996,
+    "name": "frigibax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
     "types": [
-      "fairy"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 552,
-    "grade": "SR",
-    "pulledAt": "2026-10-13T07:56:20.852Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-13T15:51:48.631Z"
   },
   "pulls": [
+    {
+      "id": 996,
+      "name": "frigibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-13T15:51:48.631Z"
+    },
     {
       "id": 671,
       "name": "florges",
@@ -116,17 +129,6 @@
       "totalStats": 306,
       "grade": "N",
       "pulledAt": "2026-10-11T07:00:34.959Z"
-    },
-    {
-      "id": 865,
-      "name": "sirfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T00:51:49.053Z"
     }
   ],
   "pokemon": {
@@ -1772,6 +1774,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:13:19.710Z",
       "lastPulledAt": "2026-10-04T18:13:19.710Z"
+    },
+    "996": {
+      "id": 996,
+      "name": "frigibax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-13T15:51:48.631Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T15:51:48.631Z",
+      "lastPulledAt": "2026-10-13T15:51:48.631Z"
     },
     "1004": {
       "id": 1004,

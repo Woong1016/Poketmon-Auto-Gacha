@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-14T00:19:45.189Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-14T05:09:09.132Z",
   "lastPull": {
-    "id": 880,
-    "name": "dracozolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+    "id": 869,
+    "name": "alcremie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
     "types": [
-      "electric",
-      "dragon"
+      "fairy"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-14T00:19:45.189Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-14T05:09:09.132Z"
   },
   "pulls": [
+    {
+      "id": 869,
+      "name": "alcremie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-14T05:09:09.132Z"
+    },
     {
       "id": 880,
       "name": "dracozolt",
@@ -118,18 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-11T22:46:50.831Z"
-    },
-    {
-      "id": 437,
-      "name": "bronzong",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T18:52:44.945Z"
     }
   ],
   "pokemon": {
@@ -1587,6 +1585,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T13:07:18.880Z",
       "lastPulledAt": "2026-09-29T13:07:18.880Z"
+    },
+    "869": {
+      "id": 869,
+      "name": "alcremie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-14T05:09:09.132Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T05:09:09.132Z",
+      "lastPulledAt": "2026-10-14T05:09:09.132Z"
     },
     "879": {
       "id": 879,

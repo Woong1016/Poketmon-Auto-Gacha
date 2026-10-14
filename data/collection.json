@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 117,
-  "updatedAt": "2026-10-13T21:09:21.543Z",
+  "totalPulls": 118,
+  "updatedAt": "2026-10-14T00:19:45.189Z",
   "lastPull": {
-    "id": 13,
-    "name": "weedle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "id": 880,
+    "name": "dracozolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
     "types": [
-      "bug",
-      "poison"
+      "electric",
+      "dragon"
     ],
-    "totalStats": 195,
-    "grade": "N",
-    "pulledAt": "2026-10-13T21:09:21.543Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-14T00:19:45.189Z"
   },
   "pulls": [
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T00:19:45.189Z"
+    },
     {
       "id": 13,
       "name": "weedle",
@@ -118,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-11T18:52:44.945Z"
-    },
-    {
-      "id": 263,
-      "name": "zigzagoon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-10-11T14:01:25.341Z"
     }
   ],
   "pokemon": {
@@ -1601,6 +1602,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:06:14.741Z",
       "lastPulledAt": "2026-09-27T19:06:14.741Z"
+    },
+    "880": {
+      "id": 880,
+      "name": "dracozolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-14T00:19:45.189Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T00:19:45.189Z",
+      "lastPulledAt": "2026-10-14T00:19:45.189Z"
     },
     "900": {
       "id": 900,

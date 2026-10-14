@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 119,
-  "updatedAt": "2026-10-14T05:09:09.132Z",
+  "totalPulls": 120,
+  "updatedAt": "2026-10-14T10:15:56.897Z",
   "lastPull": {
-    "id": 869,
-    "name": "alcremie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
+    "id": 432,
+    "name": "purugly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
     "types": [
-      "fairy"
+      "normal"
     ],
-    "totalStats": 495,
+    "totalStats": 452,
     "grade": "R",
-    "pulledAt": "2026-10-14T05:09:09.132Z"
+    "pulledAt": "2026-10-14T10:15:56.897Z"
   },
   "pulls": [
+    {
+      "id": 432,
+      "name": "purugly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-14T10:15:56.897Z"
+    },
     {
       "id": 869,
       "name": "alcremie",
@@ -116,18 +127,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-10-12T01:51:58.341Z"
-    },
-    {
-      "id": 87,
-      "name": "dewgong",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
-      "types": [
-        "water",
-        "ice"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-11T22:46:50.831Z"
     }
   ],
   "pokemon": {
@@ -918,6 +917,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T21:50:04.890Z",
       "lastPulledAt": "2026-09-24T21:50:04.890Z"
+    },
+    "432": {
+      "id": 432,
+      "name": "purugly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-14T10:15:56.897Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T10:15:56.897Z",
+      "lastPulledAt": "2026-10-14T10:15:56.897Z"
     },
     "434": {
       "id": 434,

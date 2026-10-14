@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 121,
-  "updatedAt": "2026-10-14T15:14:31.101Z",
+  "totalPulls": 122,
+  "updatedAt": "2026-10-14T19:29:46.198Z",
   "lastPull": {
-    "id": 651,
-    "name": "quilladin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "id": 287,
+    "name": "slakoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
     "types": [
-      "grass"
+      "normal"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-14T15:14:31.101Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-10-14T19:29:46.198Z"
   },
   "pulls": [
+    {
+      "id": 287,
+      "name": "slakoth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-14T19:29:46.198Z"
+    },
     {
       "id": 651,
       "name": "quilladin",
@@ -116,17 +127,6 @@
       "totalStats": 528,
       "grade": "SR",
       "pulledAt": "2026-10-12T19:00:22.799Z"
-    },
-    {
-      "id": 514,
-      "name": "simisear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-10-12T09:02:22.218Z"
     }
   ],
   "pokemon": {
@@ -656,6 +656,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T19:32:13.963Z",
       "lastPulledAt": "2026-10-03T19:32:13.963Z"
+    },
+    "287": {
+      "id": 287,
+      "name": "slakoth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-14T19:29:46.198Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T19:29:46.198Z",
+      "lastPulledAt": "2026-10-14T19:29:46.198Z"
     },
     "303": {
       "id": 303,

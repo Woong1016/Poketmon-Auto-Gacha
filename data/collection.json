@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 120,
-  "updatedAt": "2026-10-14T10:15:56.897Z",
+  "totalPulls": 121,
+  "updatedAt": "2026-10-14T15:14:31.101Z",
   "lastPull": {
-    "id": 432,
-    "name": "purugly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+    "id": 651,
+    "name": "quilladin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 452,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-14T10:15:56.897Z"
+    "pulledAt": "2026-10-14T15:14:31.101Z"
   },
   "pulls": [
+    {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-14T15:14:31.101Z"
+    },
     {
       "id": 432,
       "name": "purugly",
@@ -116,17 +127,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-10-12T09:02:22.218Z"
-    },
-    {
-      "id": 382,
-      "name": "kyogre",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-10-12T01:51:58.341Z"
     }
   ],
   "pokemon": {
@@ -1291,6 +1291,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:25:45.069Z",
       "lastPulledAt": "2026-10-03T22:25:45.069Z"
+    },
+    "651": {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-14T15:14:31.101Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T15:14:31.101Z",
+      "lastPulledAt": "2026-10-14T15:14:31.101Z"
     },
     "656": {
       "id": 656,

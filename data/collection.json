@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-15T15:18:06.509Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-15T19:16:40.185Z",
   "lastPull": {
-    "id": 949,
-    "name": "toedscruel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+    "id": 161,
+    "name": "sentret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
     "types": [
-      "ground",
-      "grass"
+      "normal"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T15:18:06.509Z"
+    "totalStats": 215,
+    "grade": "N",
+    "pulledAt": "2026-10-15T19:16:40.185Z"
   },
   "pulls": [
+    {
+      "id": 161,
+      "name": "sentret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 215,
+      "grade": "N",
+      "pulledAt": "2026-10-15T19:16:40.185Z"
+    },
     {
       "id": 949,
       "name": "toedscruel",
@@ -115,18 +125,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-14T05:09:09.132Z"
-    },
-    {
-      "id": 880,
-      "name": "dracozolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
-      "types": [
-        "electric",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T00:19:45.189Z"
     }
   ],
   "pokemon": {
@@ -487,6 +485,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T04:31:33.600Z",
       "lastPulledAt": "2026-09-24T04:31:33.600Z"
+    },
+    "161": {
+      "id": 161,
+      "name": "sentret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 215,
+      "grade": "N",
+      "pulledAt": "2026-10-15T19:16:40.185Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T19:16:40.185Z",
+      "lastPulledAt": "2026-10-15T19:16:40.185Z"
     },
     "167": {
       "id": 167,

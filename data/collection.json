@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 124,
-  "updatedAt": "2026-10-15T00:52:23.297Z",
+  "totalPulls": 125,
+  "updatedAt": "2026-10-15T05:46:25.714Z",
   "lastPull": {
-    "id": 896,
-    "name": "glastrier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
+    "id": 105,
+    "name": "marowak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
     "types": [
-      "ice"
+      "ground"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T00:52:23.297Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-15T05:46:25.714Z"
   },
   "pulls": [
+    {
+      "id": 105,
+      "name": "marowak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-15T05:46:25.714Z"
+    },
     {
       "id": 896,
       "name": "glastrier",
@@ -116,17 +127,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-13T15:51:48.631Z"
-    },
-    {
-      "id": 671,
-      "name": "florges",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 552,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T07:56:20.852Z"
     }
   ],
   "pokemon": {
@@ -364,6 +364,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T06:12:45.167Z",
       "lastPulledAt": "2026-09-29T06:12:45.167Z"
+    },
+    "105": {
+      "id": 105,
+      "name": "marowak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-15T05:46:25.714Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T05:46:25.714Z",
+      "lastPulledAt": "2026-10-15T05:46:25.714Z"
     },
     "106": {
       "id": 106,

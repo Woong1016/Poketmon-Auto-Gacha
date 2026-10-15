@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-10-15T19:16:40.185Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-10-15T22:29:39.744Z",
   "lastPull": {
-    "id": 161,
-    "name": "sentret",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+    "id": 357,
+    "name": "tropius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
     "types": [
-      "normal"
+      "grass",
+      "flying"
     ],
-    "totalStats": 215,
-    "grade": "N",
-    "pulledAt": "2026-10-15T19:16:40.185Z"
+    "totalStats": 460,
+    "grade": "R",
+    "pulledAt": "2026-10-15T22:29:39.744Z"
   },
   "pulls": [
+    {
+      "id": 357,
+      "name": "tropius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-15T22:29:39.744Z"
+    },
     {
       "id": 161,
       "name": "sentret",
@@ -114,17 +127,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-10-14T10:15:56.897Z"
-    },
-    {
-      "id": 869,
-      "name": "alcremie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-14T05:09:09.132Z"
     }
   ],
   "pokemon": {
@@ -807,6 +809,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T23:54:21.096Z",
       "lastPulledAt": "2026-09-26T23:54:21.096Z"
+    },
+    "357": {
+      "id": 357,
+      "name": "tropius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-15T22:29:39.744Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T22:29:39.744Z",
+      "lastPulledAt": "2026-10-15T22:29:39.744Z"
     },
     "368": {
       "id": 368,

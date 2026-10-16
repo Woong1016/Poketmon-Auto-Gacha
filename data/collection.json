@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 129,
-  "updatedAt": "2026-10-15T22:29:39.744Z",
+  "totalPulls": 130,
+  "updatedAt": "2026-10-16T00:42:06.099Z",
   "lastPull": {
-    "id": 357,
-    "name": "tropius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "id": 625,
+    "name": "bisharp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
     "types": [
-      "grass",
-      "flying"
+      "dark",
+      "steel"
     ],
-    "totalStats": 460,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-15T22:29:39.744Z"
+    "pulledAt": "2026-10-16T00:42:06.099Z"
   },
   "pulls": [
+    {
+      "id": 625,
+      "name": "bisharp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-16T00:42:06.099Z"
+    },
     {
       "id": 357,
       "name": "tropius",
@@ -116,17 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-14T15:14:31.101Z"
-    },
-    {
-      "id": 432,
-      "name": "purugly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-10-14T10:15:56.897Z"
     }
   ],
   "pokemon": {
@@ -1320,6 +1321,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T23:14:53.285Z",
       "lastPulledAt": "2026-10-08T23:14:53.285Z"
+    },
+    "625": {
+      "id": 625,
+      "name": "bisharp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-16T00:42:06.099Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T00:42:06.099Z",
+      "lastPulledAt": "2026-10-16T00:42:06.099Z"
     },
     "628": {
       "id": 628,

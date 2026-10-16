@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-16T18:27:10.928Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-16T21:37:48.096Z",
   "lastPull": {
-    "id": 164,
-    "name": "noctowl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "id": 231,
+    "name": "phanpy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
     "types": [
-      "normal",
-      "flying"
+      "ground"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-10-16T18:27:10.928Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-16T21:37:48.096Z"
   },
   "pulls": [
+    {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-16T21:37:48.096Z"
+    },
     {
       "id": 164,
       "name": "noctowl",
@@ -118,17 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-15T10:22:55.526Z"
-    },
-    {
-      "id": 105,
-      "name": "marowak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-10-15T05:46:25.714Z"
     }
   ],
   "pokemon": {
@@ -628,6 +627,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T21:57:41.337Z",
       "lastPulledAt": "2026-10-10T21:57:41.337Z"
+    },
+    "231": {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-16T21:37:48.096Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T21:37:48.096Z",
+      "lastPulledAt": "2026-10-16T21:37:48.096Z"
     },
     "233": {
       "id": 233,

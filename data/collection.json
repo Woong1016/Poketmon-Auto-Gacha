@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-16T14:44:06.618Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-16T18:27:10.928Z",
   "lastPull": {
-    "id": 54,
-    "name": "psyduck",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "id": 164,
+    "name": "noctowl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
     "types": [
-      "water"
+      "normal",
+      "flying"
     ],
-    "totalStats": 320,
-    "grade": "N",
-    "pulledAt": "2026-10-16T14:44:06.618Z"
+    "totalStats": 452,
+    "grade": "R",
+    "pulledAt": "2026-10-16T18:27:10.928Z"
   },
   "pulls": [
+    {
+      "id": 164,
+      "name": "noctowl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-16T18:27:10.928Z"
+    },
     {
       "id": 54,
       "name": "psyduck",
@@ -116,17 +129,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-10-15T05:46:25.714Z"
-    },
-    {
-      "id": 896,
-      "name": "glastrier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T00:52:23.297Z"
     }
   ],
   "pokemon": {
@@ -517,6 +519,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T19:16:40.185Z",
       "lastPulledAt": "2026-10-15T19:16:40.185Z"
+    },
+    "164": {
+      "id": 164,
+      "name": "noctowl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-16T18:27:10.928Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T18:27:10.928Z",
+      "lastPulledAt": "2026-10-16T18:27:10.928Z"
     },
     "167": {
       "id": 167,

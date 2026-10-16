@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 130,
-  "updatedAt": "2026-10-16T00:42:06.099Z",
+  "totalPulls": 131,
+  "updatedAt": "2026-10-16T05:10:20.408Z",
   "lastPull": {
-    "id": 625,
-    "name": "bisharp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "id": 911,
+    "name": "skeledirge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
     "types": [
-      "dark",
-      "steel"
+      "fire",
+      "ghost"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-16T00:42:06.099Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-16T05:10:20.408Z"
   },
   "pulls": [
+    {
+      "id": 911,
+      "name": "skeledirge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T05:10:20.408Z"
+    },
     {
       "id": 625,
       "name": "bisharp",
@@ -117,17 +129,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-10-14T19:29:46.198Z"
-    },
-    {
-      "id": 651,
-      "name": "quilladin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-14T15:14:31.101Z"
     }
   ],
   "pokemon": {
@@ -1844,10 +1845,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-29T18:38:40.729Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T18:38:40.729Z",
-      "lastPulledAt": "2026-09-29T18:38:40.729Z"
+      "lastPulledAt": "2026-10-16T05:10:20.408Z"
     },
     "923": {
       "id": 923,

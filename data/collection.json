@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-16T05:10:20.408Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-16T09:56:37.422Z",
   "lastPull": {
-    "id": 911,
-    "name": "skeledirge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+    "id": 379,
+    "name": "registeel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
     "types": [
-      "fire",
-      "ghost"
+      "steel"
     ],
-    "totalStats": 530,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-16T05:10:20.408Z"
+    "pulledAt": "2026-10-16T09:56:37.422Z"
   },
   "pulls": [
+    {
+      "id": 379,
+      "name": "registeel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T09:56:37.422Z"
+    },
     {
       "id": 911,
       "name": "skeledirge",
@@ -118,17 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-14T22:34:56.825Z"
-    },
-    {
-      "id": 287,
-      "name": "slakoth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-10-14T19:29:46.198Z"
     }
   ],
   "pokemon": {
@@ -858,6 +857,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T19:28:14.713Z",
       "lastPulledAt": "2026-09-25T19:28:14.713Z"
+    },
+    "379": {
+      "id": 379,
+      "name": "registeel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-16T09:56:37.422Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T09:56:37.422Z",
+      "lastPulledAt": "2026-10-16T09:56:37.422Z"
     },
     "382": {
       "id": 382,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-16T21:37:48.096Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-16T23:54:16.862Z",
   "lastPull": {
-    "id": 231,
-    "name": "phanpy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "id": 210,
+    "name": "granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
     "types": [
-      "ground"
+      "fairy"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-16T21:37:48.096Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-16T23:54:16.862Z"
   },
   "pulls": [
+    {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-16T23:54:16.862Z"
+    },
     {
       "id": 231,
       "name": "phanpy",
@@ -117,17 +128,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-15T15:18:06.509Z"
-    },
-    {
-      "id": 182,
-      "name": "bellossom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-15T10:22:55.526Z"
     }
   ],
   "pokemon": {
@@ -591,10 +591,10 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-27T10:33:45.275Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:33:45.275Z",
-      "lastPulledAt": "2026-09-27T10:33:45.275Z"
+      "lastPulledAt": "2026-10-16T23:54:16.862Z"
     },
     "221": {
       "id": 221,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-16T09:56:37.422Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-16T14:44:06.618Z",
   "lastPull": {
-    "id": 379,
-    "name": "registeel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "id": 54,
+    "name": "psyduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
     "types": [
-      "steel"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-16T09:56:37.422Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-16T14:44:06.618Z"
   },
   "pulls": [
+    {
+      "id": 54,
+      "name": "psyduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-16T14:44:06.618Z"
+    },
     {
       "id": 379,
       "name": "registeel",
@@ -116,18 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-15T00:52:23.297Z"
-    },
-    {
-      "id": 306,
-      "name": "aggron",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T22:34:56.825Z"
     }
   ],
   "pokemon": {
@@ -257,6 +256,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T21:39:08.277Z",
       "lastPulledAt": "2026-10-04T21:39:08.277Z"
+    },
+    "54": {
+      "id": 54,
+      "name": "psyduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-16T14:44:06.618Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T14:44:06.618Z",
+      "lastPulledAt": "2026-10-16T14:44:06.618Z"
     },
     "57": {
       "id": 57,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-17T04:08:33.185Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-17T08:35:11.612Z",
   "lastPull": {
-    "id": 54,
-    "name": "psyduck",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "id": 633,
+    "name": "deino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
     "types": [
-      "water"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 320,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-17T04:08:33.185Z"
+    "pulledAt": "2026-10-17T08:35:11.612Z"
   },
   "pulls": [
+    {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-17T08:35:11.612Z"
+    },
     {
       "id": 54,
       "name": "psyduck",
@@ -116,17 +129,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-15T22:29:39.744Z"
-    },
-    {
-      "id": 161,
-      "name": "sentret",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 215,
-      "grade": "N",
-      "pulledAt": "2026-10-15T19:16:40.185Z"
     }
   ],
   "pokemon": {
@@ -1413,6 +1415,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T23:11:06.301Z",
       "lastPulledAt": "2026-10-07T06:11:28.836Z"
+    },
+    "633": {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-17T08:35:11.612Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T08:35:11.612Z",
+      "lastPulledAt": "2026-10-17T08:35:11.612Z"
     },
     "641": {
       "id": 641,

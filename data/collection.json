@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 138,
-  "updatedAt": "2026-10-17T08:35:11.612Z",
+  "totalPulls": 139,
+  "updatedAt": "2026-10-17T12:24:36.883Z",
   "lastPull": {
-    "id": 633,
-    "name": "deino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "id": 465,
+    "name": "tangrowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
     "types": [
-      "dark",
-      "dragon"
+      "grass"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-17T08:35:11.612Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-17T12:24:36.883Z"
   },
   "pulls": [
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T12:24:36.883Z"
+    },
     {
       "id": 633,
       "name": "deino",
@@ -117,18 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-16T00:42:06.099Z"
-    },
-    {
-      "id": 357,
-      "name": "tropius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-15T22:29:39.744Z"
     }
   ],
   "pokemon": {
@@ -1181,6 +1179,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T18:45:00.712Z",
       "lastPulledAt": "2026-10-02T18:45:00.712Z"
+    },
+    "465": {
+      "id": 465,
+      "name": "tangrowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T12:24:36.883Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T12:24:36.883Z",
+      "lastPulledAt": "2026-10-17T12:24:36.883Z"
     },
     "476": {
       "id": 476,

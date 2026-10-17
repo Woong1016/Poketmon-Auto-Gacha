@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 140,
-  "updatedAt": "2026-10-17T15:52:11.676Z",
+  "totalPulls": 141,
+  "updatedAt": "2026-10-17T18:22:32.754Z",
   "lastPull": {
-    "id": 278,
-    "name": "wingull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "id": 129,
+    "name": "magikarp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
     "types": [
-      "water",
-      "flying"
+      "water"
     ],
-    "totalStats": 270,
+    "totalStats": 200,
     "grade": "N",
-    "pulledAt": "2026-10-17T15:52:11.676Z"
+    "pulledAt": "2026-10-17T18:22:32.754Z"
   },
   "pulls": [
+    {
+      "id": 129,
+      "name": "magikarp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-17T18:22:32.754Z"
+    },
     {
       "id": 278,
       "name": "wingull",
@@ -116,18 +126,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-16T09:56:37.422Z"
-    },
-    {
-      "id": 911,
-      "name": "skeledirge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T05:10:20.408Z"
     }
   ],
   "pokemon": {
@@ -426,6 +424,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T00:11:55.744Z",
       "lastPulledAt": "2026-10-05T00:11:55.744Z"
+    },
+    "129": {
+      "id": 129,
+      "name": "magikarp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-10-17T18:22:32.754Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T18:22:32.754Z",
+      "lastPulledAt": "2026-10-17T18:22:32.754Z"
     },
     "141": {
       "id": 141,

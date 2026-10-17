@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 141,
-  "updatedAt": "2026-10-17T18:22:32.754Z",
+  "totalPulls": 142,
+  "updatedAt": "2026-10-17T20:52:30.720Z",
   "lastPull": {
-    "id": 129,
-    "name": "magikarp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "id": 762,
+    "name": "steenee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 200,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-10-17T18:22:32.754Z"
+    "pulledAt": "2026-10-17T20:52:30.720Z"
   },
   "pulls": [
+    {
+      "id": 762,
+      "name": "steenee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-17T20:52:30.720Z"
+    },
     {
       "id": 129,
       "name": "magikarp",
@@ -115,17 +126,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-16T14:44:06.618Z"
-    },
-    {
-      "id": 379,
-      "name": "registeel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T09:56:37.422Z"
     }
   ],
   "pokemon": {
@@ -1737,6 +1737,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T18:35:57.835Z",
       "lastPulledAt": "2026-09-26T18:35:57.835Z"
+    },
+    "762": {
+      "id": 762,
+      "name": "steenee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-17T20:52:30.720Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T20:52:30.720Z",
+      "lastPulledAt": "2026-10-17T20:52:30.720Z"
     },
     "768": {
       "id": 768,

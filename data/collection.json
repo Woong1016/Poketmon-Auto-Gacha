@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-18T13:55:52.904Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-18T17:14:37.322Z",
   "lastPull": {
-    "id": 117,
-    "name": "seadra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "id": 593,
+    "name": "jellicent-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
     "types": [
-      "water"
+      "water",
+      "ghost"
     ],
-    "totalStats": 440,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-10-18T13:55:52.904Z"
+    "pulledAt": "2026-10-18T17:14:37.322Z"
   },
   "pulls": [
+    {
+      "id": 593,
+      "name": "jellicent-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-18T17:14:37.322Z"
+    },
     {
       "id": 117,
       "name": "seadra",
@@ -116,18 +129,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-17T12:24:36.883Z"
-    },
-    {
-      "id": 633,
-      "name": "deino",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-17T08:35:11.612Z"
     }
   ],
   "pokemon": {
@@ -1474,6 +1475,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T23:14:53.285Z",
       "lastPulledAt": "2026-10-08T23:14:53.285Z"
+    },
+    "593": {
+      "id": 593,
+      "name": "jellicent-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-18T17:14:37.322Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T17:14:37.322Z",
+      "lastPulledAt": "2026-10-18T17:14:37.322Z"
     },
     "625": {
       "id": 625,

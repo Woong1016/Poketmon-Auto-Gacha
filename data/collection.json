@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 146,
-  "updatedAt": "2026-10-18T09:57:15.962Z",
+  "totalPulls": 147,
+  "updatedAt": "2026-10-18T13:55:52.904Z",
   "lastPull": {
-    "id": 294,
-    "name": "loudred",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+    "id": 117,
+    "name": "seadra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-18T09:57:15.962Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-10-18T13:55:52.904Z"
   },
   "pulls": [
+    {
+      "id": 117,
+      "name": "seadra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-18T13:55:52.904Z"
+    },
     {
       "id": 294,
       "name": "loudred",
@@ -117,17 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-17T08:35:11.612Z"
-    },
-    {
-      "id": 54,
-      "name": "psyduck",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-17T04:08:33.185Z"
     }
   ],
   "pokemon": {
@@ -410,6 +410,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:17:55.384Z",
       "lastPulledAt": "2026-09-27T15:17:55.384Z"
+    },
+    "117": {
+      "id": 117,
+      "name": "seadra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-18T13:55:52.904Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T13:55:52.904Z",
+      "lastPulledAt": "2026-10-18T13:55:52.904Z"
     },
     "121": {
       "id": 121,

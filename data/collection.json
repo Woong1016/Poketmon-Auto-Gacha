@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-18T19:28:57.371Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-18T21:48:04.025Z",
   "lastPull": {
-    "id": 331,
-    "name": "cacnea",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "id": 214,
+    "name": "heracross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
     "types": [
-      "grass"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-10-18T19:28:57.371Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T21:48:04.025Z"
   },
   "pulls": [
+    {
+      "id": 214,
+      "name": "heracross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T21:48:04.025Z"
+    },
     {
       "id": 331,
       "name": "cacnea",
@@ -116,18 +129,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-10-17T18:22:32.754Z"
-    },
-    {
-      "id": 278,
-      "name": "wingull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-10-17T15:52:11.676Z"
     }
   ],
   "pokemon": {
@@ -625,6 +626,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:33:45.275Z",
       "lastPulledAt": "2026-10-16T23:54:16.862Z"
+    },
+    "214": {
+      "id": 214,
+      "name": "heracross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T21:48:04.025Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T21:48:04.025Z",
+      "lastPulledAt": "2026-10-18T21:48:04.025Z"
     },
     "221": {
       "id": 221,

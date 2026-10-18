@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 145,
-  "updatedAt": "2026-10-18T05:42:33.070Z",
+  "totalPulls": 146,
+  "updatedAt": "2026-10-18T09:57:15.962Z",
   "lastPull": {
-    "id": 537,
-    "name": "seismitoad",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+    "id": 294,
+    "name": "loudred",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
     "types": [
-      "water",
-      "ground"
+      "normal"
     ],
-    "totalStats": 509,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T05:42:33.070Z"
+    "totalStats": 360,
+    "grade": "N",
+    "pulledAt": "2026-10-18T09:57:15.962Z"
   },
   "pulls": [
+    {
+      "id": 294,
+      "name": "loudred",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-18T09:57:15.962Z"
+    },
     {
       "id": 537,
       "name": "seismitoad",
@@ -118,17 +128,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-17T04:08:33.185Z"
-    },
-    {
-      "id": 210,
-      "name": "granbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-16T23:54:16.862Z"
     }
   ],
   "pokemon": {
@@ -795,6 +794,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T19:29:46.198Z",
       "lastPulledAt": "2026-10-14T19:29:46.198Z"
+    },
+    "294": {
+      "id": 294,
+      "name": "loudred",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-18T09:57:15.962Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T09:57:15.962Z",
+      "lastPulledAt": "2026-10-18T09:57:15.962Z"
     },
     "303": {
       "id": 303,

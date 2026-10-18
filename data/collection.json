@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-10-18T17:14:37.322Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-10-18T19:28:57.371Z",
   "lastPull": {
-    "id": 593,
-    "name": "jellicent-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "id": 331,
+    "name": "cacnea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
     "types": [
-      "water",
-      "ghost"
+      "grass"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-18T17:14:37.322Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-10-18T19:28:57.371Z"
   },
   "pulls": [
+    {
+      "id": 331,
+      "name": "cacnea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-18T19:28:57.371Z"
+    },
     {
       "id": 593,
       "name": "jellicent-male",
@@ -118,17 +128,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-17T15:52:11.676Z"
-    },
-    {
-      "id": 465,
-      "name": "tangrowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T12:24:36.883Z"
     }
   ],
   "pokemon": {
@@ -888,6 +887,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T17:50:57.437Z",
       "lastPulledAt": "2026-09-23T17:50:57.437Z"
+    },
+    "331": {
+      "id": 331,
+      "name": "cacnea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-18T19:28:57.371Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T19:28:57.371Z",
+      "lastPulledAt": "2026-10-18T19:28:57.371Z"
     },
     "350": {
       "id": 350,

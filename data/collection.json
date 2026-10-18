@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-10-18T21:48:04.025Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-10-18T23:46:35.942Z",
   "lastPull": {
-    "id": 214,
-    "name": "heracross",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "id": 931,
+    "name": "squawkabilly-green-plumage",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
     "types": [
-      "bug",
-      "fighting"
+      "normal",
+      "flying"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T21:48:04.025Z"
+    "totalStats": 417,
+    "grade": "R",
+    "pulledAt": "2026-10-18T23:46:35.942Z"
   },
   "pulls": [
+    {
+      "id": 931,
+      "name": "squawkabilly-green-plumage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 417,
+      "grade": "R",
+      "pulledAt": "2026-10-18T23:46:35.942Z"
+    },
     {
       "id": 214,
       "name": "heracross",
@@ -118,17 +130,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-17T20:52:30.720Z"
-    },
-    {
-      "id": 129,
-      "name": "magikarp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 200,
-      "grade": "N",
-      "pulledAt": "2026-10-17T18:22:32.754Z"
     }
   ],
   "pokemon": {
@@ -2127,6 +2128,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T19:32:35.821Z",
       "lastPulledAt": "2026-10-07T19:32:35.821Z"
+    },
+    "931": {
+      "id": 931,
+      "name": "squawkabilly-green-plumage",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 417,
+      "grade": "R",
+      "pulledAt": "2026-10-18T23:46:35.942Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T23:46:35.942Z",
+      "lastPulledAt": "2026-10-18T23:46:35.942Z"
     },
     "944": {
       "id": 944,

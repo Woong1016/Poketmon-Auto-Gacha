@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 154,
-  "updatedAt": "2026-10-19T14:59:49.004Z",
+  "totalPulls": 155,
+  "updatedAt": "2026-10-19T20:33:00.052Z",
   "lastPull": {
-    "id": 89,
-    "name": "muk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "id": 471,
+    "name": "glaceon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
     "types": [
-      "poison"
+      "ice"
     ],
-    "totalStats": 500,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-10-19T14:59:49.004Z"
+    "pulledAt": "2026-10-19T20:33:00.052Z"
   },
   "pulls": [
+    {
+      "id": 471,
+      "name": "glaceon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T20:33:00.052Z"
+    },
     {
       "id": 89,
       "name": "muk",
@@ -116,18 +127,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-18T09:57:15.962Z"
-    },
-    {
-      "id": 537,
-      "name": "seismitoad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 509,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T05:42:33.070Z"
     }
   ],
   "pokemon": {
@@ -1302,6 +1301,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T12:24:36.883Z",
       "lastPulledAt": "2026-10-17T12:24:36.883Z"
+    },
+    "471": {
+      "id": 471,
+      "name": "glaceon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T20:33:00.052Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T20:33:00.052Z",
+      "lastPulledAt": "2026-10-19T20:33:00.052Z"
     },
     "476": {
       "id": 476,

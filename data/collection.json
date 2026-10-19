@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 155,
-  "updatedAt": "2026-10-19T20:33:00.052Z",
+  "totalPulls": 156,
+  "updatedAt": "2026-10-19T23:55:50.960Z",
   "lastPull": {
-    "id": 471,
-    "name": "glaceon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
+    "id": 51,
+    "name": "dugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
     "types": [
-      "ice"
+      "ground"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-19T20:33:00.052Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-10-19T23:55:50.960Z"
   },
   "pulls": [
+    {
+      "id": 51,
+      "name": "dugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-19T23:55:50.960Z"
+    },
     {
       "id": 471,
       "name": "glaceon",
@@ -116,17 +127,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-18T13:55:52.904Z"
-    },
-    {
-      "id": 294,
-      "name": "loudred",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-18T09:57:15.962Z"
     }
   ],
   "pokemon": {
@@ -256,6 +256,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T21:39:08.277Z",
       "lastPulledAt": "2026-10-04T21:39:08.277Z"
+    },
+    "51": {
+      "id": 51,
+      "name": "dugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-10-19T23:55:50.960Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T23:55:50.960Z",
+      "lastPulledAt": "2026-10-19T23:55:50.960Z"
     },
     "54": {
       "id": 54,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 153,
-  "updatedAt": "2026-10-19T07:39:12.639Z",
+  "totalPulls": 154,
+  "updatedAt": "2026-10-19T14:59:49.004Z",
   "lastPull": {
-    "id": 601,
-    "name": "klinklang",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "id": 89,
+    "name": "muk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
     "types": [
-      "steel"
+      "poison"
     ],
-    "totalStats": 520,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-19T07:39:12.639Z"
+    "pulledAt": "2026-10-19T14:59:49.004Z"
   },
   "pulls": [
+    {
+      "id": 89,
+      "name": "muk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T14:59:49.004Z"
+    },
     {
       "id": 601,
       "name": "klinklang",
@@ -117,18 +128,6 @@
       "totalStats": 509,
       "grade": "SR",
       "pulledAt": "2026-10-18T05:42:33.070Z"
-    },
-    {
-      "id": 537,
-      "name": "seismitoad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 509,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T00:55:33.821Z"
     }
   ],
   "pokemon": {
@@ -350,6 +349,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T22:46:50.831Z",
       "lastPulledAt": "2026-10-11T22:46:50.831Z"
+    },
+    "89": {
+      "id": 89,
+      "name": "muk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T14:59:49.004Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T14:59:49.004Z",
+      "lastPulledAt": "2026-10-19T14:59:49.004Z"
     },
     "90": {
       "id": 90,

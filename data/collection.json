@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 152,
-  "updatedAt": "2026-10-19T01:52:33.631Z",
+  "totalPulls": 153,
+  "updatedAt": "2026-10-19T07:39:12.639Z",
   "lastPull": {
-    "id": 937,
-    "name": "ceruledge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "id": 601,
+    "name": "klinklang",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
     "types": [
-      "fire",
-      "ghost"
+      "steel"
     ],
-    "totalStats": 525,
+    "totalStats": 520,
     "grade": "SR",
-    "pulledAt": "2026-10-19T01:52:33.631Z"
+    "pulledAt": "2026-10-19T07:39:12.639Z"
   },
   "pulls": [
+    {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T07:39:12.639Z"
+    },
     {
       "id": 937,
       "name": "ceruledge",
@@ -119,18 +129,6 @@
       "totalStats": 509,
       "grade": "SR",
       "pulledAt": "2026-10-18T00:55:33.821Z"
-    },
-    {
-      "id": 701,
-      "name": "hawlucha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
-      "types": [
-        "fighting",
-        "flying"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T22:59:40.864Z"
     }
   ],
   "pokemon": {
@@ -1524,6 +1522,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T17:14:37.322Z",
       "lastPulledAt": "2026-10-18T17:14:37.322Z"
+    },
+    "601": {
+      "id": 601,
+      "name": "klinklang",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T07:39:12.639Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T07:39:12.639Z",
+      "lastPulledAt": "2026-10-19T07:39:12.639Z"
     },
     "625": {
       "id": 625,

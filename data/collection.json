@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-20T18:41:34.896Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-20T21:56:22.818Z",
   "lastPull": {
-    "id": 811,
-    "name": "thwackey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "id": 332,
+    "name": "cacturne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
     "types": [
-      "grass"
+      "grass",
+      "dark"
     ],
-    "totalStats": 420,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-10-20T18:41:34.896Z"
+    "pulledAt": "2026-10-20T21:56:22.818Z"
   },
   "pulls": [
+    {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-20T21:56:22.818Z"
+    },
     {
       "id": 811,
       "name": "thwackey",
@@ -114,18 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-19T01:52:33.631Z"
-    },
-    {
-      "id": 931,
-      "name": "squawkabilly-green-plumage",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 417,
-      "grade": "R",
-      "pulledAt": "2026-10-18T23:46:35.942Z"
     }
   ],
   "pokemon": {
@@ -961,6 +962,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T19:28:57.371Z",
       "lastPulledAt": "2026-10-18T19:28:57.371Z"
+    },
+    "332": {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-20T21:56:22.818Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T21:56:22.818Z",
+      "lastPulledAt": "2026-10-20T21:56:22.818Z"
     },
     "350": {
       "id": 350,

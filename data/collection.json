@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 156,
-  "updatedAt": "2026-10-19T23:55:50.960Z",
+  "totalPulls": 157,
+  "updatedAt": "2026-10-20T04:36:24.957Z",
   "lastPull": {
-    "id": 51,
-    "name": "dugtrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "id": 731,
+    "name": "pikipek",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
     "types": [
-      "ground"
+      "normal",
+      "flying"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-10-19T23:55:50.960Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-10-20T04:36:24.957Z"
   },
   "pulls": [
+    {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-20T04:36:24.957Z"
+    },
     {
       "id": 51,
       "name": "dugtrio",
@@ -116,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-18T17:14:37.322Z"
-    },
-    {
-      "id": 117,
-      "name": "seadra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-18T13:55:52.904Z"
     }
   ],
   "pokemon": {
@@ -1829,6 +1831,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T00:57:50.283Z",
       "lastPulledAt": "2026-09-26T00:57:50.283Z"
+    },
+    "731": {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-20T04:36:24.957Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T04:36:24.957Z",
+      "lastPulledAt": "2026-10-20T04:36:24.957Z"
     },
     "733": {
       "id": 733,

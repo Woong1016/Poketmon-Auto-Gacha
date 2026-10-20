@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 159,
-  "updatedAt": "2026-10-20T14:29:52.844Z",
+  "totalPulls": 160,
+  "updatedAt": "2026-10-20T18:41:34.896Z",
   "lastPull": {
-    "id": 327,
-    "name": "spinda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "id": 811,
+    "name": "thwackey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-20T14:29:52.844Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-20T18:41:34.896Z"
   },
   "pulls": [
+    {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-20T18:41:34.896Z"
+    },
     {
       "id": 327,
       "name": "spinda",
@@ -115,18 +126,6 @@
       "totalStats": 417,
       "grade": "R",
       "pulledAt": "2026-10-18T23:46:35.942Z"
-    },
-    {
-      "id": 214,
-      "name": "heracross",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T21:48:04.025Z"
     }
   ],
   "pokemon": {
@@ -2029,6 +2028,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T01:19:22.130Z",
       "lastPulledAt": "2026-10-10T01:19:22.130Z"
+    },
+    "811": {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-20T18:41:34.896Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T18:41:34.896Z",
+      "lastPulledAt": "2026-10-20T18:41:34.896Z"
     },
     "865": {
       "id": 865,

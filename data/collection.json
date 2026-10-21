@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-21T19:37:10.381Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-21T22:46:23.830Z",
   "lastPull": {
-    "id": 151,
-    "name": "mew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "id": 537,
+    "name": "seismitoad",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
     "types": [
-      "psychic"
+      "water",
+      "ground"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-21T19:37:10.381Z"
+    "totalStats": 509,
+    "grade": "SR",
+    "pulledAt": "2026-10-21T22:46:23.830Z"
   },
   "pulls": [
+    {
+      "id": 537,
+      "name": "seismitoad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 509,
+      "grade": "SR",
+      "pulledAt": "2026-10-21T22:46:23.830Z"
+    },
     {
       "id": 151,
       "name": "mew",
@@ -116,18 +129,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-10-20T09:38:30.294Z"
-    },
-    {
-      "id": 731,
-      "name": "pikipek",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-10-20T04:36:24.957Z"
     }
   ],
   "pokemon": {
@@ -1545,10 +1546,10 @@
       "totalStats": 509,
       "grade": "SR",
       "pulledAt": "2026-10-18T00:55:33.821Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T00:55:33.821Z",
-      "lastPulledAt": "2026-10-18T05:42:33.070Z"
+      "lastPulledAt": "2026-10-21T22:46:23.830Z"
     },
     "560": {
       "id": 560,

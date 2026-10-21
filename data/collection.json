@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-20T21:56:22.818Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-21T00:31:36.447Z",
   "lastPull": {
-    "id": 332,
-    "name": "cacturne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "id": 60,
+    "name": "poliwag",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
     "types": [
-      "grass",
-      "dark"
+      "water"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-20T21:56:22.818Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-21T00:31:36.447Z"
   },
   "pulls": [
+    {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-21T00:31:36.447Z"
+    },
     {
       "id": 332,
       "name": "cacturne",
@@ -115,18 +125,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-19T07:39:12.639Z"
-    },
-    {
-      "id": 937,
-      "name": "ceruledge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T01:52:33.631Z"
     }
   ],
   "pokemon": {
@@ -301,6 +299,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T05:06:38.509Z",
       "lastPulledAt": "2026-09-25T05:06:38.509Z"
+    },
+    "60": {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-21T00:31:36.447Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T00:31:36.447Z",
+      "lastPulledAt": "2026-10-21T00:31:36.447Z"
     },
     "62": {
       "id": 62,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-10-21T00:31:36.447Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-10-21T05:19:03.923Z",
   "lastPull": {
-    "id": 60,
-    "name": "poliwag",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "id": 220,
+    "name": "swinub",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
     "types": [
-      "water"
+      "ice",
+      "ground"
     ],
-    "totalStats": 300,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-10-21T00:31:36.447Z"
+    "pulledAt": "2026-10-21T05:19:03.923Z"
   },
   "pulls": [
+    {
+      "id": 220,
+      "name": "swinub",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-21T05:19:03.923Z"
+    },
     {
       "id": 60,
       "name": "poliwag",
@@ -114,17 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-19T14:59:49.004Z"
-    },
-    {
-      "id": 601,
-      "name": "klinklang",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T07:39:12.639Z"
     }
   ],
   "pokemon": {
@@ -683,6 +685,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:48:04.025Z",
       "lastPulledAt": "2026-10-18T21:48:04.025Z"
+    },
+    "220": {
+      "id": 220,
+      "name": "swinub",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-21T05:19:03.923Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T05:19:03.923Z",
+      "lastPulledAt": "2026-10-21T05:19:03.923Z"
     },
     "221": {
       "id": 221,

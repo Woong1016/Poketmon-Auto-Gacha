@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 165,
-  "updatedAt": "2026-10-21T15:31:30.233Z",
+  "totalPulls": 166,
+  "updatedAt": "2026-10-21T19:37:10.381Z",
   "lastPull": {
-    "id": 607,
-    "name": "litwick",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "id": 151,
+    "name": "mew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
     "types": [
-      "ghost",
-      "fire"
+      "psychic"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-10-21T15:31:30.233Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-21T19:37:10.381Z"
   },
   "pulls": [
+    {
+      "id": 151,
+      "name": "mew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-21T19:37:10.381Z"
+    },
     {
       "id": 607,
       "name": "litwick",
@@ -118,17 +128,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-10-20T04:36:24.957Z"
-    },
-    {
-      "id": 51,
-      "name": "dugtrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-10-19T23:55:50.960Z"
     }
   ],
   "pokemon": {
@@ -549,6 +548,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T14:17:26.895Z",
       "lastPulledAt": "2026-09-22T14:17:26.895Z"
+    },
+    "151": {
+      "id": 151,
+      "name": "mew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-21T19:37:10.381Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T19:37:10.381Z",
+      "lastPulledAt": "2026-10-21T19:37:10.381Z"
     },
     "154": {
       "id": 154,

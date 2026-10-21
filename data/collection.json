@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 164,
-  "updatedAt": "2026-10-21T10:23:48.342Z",
+  "totalPulls": 165,
+  "updatedAt": "2026-10-21T15:31:30.233Z",
   "lastPull": {
-    "id": 978,
-    "name": "tatsugiri-curly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+    "id": 607,
+    "name": "litwick",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
     "types": [
-      "dragon",
-      "water"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-21T10:23:48.342Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-21T15:31:30.233Z"
   },
   "pulls": [
+    {
+      "id": 607,
+      "name": "litwick",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-21T15:31:30.233Z"
+    },
     {
       "id": 978,
       "name": "tatsugiri-curly",
@@ -117,17 +129,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-10-19T23:55:50.960Z"
-    },
-    {
-      "id": 471,
-      "name": "glaceon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T20:33:00.052Z"
     }
   ],
   "pokemon": {
@@ -1643,6 +1644,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T07:39:12.639Z",
       "lastPulledAt": "2026-10-19T07:39:12.639Z"
+    },
+    "607": {
+      "id": 607,
+      "name": "litwick",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-21T15:31:30.233Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T15:31:30.233Z",
+      "lastPulledAt": "2026-10-21T15:31:30.233Z"
     },
     "625": {
       "id": 625,

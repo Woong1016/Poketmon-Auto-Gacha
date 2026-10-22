@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 170,
-  "updatedAt": "2026-10-22T11:47:51.368Z",
+  "totalPulls": 171,
+  "updatedAt": "2026-10-22T16:11:02.709Z",
   "lastPull": {
-    "id": 832,
-    "name": "dubwool",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+    "id": 990,
+    "name": "iron-treads",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
     "types": [
-      "normal"
+      "ground",
+      "steel"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-22T11:47:51.368Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-10-22T16:11:02.709Z"
   },
   "pulls": [
+    {
+      "id": 990,
+      "name": "iron-treads",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T16:11:02.709Z"
+    },
     {
       "id": 832,
       "name": "dubwool",
@@ -118,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-21T00:31:36.447Z"
-    },
-    {
-      "id": 332,
-      "name": "cacturne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
-      "types": [
-        "grass",
-        "dark"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-20T21:56:22.818Z"
     }
   ],
   "pokemon": {
@@ -2532,6 +2533,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:13:19.710Z",
       "lastPulledAt": "2026-10-04T18:13:19.710Z"
+    },
+    "990": {
+      "id": 990,
+      "name": "iron-treads",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T16:11:02.709Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T16:11:02.709Z",
+      "lastPulledAt": "2026-10-22T16:11:02.709Z"
     },
     "996": {
       "id": 996,

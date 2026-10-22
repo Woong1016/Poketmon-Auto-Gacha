@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-10-22T16:11:02.709Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-10-22T20:12:58.498Z",
   "lastPull": {
-    "id": 990,
-    "name": "iron-treads",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    "id": 487,
+    "name": "giratina-altered",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
     "types": [
-      "ground",
-      "steel"
+      "ghost",
+      "dragon"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T16:11:02.709Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-22T20:12:58.498Z"
   },
   "pulls": [
+    {
+      "id": 487,
+      "name": "giratina-altered",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-22T20:12:58.498Z"
+    },
     {
       "id": 990,
       "name": "iron-treads",
@@ -120,17 +132,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-10-21T05:19:03.923Z"
-    },
-    {
-      "id": 60,
-      "name": "poliwag",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-21T00:31:36.447Z"
     }
   ],
   "pokemon": {
@@ -1460,6 +1461,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T23:54:59.081Z",
       "lastPulledAt": "2026-09-23T23:54:59.081Z"
+    },
+    "487": {
+      "id": 487,
+      "name": "giratina-altered",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-22T20:12:58.498Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T20:12:58.498Z",
+      "lastPulledAt": "2026-10-22T20:12:58.498Z"
     },
     "491": {
       "id": 491,

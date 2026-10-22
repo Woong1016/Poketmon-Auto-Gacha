@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 169,
-  "updatedAt": "2026-10-22T06:03:25.601Z",
+  "totalPulls": 170,
+  "updatedAt": "2026-10-22T11:47:51.368Z",
   "lastPull": {
-    "id": 850,
-    "name": "sizzlipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+    "id": 832,
+    "name": "dubwool",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
     "types": [
-      "fire",
-      "bug"
+      "normal"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-22T06:03:25.601Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-22T11:47:51.368Z"
   },
   "pulls": [
+    {
+      "id": 832,
+      "name": "dubwool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-22T11:47:51.368Z"
+    },
     {
       "id": 850,
       "name": "sizzlipede",
@@ -120,17 +130,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-20T21:56:22.818Z"
-    },
-    {
-      "id": 811,
-      "name": "thwackey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-20T18:41:34.896Z"
     }
   ],
   "pokemon": {
@@ -2142,6 +2141,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T18:41:34.896Z",
       "lastPulledAt": "2026-10-20T18:41:34.896Z"
+    },
+    "832": {
+      "id": 832,
+      "name": "dubwool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-22T11:47:51.368Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T11:47:51.368Z",
+      "lastPulledAt": "2026-10-22T11:47:51.368Z"
     },
     "850": {
       "id": 850,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-22T20:12:58.498Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-22T23:27:39.241Z",
   "lastPull": {
-    "id": 487,
-    "name": "giratina-altered",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
+    "id": 516,
+    "name": "simipour",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
     "types": [
-      "ghost",
-      "dragon"
+      "water"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-22T20:12:58.498Z"
+    "totalStats": 498,
+    "grade": "R",
+    "pulledAt": "2026-10-22T23:27:39.241Z"
   },
   "pulls": [
+    {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-22T23:27:39.241Z"
+    },
     {
       "id": 487,
       "name": "giratina-altered",
@@ -120,18 +130,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-21T10:23:48.342Z"
-    },
-    {
-      "id": 220,
-      "name": "swinub",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
-      "types": [
-        "ice",
-        "ground"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-10-21T05:19:03.923Z"
     }
   ],
   "pokemon": {
@@ -1553,6 +1551,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T00:11:55.810Z",
       "lastPulledAt": "2026-10-12T09:02:22.218Z"
+    },
+    "516": {
+      "id": 516,
+      "name": "simipour",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-22T23:27:39.241Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T23:27:39.241Z",
+      "lastPulledAt": "2026-10-22T23:27:39.241Z"
     },
     "536": {
       "id": 536,

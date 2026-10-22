@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-22T01:00:08.625Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-22T06:03:25.601Z",
   "lastPull": {
-    "id": 348,
-    "name": "armaldo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "id": 850,
+    "name": "sizzlipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
     "types": [
-      "rock",
+      "fire",
       "bug"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-22T01:00:08.625Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-22T06:03:25.601Z"
   },
   "pulls": [
+    {
+      "id": 850,
+      "name": "sizzlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-22T06:03:25.601Z"
+    },
     {
       "id": 348,
       "name": "armaldo",
@@ -119,17 +131,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-20T18:41:34.896Z"
-    },
-    {
-      "id": 327,
-      "name": "spinda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-20T14:29:52.844Z"
     }
   ],
   "pokemon": {
@@ -2141,6 +2142,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T18:41:34.896Z",
       "lastPulledAt": "2026-10-20T18:41:34.896Z"
+    },
+    "850": {
+      "id": 850,
+      "name": "sizzlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-22T06:03:25.601Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T06:03:25.601Z",
+      "lastPulledAt": "2026-10-22T06:03:25.601Z"
     },
     "865": {
       "id": 865,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-23T17:36:47.541Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-23T20:39:24.680Z",
   "lastPull": {
-    "id": 609,
-    "name": "chandelure",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "id": 1001,
+    "name": "wo-chien",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
     "types": [
-      "ghost",
-      "fire"
+      "dark",
+      "grass"
     ],
-    "totalStats": 520,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-23T17:36:47.541Z"
+    "pulledAt": "2026-10-23T20:39:24.680Z"
   },
   "pulls": [
+    {
+      "id": 1001,
+      "name": "wo-chien",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T20:39:24.680Z"
+    },
     {
       "id": 609,
       "name": "chandelure",
@@ -118,18 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-22T06:03:25.601Z"
-    },
-    {
-      "id": 348,
-      "name": "armaldo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
-      "types": [
-        "rock",
-        "bug"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-22T01:00:08.625Z"
     }
   ],
   "pokemon": {
@@ -2641,6 +2641,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T15:51:48.631Z",
       "lastPulledAt": "2026-10-13T15:51:48.631Z"
+    },
+    "1001": {
+      "id": 1001,
+      "name": "wo-chien",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T20:39:24.680Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T20:39:24.680Z",
+      "lastPulledAt": "2026-10-23T20:39:24.680Z"
     },
     "1004": {
       "id": 1004,

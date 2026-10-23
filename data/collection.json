@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-22T23:27:39.241Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-23T01:51:04.695Z",
   "lastPull": {
-    "id": 516,
-    "name": "simipour",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "id": 1012,
+    "name": "poltchageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
     "types": [
-      "water"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-10-22T23:27:39.241Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-10-23T01:51:04.695Z"
   },
   "pulls": [
+    {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-23T01:51:04.695Z"
+    },
     {
       "id": 516,
       "name": "simipour",
@@ -118,18 +131,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-10-21T15:31:30.233Z"
-    },
-    {
-      "id": 978,
-      "name": "tatsugiri-curly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
-      "types": [
-        "dragon",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-21T10:23:48.342Z"
     }
   ],
   "pokemon": {
@@ -2611,6 +2612,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T08:19:36.509Z",
       "lastPulledAt": "2026-10-04T08:19:36.509Z"
+    },
+    "1012": {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-23T01:51:04.695Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T01:51:04.695Z",
+      "lastPulledAt": "2026-10-23T01:51:04.695Z"
     },
     "1021": {
       "id": 1021,

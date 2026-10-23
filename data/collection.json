@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-10-23T20:39:24.680Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-10-23T23:33:12.386Z",
   "lastPull": {
-    "id": 1001,
-    "name": "wo-chien",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+    "id": 592,
+    "name": "frillish-male",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
     "types": [
-      "dark",
-      "grass"
+      "water",
+      "ghost"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-23T20:39:24.680Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-10-23T23:33:12.386Z"
   },
   "pulls": [
+    {
+      "id": 592,
+      "name": "frillish-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-23T23:33:12.386Z"
+    },
     {
       "id": 1001,
       "name": "wo-chien",
@@ -118,18 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-22T11:47:51.368Z"
-    },
-    {
-      "id": 850,
-      "name": "sizzlipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
-      "types": [
-        "fire",
-        "bug"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-22T06:03:25.601Z"
     }
   ],
   "pokemon": {
@@ -1676,6 +1676,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T23:14:53.285Z",
       "lastPulledAt": "2026-10-08T23:14:53.285Z"
+    },
+    "592": {
+      "id": 592,
+      "name": "frillish-male",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-23T23:33:12.386Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T23:33:12.386Z",
+      "lastPulledAt": "2026-10-23T23:33:12.386Z"
     },
     "593": {
       "id": 593,

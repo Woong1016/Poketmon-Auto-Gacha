@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 176,
-  "updatedAt": "2026-10-23T12:48:51.231Z",
+  "totalPulls": 177,
+  "updatedAt": "2026-10-23T17:36:47.541Z",
   "lastPull": {
-    "id": 919,
-    "name": "nymble",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+    "id": 609,
+    "name": "chandelure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
     "types": [
-      "bug"
+      "ghost",
+      "fire"
     ],
-    "totalStats": 210,
-    "grade": "N",
-    "pulledAt": "2026-10-23T12:48:51.231Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T17:36:47.541Z"
   },
   "pulls": [
+    {
+      "id": 609,
+      "name": "chandelure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T17:36:47.541Z"
+    },
     {
       "id": 919,
       "name": "nymble",
@@ -117,18 +130,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-22T01:00:08.625Z"
-    },
-    {
-      "id": 537,
-      "name": "seismitoad",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
-      "types": [
-        "water",
-        "ground"
-      ],
-      "totalStats": 509,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T22:46:23.830Z"
     }
   ],
   "pokemon": {
@@ -1722,6 +1723,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T15:31:30.233Z",
       "lastPulledAt": "2026-10-21T15:31:30.233Z"
+    },
+    "609": {
+      "id": 609,
+      "name": "chandelure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T17:36:47.541Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T17:36:47.541Z",
+      "lastPulledAt": "2026-10-23T17:36:47.541Z"
     },
     "625": {
       "id": 625,

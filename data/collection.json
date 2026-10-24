@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 182,
-  "updatedAt": "2026-10-24T12:05:31.534Z",
+  "totalPulls": 183,
+  "updatedAt": "2026-10-24T15:55:10.123Z",
   "lastPull": {
-    "id": 283,
-    "name": "surskit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+    "id": 17,
+    "name": "pidgeotto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
     "types": [
-      "bug",
-      "water"
+      "normal",
+      "flying"
     ],
-    "totalStats": 269,
+    "totalStats": 349,
     "grade": "N",
-    "pulledAt": "2026-10-24T12:05:31.534Z"
+    "pulledAt": "2026-10-24T15:55:10.123Z"
   },
   "pulls": [
+    {
+      "id": 17,
+      "name": "pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 349,
+      "grade": "N",
+      "pulledAt": "2026-10-24T15:55:10.123Z"
+    },
     {
       "id": 283,
       "name": "surskit",
@@ -119,17 +131,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-23T01:51:04.695Z"
-    },
-    {
-      "id": 516,
-      "name": "simipour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-10-22T23:27:39.241Z"
     }
   ],
   "pokemon": {
@@ -180,6 +181,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T21:09:21.543Z",
       "lastPulledAt": "2026-10-13T21:09:21.543Z"
+    },
+    "17": {
+      "id": 17,
+      "name": "pidgeotto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 349,
+      "grade": "N",
+      "pulledAt": "2026-10-24T15:55:10.123Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T15:55:10.123Z",
+      "lastPulledAt": "2026-10-24T15:55:10.123Z"
     },
     "19": {
       "id": 19,

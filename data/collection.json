@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 183,
-  "updatedAt": "2026-10-24T15:55:10.123Z",
+  "totalPulls": 184,
+  "updatedAt": "2026-10-24T18:43:24.232Z",
   "lastPull": {
-    "id": 17,
-    "name": "pidgeotto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "id": 57,
+    "name": "primeape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
     "types": [
-      "normal",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 349,
-    "grade": "N",
-    "pulledAt": "2026-10-24T15:55:10.123Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-24T18:43:24.232Z"
   },
   "pulls": [
+    {
+      "id": 57,
+      "name": "primeape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-24T18:43:24.232Z"
+    },
     {
       "id": 17,
       "name": "pidgeotto",
@@ -119,18 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-23T07:23:41.298Z"
-    },
-    {
-      "id": 1012,
-      "name": "poltchageist",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-10-23T01:51:04.695Z"
     }
   ],
   "pokemon": {
@@ -317,10 +315,10 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-25T05:06:38.509Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T05:06:38.509Z",
-      "lastPulledAt": "2026-09-25T05:06:38.509Z"
+      "lastPulledAt": "2026-10-24T18:43:24.232Z"
     },
     "60": {
       "id": 60,

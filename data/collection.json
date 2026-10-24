@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 184,
-  "updatedAt": "2026-10-24T18:43:24.232Z",
+  "totalPulls": 185,
+  "updatedAt": "2026-10-24T21:15:42.773Z",
   "lastPull": {
-    "id": 57,
-    "name": "primeape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "id": 137,
+    "name": "porygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
     "types": [
-      "fighting"
+      "normal"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-10-24T18:43:24.232Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-10-24T21:15:42.773Z"
   },
   "pulls": [
+    {
+      "id": 137,
+      "name": "porygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-24T21:15:42.773Z"
+    },
     {
       "id": 57,
       "name": "primeape",
@@ -118,17 +129,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-10-23T12:48:51.231Z"
-    },
-    {
-      "id": 836,
-      "name": "boltund",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-23T07:23:41.298Z"
     }
   ],
   "pokemon": {
@@ -518,6 +518,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T18:22:32.754Z",
       "lastPulledAt": "2026-10-17T18:22:32.754Z"
+    },
+    "137": {
+      "id": 137,
+      "name": "porygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-24T21:15:42.773Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T21:15:42.773Z",
+      "lastPulledAt": "2026-10-24T21:15:42.773Z"
     },
     "141": {
       "id": 141,

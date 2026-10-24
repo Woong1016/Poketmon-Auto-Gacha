@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-24T21:15:42.773Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-24T23:25:04.747Z",
   "lastPull": {
-    "id": 137,
-    "name": "porygon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "id": 944,
+    "name": "shroodle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
     "types": [
+      "poison",
       "normal"
     ],
-    "totalStats": 395,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-10-24T21:15:42.773Z"
+    "pulledAt": "2026-10-24T23:25:04.747Z"
   },
   "pulls": [
+    {
+      "id": 944,
+      "name": "shroodle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-24T23:25:04.747Z"
+    },
     {
       "id": 137,
       "name": "porygon",
@@ -118,17 +131,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-23T17:36:47.541Z"
-    },
-    {
-      "id": 919,
-      "name": "nymble",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-10-23T12:48:51.231Z"
     }
   ],
   "pokemon": {
@@ -2588,10 +2590,10 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-07T23:49:39.781Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T23:49:39.781Z",
-      "lastPulledAt": "2026-10-07T23:49:39.781Z"
+      "lastPulledAt": "2026-10-24T23:25:04.747Z"
     },
     "949": {
       "id": 949,

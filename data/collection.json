@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 190,
-  "updatedAt": "2026-10-25T16:46:10.180Z",
+  "totalPulls": 191,
+  "updatedAt": "2026-10-25T19:20:58.704Z",
   "lastPull": {
-    "id": 210,
-    "name": "granbull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+    "id": 823,
+    "name": "corviknight",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
     "types": [
-      "fairy"
+      "flying",
+      "steel"
     ],
-    "totalStats": 450,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-25T16:46:10.180Z"
+    "pulledAt": "2026-10-25T19:20:58.704Z"
   },
   "pulls": [
+    {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-25T19:20:58.704Z"
+    },
     {
       "id": 210,
       "name": "granbull",
@@ -116,17 +129,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-10-24T12:05:31.534Z"
-    },
-    {
-      "id": 241,
-      "name": "miltank",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-24T07:12:17.636Z"
     }
   ],
   "pokemon": {
@@ -2310,6 +2312,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T18:41:34.896Z",
       "lastPulledAt": "2026-10-20T18:41:34.896Z"
+    },
+    "823": {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-25T19:20:58.704Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T19:20:58.704Z",
+      "lastPulledAt": "2026-10-25T19:20:58.704Z"
     },
     "832": {
       "id": 832,

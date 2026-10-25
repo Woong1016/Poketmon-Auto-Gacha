@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-10-25T12:28:40.948Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-10-25T16:46:10.180Z",
   "lastPull": {
-    "id": 196,
-    "name": "espeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+    "id": 210,
+    "name": "granbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
     "types": [
-      "psychic"
+      "fairy"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T12:28:40.948Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-10-25T16:46:10.180Z"
   },
   "pulls": [
+    {
+      "id": 210,
+      "name": "granbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-10-25T16:46:10.180Z"
+    },
     {
       "id": 196,
       "name": "espeon",
@@ -116,18 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-24T07:12:17.636Z"
-    },
-    {
-      "id": 469,
-      "name": "yanmega",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T01:58:41.185Z"
     }
   ],
   "pokemon": {
@@ -727,10 +726,10 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-27T10:33:45.275Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:33:45.275Z",
-      "lastPulledAt": "2026-10-16T23:54:16.862Z"
+      "lastPulledAt": "2026-10-25T16:46:10.180Z"
     },
     "214": {
       "id": 214,

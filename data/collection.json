@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 188,
-  "updatedAt": "2026-10-25T06:52:09.302Z",
+  "totalPulls": 189,
+  "updatedAt": "2026-10-25T12:28:40.948Z",
   "lastPull": {
-    "id": 241,
-    "name": "miltank",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+    "id": 196,
+    "name": "espeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
     "types": [
-      "normal"
+      "psychic"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-25T06:52:09.302Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T12:28:40.948Z"
   },
   "pulls": [
+    {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T12:28:40.948Z"
+    },
     {
       "id": 241,
       "name": "miltank",
@@ -117,18 +128,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-24T01:58:41.185Z"
-    },
-    {
-      "id": 592,
-      "name": "frillish-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
-      "types": [
-        "water",
-        "ghost"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-23T23:33:12.386Z"
     }
   ],
   "pokemon": {
@@ -702,6 +701,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T22:45:02.082Z",
       "lastPulledAt": "2026-10-01T21:15:45.664Z"
+    },
+    "196": {
+      "id": 196,
+      "name": "espeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T12:28:40.948Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T12:28:40.948Z",
+      "lastPulledAt": "2026-10-25T12:28:40.948Z"
     },
     "210": {
       "id": 210,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-10-24T23:25:04.747Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-10-25T01:30:37.710Z",
   "lastPull": {
-    "id": 944,
-    "name": "shroodle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    "id": 472,
+    "name": "gliscor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
     "types": [
-      "poison",
-      "normal"
+      "ground",
+      "flying"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-10-24T23:25:04.747Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T01:30:37.710Z"
   },
   "pulls": [
+    {
+      "id": 472,
+      "name": "gliscor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T01:30:37.710Z"
+    },
     {
       "id": 944,
       "name": "shroodle",
@@ -119,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-23T20:39:24.680Z"
-    },
-    {
-      "id": 609,
-      "name": "chandelure",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
-      "types": [
-        "ghost",
-        "fire"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T17:36:47.541Z"
     }
   ],
   "pokemon": {
@@ -1506,6 +1506,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T20:33:00.052Z",
       "lastPulledAt": "2026-10-19T20:33:00.052Z"
+    },
+    "472": {
+      "id": 472,
+      "name": "gliscor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+      "types": [
+        "ground",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T01:30:37.710Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T01:30:37.710Z",
+      "lastPulledAt": "2026-10-25T01:30:37.710Z"
     },
     "476": {
       "id": 476,

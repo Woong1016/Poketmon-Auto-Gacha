@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 191,
-  "updatedAt": "2026-10-25T19:20:58.704Z",
+  "totalPulls": 192,
+  "updatedAt": "2026-10-25T21:59:49.543Z",
   "lastPull": {
-    "id": 823,
-    "name": "corviknight",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+    "id": 329,
+    "name": "vibrava",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
     "types": [
-      "flying",
-      "steel"
+      "ground",
+      "dragon"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-25T19:20:58.704Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-10-25T21:59:49.543Z"
   },
   "pulls": [
+    {
+      "id": 329,
+      "name": "vibrava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-25T21:59:49.543Z"
+    },
     {
       "id": 823,
       "name": "corviknight",
@@ -117,18 +129,6 @@
       "totalStats": 349,
       "grade": "N",
       "pulledAt": "2026-10-24T15:55:10.123Z"
-    },
-    {
-      "id": 283,
-      "name": "surskit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
-      "types": [
-        "bug",
-        "water"
-      ],
-      "totalStats": 269,
-      "grade": "N",
-      "pulledAt": "2026-10-24T12:05:31.534Z"
     }
   ],
   "pokemon": {
@@ -1072,6 +1072,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T14:29:52.844Z",
       "lastPulledAt": "2026-10-20T14:29:52.844Z"
+    },
+    "329": {
+      "id": 329,
+      "name": "vibrava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-25T21:59:49.543Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T21:59:49.543Z",
+      "lastPulledAt": "2026-10-25T21:59:49.543Z"
     },
     "331": {
       "id": 331,

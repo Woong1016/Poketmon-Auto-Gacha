@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-25T01:30:37.710Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-25T06:52:09.302Z",
   "lastPull": {
-    "id": 472,
-    "name": "gliscor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
+    "id": 241,
+    "name": "miltank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
     "types": [
-      "ground",
-      "flying"
+      "normal"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T01:30:37.710Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-25T06:52:09.302Z"
   },
   "pulls": [
+    {
+      "id": 241,
+      "name": "miltank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-25T06:52:09.302Z"
+    },
     {
       "id": 472,
       "name": "gliscor",
@@ -119,18 +129,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-10-23T23:33:12.386Z"
-    },
-    {
-      "id": 1001,
-      "name": "wo-chien",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
-      "types": [
-        "dark",
-        "grass"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T20:39:24.680Z"
     }
   ],
   "pokemon": {
@@ -869,10 +867,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-24T07:12:17.636Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T07:12:17.636Z",
-      "lastPulledAt": "2026-10-24T07:12:17.636Z"
+      "lastPulledAt": "2026-10-25T06:52:09.302Z"
     },
     "242": {
       "id": 242,

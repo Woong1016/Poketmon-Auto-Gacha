@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-26T05:00:13.056Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-26T11:04:06.770Z",
   "lastPull": {
-    "id": 14,
-    "name": "kakuna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "id": 641,
+    "name": "tornadus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
     "types": [
-      "bug",
-      "poison"
+      "flying"
     ],
-    "totalStats": 205,
-    "grade": "N",
-    "pulledAt": "2026-10-26T05:00:13.056Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-26T11:04:06.770Z"
   },
   "pulls": [
+    {
+      "id": 641,
+      "name": "tornadus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T11:04:06.770Z"
+    },
     {
       "id": 14,
       "name": "kakuna",
@@ -119,17 +129,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-24T23:25:04.747Z"
-    },
-    {
-      "id": 137,
-      "name": "porygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-10-24T21:15:42.773Z"
     }
   ],
   "pokemon": {
@@ -1955,10 +1954,10 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-26T06:04:55.787Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T06:04:55.787Z",
-      "lastPulledAt": "2026-09-26T06:04:55.787Z"
+      "lastPulledAt": "2026-10-26T11:04:06.770Z"
     },
     "642": {
       "id": 642,

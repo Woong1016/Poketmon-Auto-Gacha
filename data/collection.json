@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 195,
-  "updatedAt": "2026-10-26T11:04:06.770Z",
+  "totalPulls": 196,
+  "updatedAt": "2026-10-26T17:21:08.960Z",
   "lastPull": {
-    "id": 641,
-    "name": "tornadus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "id": 458,
+    "name": "mantyke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
     "types": [
+      "water",
       "flying"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-26T11:04:06.770Z"
+    "totalStats": 345,
+    "grade": "N",
+    "pulledAt": "2026-10-26T17:21:08.960Z"
   },
   "pulls": [
+    {
+      "id": 458,
+      "name": "mantyke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-10-26T17:21:08.960Z"
+    },
     {
       "id": 641,
       "name": "tornadus-incarnate",
@@ -117,18 +130,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-25T01:30:37.710Z"
-    },
-    {
-      "id": 944,
-      "name": "shroodle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
-      "types": [
-        "poison",
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-10-24T23:25:04.747Z"
     }
   ],
   "pokemon": {
@@ -1505,6 +1506,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T18:45:00.712Z",
       "lastPulledAt": "2026-10-02T18:45:00.712Z"
+    },
+    "458": {
+      "id": 458,
+      "name": "mantyke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-10-26T17:21:08.960Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T17:21:08.960Z",
+      "lastPulledAt": "2026-10-26T17:21:08.960Z"
     },
     "465": {
       "id": 465,

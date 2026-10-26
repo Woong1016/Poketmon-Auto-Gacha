@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-25T21:59:49.543Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-26T00:12:41.460Z",
   "lastPull": {
     "id": 329,
     "name": "vibrava",
@@ -12,9 +12,21 @@
     ],
     "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-10-25T21:59:49.543Z"
+    "pulledAt": "2026-10-26T00:12:41.460Z"
   },
   "pulls": [
+    {
+      "id": 329,
+      "name": "vibrava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-26T00:12:41.460Z"
+    },
     {
       "id": 329,
       "name": "vibrava",
@@ -117,18 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-24T18:43:24.232Z"
-    },
-    {
-      "id": 17,
-      "name": "pidgeotto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 349,
-      "grade": "N",
-      "pulledAt": "2026-10-24T15:55:10.123Z"
     }
   ],
   "pokemon": {
@@ -1084,10 +1084,10 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-25T21:59:49.543Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T21:59:49.543Z",
-      "lastPulledAt": "2026-10-25T21:59:49.543Z"
+      "lastPulledAt": "2026-10-26T00:12:41.460Z"
     },
     "331": {
       "id": 331,

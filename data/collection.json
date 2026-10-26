@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-26T17:21:08.960Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-26T21:48:07.141Z",
   "lastPull": {
-    "id": 458,
-    "name": "mantyke",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+    "id": 426,
+    "name": "drifblim",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
     "types": [
-      "water",
+      "ghost",
       "flying"
     ],
-    "totalStats": 345,
-    "grade": "N",
-    "pulledAt": "2026-10-26T17:21:08.960Z"
+    "totalStats": 498,
+    "grade": "R",
+    "pulledAt": "2026-10-26T21:48:07.141Z"
   },
   "pulls": [
+    {
+      "id": 426,
+      "name": "drifblim",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-26T21:48:07.141Z"
+    },
     {
       "id": 458,
       "name": "mantyke",
@@ -118,18 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-25T06:52:09.302Z"
-    },
-    {
-      "id": 472,
-      "name": "gliscor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-25T01:30:37.710Z"
     }
   ],
   "pokemon": {
@@ -1382,6 +1382,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T15:04:52.785Z",
       "lastPulledAt": "2026-09-26T15:04:52.785Z"
+    },
+    "426": {
+      "id": 426,
+      "name": "drifblim",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-10-26T21:48:07.141Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T21:48:07.141Z",
+      "lastPulledAt": "2026-10-26T21:48:07.141Z"
     },
     "431": {
       "id": 431,

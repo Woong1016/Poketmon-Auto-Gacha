@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-26T00:12:41.460Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-26T05:00:13.056Z",
   "lastPull": {
-    "id": 329,
-    "name": "vibrava",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "id": 14,
+    "name": "kakuna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
     "types": [
-      "ground",
-      "dragon"
+      "bug",
+      "poison"
     ],
-    "totalStats": 340,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-10-26T00:12:41.460Z"
+    "pulledAt": "2026-10-26T05:00:13.056Z"
   },
   "pulls": [
+    {
+      "id": 14,
+      "name": "kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-26T05:00:13.056Z"
+    },
     {
       "id": 329,
       "name": "vibrava",
@@ -118,17 +130,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-24T21:15:42.773Z"
-    },
-    {
-      "id": 57,
-      "name": "primeape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-24T18:43:24.232Z"
     }
   ],
   "pokemon": {
@@ -179,6 +180,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T21:09:21.543Z",
       "lastPulledAt": "2026-10-13T21:09:21.543Z"
+    },
+    "14": {
+      "id": 14,
+      "name": "kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-26T05:00:13.056Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T05:00:13.056Z",
+      "lastPulledAt": "2026-10-26T05:00:13.056Z"
     },
     "17": {
       "id": 17,

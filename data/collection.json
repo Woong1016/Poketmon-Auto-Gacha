@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 197,
-  "updatedAt": "2026-10-26T21:48:07.141Z",
+  "totalPulls": 198,
+  "updatedAt": "2026-10-27T00:58:40.953Z",
   "lastPull": {
-    "id": 426,
-    "name": "drifblim",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "id": 981,
+    "name": "farigiraf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
     "types": [
-      "ghost",
-      "flying"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-10-26T21:48:07.141Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-27T00:58:40.953Z"
   },
   "pulls": [
+    {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T00:58:40.953Z"
+    },
     {
       "id": 426,
       "name": "drifblim",
@@ -119,17 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-25T12:28:40.948Z"
-    },
-    {
-      "id": 241,
-      "name": "miltank",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-25T06:52:09.302Z"
     }
   ],
   "pokemon": {
@@ -2782,6 +2783,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T10:23:48.342Z",
       "lastPulledAt": "2026-10-21T10:23:48.342Z"
+    },
+    "981": {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T00:58:40.953Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T00:58:40.953Z",
+      "lastPulledAt": "2026-10-27T00:58:40.953Z"
     },
     "986": {
       "id": 986,

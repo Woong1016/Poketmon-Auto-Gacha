@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 200,
-  "updatedAt": "2026-10-27T12:27:16.286Z",
+  "totalPulls": 201,
+  "updatedAt": "2026-10-27T18:11:56.675Z",
   "lastPull": {
-    "id": 51,
-    "name": "dugtrio",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "id": 790,
+    "name": "cosmoem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
     "types": [
-      "ground"
+      "psychic"
     ],
-    "totalStats": 425,
+    "totalStats": 400,
     "grade": "R",
-    "pulledAt": "2026-10-27T12:27:16.286Z"
+    "pulledAt": "2026-10-27T18:11:56.675Z"
   },
   "pulls": [
+    {
+      "id": 790,
+      "name": "cosmoem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-10-27T18:11:56.675Z"
+    },
     {
       "id": 51,
       "name": "dugtrio",
@@ -118,18 +129,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-25T21:59:49.543Z"
-    },
-    {
-      "id": 823,
-      "name": "corviknight",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
-      "types": [
-        "flying",
-        "steel"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-25T19:20:58.704Z"
     }
   ],
   "pokemon": {
@@ -2347,6 +2346,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T21:35:48.221Z",
       "lastPulledAt": "2026-10-05T21:35:48.221Z"
+    },
+    "790": {
+      "id": 790,
+      "name": "cosmoem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-10-27T18:11:56.675Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T18:11:56.675Z",
+      "lastPulledAt": "2026-10-27T18:11:56.675Z"
     },
     "796": {
       "id": 796,

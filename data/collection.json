@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 201,
-  "updatedAt": "2026-10-27T18:11:56.675Z",
+  "totalPulls": 202,
+  "updatedAt": "2026-10-27T22:25:16.785Z",
   "lastPull": {
-    "id": 790,
-    "name": "cosmoem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+    "id": 584,
+    "name": "vanilluxe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
     "types": [
-      "psychic"
+      "ice"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-10-27T18:11:56.675Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-27T22:25:16.785Z"
   },
   "pulls": [
+    {
+      "id": 584,
+      "name": "vanilluxe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T22:25:16.785Z"
+    },
     {
       "id": 790,
       "name": "cosmoem",
@@ -117,18 +128,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-26T00:12:41.460Z"
-    },
-    {
-      "id": 329,
-      "name": "vibrava",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-10-25T21:59:49.543Z"
     }
   ],
   "pokemon": {
@@ -1847,6 +1846,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:44:04.892Z",
       "lastPulledAt": "2026-09-20T17:44:04.892Z"
+    },
+    "584": {
+      "id": 584,
+      "name": "vanilluxe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T22:25:16.785Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T22:25:16.785Z",
+      "lastPulledAt": "2026-10-27T22:25:16.785Z"
     },
     "586": {
       "id": 586,

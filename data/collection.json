@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-28T14:22:27.319Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-28T19:47:33.245Z",
   "lastPull": {
-    "id": 165,
-    "name": "ledyba",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "id": 463,
+    "name": "lickilicky",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
     "types": [
-      "bug",
-      "flying"
+      "normal"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-10-28T14:22:27.319Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-10-28T19:47:33.245Z"
   },
   "pulls": [
+    {
+      "id": 463,
+      "name": "lickilicky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T19:47:33.245Z"
+    },
     {
       "id": 165,
       "name": "ledyba",
@@ -116,18 +126,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-10-26T21:48:07.141Z"
-    },
-    {
-      "id": 458,
-      "name": "mantyke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 345,
-      "grade": "N",
-      "pulledAt": "2026-10-26T17:21:08.960Z"
     }
   ],
   "pokemon": {
@@ -1582,6 +1580,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T17:21:08.960Z",
       "lastPulledAt": "2026-10-26T17:21:08.960Z"
+    },
+    "463": {
+      "id": 463,
+      "name": "lickilicky",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T19:47:33.245Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T19:47:33.245Z",
+      "lastPulledAt": "2026-10-28T19:47:33.245Z"
     },
     "465": {
       "id": 465,

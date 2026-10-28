@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 206,
-  "updatedAt": "2026-10-28T19:47:33.245Z",
+  "totalPulls": 207,
+  "updatedAt": "2026-10-28T23:40:32.691Z",
   "lastPull": {
-    "id": 463,
-    "name": "lickilicky",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
+    "id": 98,
+    "name": "krabby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-10-28T19:47:33.245Z"
+    "totalStats": 325,
+    "grade": "N",
+    "pulledAt": "2026-10-28T23:40:32.691Z"
   },
   "pulls": [
+    {
+      "id": 98,
+      "name": "krabby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-28T23:40:32.691Z"
+    },
     {
       "id": 463,
       "name": "lickilicky",
@@ -114,18 +125,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-27T00:58:40.953Z"
-    },
-    {
-      "id": 426,
-      "name": "drifblim",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
-      "types": [
-        "ghost",
-        "flying"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-10-26T21:48:07.141Z"
     }
   ],
   "pokemon": {
@@ -470,6 +469,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T06:12:45.167Z",
       "lastPulledAt": "2026-09-29T06:12:45.167Z"
+    },
+    "98": {
+      "id": 98,
+      "name": "krabby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-10-28T23:40:32.691Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T23:40:32.691Z",
+      "lastPulledAt": "2026-10-28T23:40:32.691Z"
     },
     "99": {
       "id": 99,

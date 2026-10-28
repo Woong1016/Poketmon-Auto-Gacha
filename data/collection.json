@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 203,
-  "updatedAt": "2026-10-28T01:35:21.306Z",
+  "totalPulls": 204,
+  "updatedAt": "2026-10-28T07:24:45.282Z",
   "lastPull": {
-    "id": 726,
-    "name": "torracat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+    "id": 99,
+    "name": "kingler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 420,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-10-28T01:35:21.306Z"
+    "pulledAt": "2026-10-28T07:24:45.282Z"
   },
   "pulls": [
+    {
+      "id": 99,
+      "name": "kingler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-28T07:24:45.282Z"
+    },
     {
       "id": 726,
       "name": "torracat",
@@ -115,18 +126,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-26T11:04:06.770Z"
-    },
-    {
-      "id": 14,
-      "name": "kakuna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-10-26T05:00:13.056Z"
     }
   ],
   "pokemon": {
@@ -471,6 +470,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T06:12:45.167Z",
       "lastPulledAt": "2026-09-29T06:12:45.167Z"
+    },
+    "99": {
+      "id": 99,
+      "name": "kingler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-28T07:24:45.282Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T07:24:45.282Z",
+      "lastPulledAt": "2026-10-28T07:24:45.282Z"
     },
     "105": {
       "id": 105,

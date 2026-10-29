@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 209,
-  "updatedAt": "2026-10-29T09:47:35.808Z",
+  "totalPulls": 210,
+  "updatedAt": "2026-10-29T16:29:00.221Z",
   "lastPull": {
-    "id": 744,
-    "name": "rockruff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+    "id": 685,
+    "name": "slurpuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
     "types": [
-      "rock"
+      "fairy"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-10-29T09:47:35.808Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-29T16:29:00.221Z"
   },
   "pulls": [
+    {
+      "id": 685,
+      "name": "slurpuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-29T16:29:00.221Z"
+    },
     {
       "id": 744,
       "name": "rockruff",
@@ -114,17 +125,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-10-27T18:11:56.675Z"
-    },
-    {
-      "id": 51,
-      "name": "dugtrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-10-27T12:27:16.286Z"
     }
   ],
   "pokemon": {
@@ -2200,6 +2200,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T20:43:41.456Z",
       "lastPulledAt": "2026-10-06T20:43:41.456Z"
+    },
+    "685": {
+      "id": 685,
+      "name": "slurpuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-29T16:29:00.221Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T16:29:00.221Z",
+      "lastPulledAt": "2026-10-29T16:29:00.221Z"
     },
     "688": {
       "id": 688,

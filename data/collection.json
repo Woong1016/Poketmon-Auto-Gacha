@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 210,
-  "updatedAt": "2026-10-29T16:29:00.221Z",
+  "totalPulls": 211,
+  "updatedAt": "2026-10-29T21:23:22.152Z",
   "lastPull": {
-    "id": 685,
-    "name": "slurpuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
+    "id": 248,
+    "name": "tyranitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
     "types": [
-      "fairy"
+      "rock",
+      "dark"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-29T16:29:00.221Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-29T21:23:22.152Z"
   },
   "pulls": [
+    {
+      "id": 248,
+      "name": "tyranitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-29T21:23:22.152Z"
+    },
     {
       "id": 685,
       "name": "slurpuff",
@@ -114,17 +127,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-27T22:25:16.785Z"
-    },
-    {
-      "id": 790,
-      "name": "cosmoem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-10-27T18:11:56.675Z"
     }
   ],
   "pokemon": {
@@ -974,6 +976,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T21:29:02.239Z",
       "lastPulledAt": "2026-09-22T21:29:02.239Z"
+    },
+    "248": {
+      "id": 248,
+      "name": "tyranitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+      "types": [
+        "rock",
+        "dark"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-29T21:23:22.152Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T21:23:22.152Z",
+      "lastPulledAt": "2026-10-29T21:23:22.152Z"
     },
     "263": {
       "id": 263,

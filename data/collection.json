@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 212,
-  "updatedAt": "2026-10-30T01:18:04.212Z",
+  "totalPulls": 213,
+  "updatedAt": "2026-10-30T07:21:31.250Z",
   "lastPull": {
-    "id": 231,
-    "name": "phanpy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+    "id": 742,
+    "name": "cutiefly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
     "types": [
-      "ground"
+      "bug",
+      "fairy"
     ],
-    "totalStats": 330,
+    "totalStats": 304,
     "grade": "N",
-    "pulledAt": "2026-10-30T01:18:04.212Z"
+    "pulledAt": "2026-10-30T07:21:31.250Z"
   },
   "pulls": [
+    {
+      "id": 742,
+      "name": "cutiefly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-30T07:21:31.250Z"
+    },
     {
       "id": 231,
       "name": "phanpy",
@@ -115,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-28T07:24:45.282Z"
-    },
-    {
-      "id": 726,
-      "name": "torracat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-28T01:35:21.306Z"
     }
   ],
   "pokemon": {
@@ -2357,6 +2359,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T19:29:33.690Z",
       "lastPulledAt": "2026-09-30T19:29:33.690Z"
+    },
+    "742": {
+      "id": 742,
+      "name": "cutiefly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-30T07:21:31.250Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T07:21:31.250Z",
+      "lastPulledAt": "2026-10-30T07:21:31.250Z"
     },
     "743": {
       "id": 743,

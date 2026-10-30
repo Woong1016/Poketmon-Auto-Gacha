@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-30T14:28:25.442Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-30T19:38:05.242Z",
   "lastPull": {
-    "id": 62,
-    "name": "poliwrath",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "id": 258,
+    "name": "mudkip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
     "types": [
-      "water",
-      "fighting"
+      "water"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-30T14:28:25.442Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-30T19:38:05.242Z"
   },
   "pulls": [
+    {
+      "id": 258,
+      "name": "mudkip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-30T19:38:05.242Z"
+    },
     {
       "id": 62,
       "name": "poliwrath",
@@ -117,18 +127,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-28T19:47:33.245Z"
-    },
-    {
-      "id": 165,
-      "name": "ledyba",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-10-28T14:22:27.319Z"
     }
   ],
   "pokemon": {
@@ -994,6 +992,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T21:23:22.152Z",
       "lastPulledAt": "2026-10-29T21:23:22.152Z"
+    },
+    "258": {
+      "id": 258,
+      "name": "mudkip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-30T19:38:05.242Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T19:38:05.242Z",
+      "lastPulledAt": "2026-10-30T19:38:05.242Z"
     },
     "263": {
       "id": 263,

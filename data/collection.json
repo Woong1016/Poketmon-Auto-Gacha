@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 213,
-  "updatedAt": "2026-10-30T07:21:31.250Z",
+  "totalPulls": 214,
+  "updatedAt": "2026-10-30T14:28:25.442Z",
   "lastPull": {
-    "id": 742,
-    "name": "cutiefly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+    "id": 62,
+    "name": "poliwrath",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
     "types": [
-      "bug",
-      "fairy"
+      "water",
+      "fighting"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-10-30T07:21:31.250Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-30T14:28:25.442Z"
   },
   "pulls": [
+    {
+      "id": 62,
+      "name": "poliwrath",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-30T14:28:25.442Z"
+    },
     {
       "id": 742,
       "name": "cutiefly",
@@ -117,17 +129,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-10-28T14:22:27.319Z"
-    },
-    {
-      "id": 99,
-      "name": "kingler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-28T07:24:45.282Z"
     }
   ],
   "pokemon": {
@@ -376,10 +377,10 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-09-21T11:01:14.115Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T11:01:14.115Z",
-      "lastPulledAt": "2026-09-21T11:01:14.115Z"
+      "lastPulledAt": "2026-10-30T14:28:25.442Z"
     },
     "77": {
       "id": 77,

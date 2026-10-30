@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 211,
-  "updatedAt": "2026-10-29T21:23:22.152Z",
+  "totalPulls": 212,
+  "updatedAt": "2026-10-30T01:18:04.212Z",
   "lastPull": {
-    "id": 248,
-    "name": "tyranitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
+    "id": 231,
+    "name": "phanpy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
     "types": [
-      "rock",
-      "dark"
+      "ground"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-29T21:23:22.152Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-30T01:18:04.212Z"
   },
   "pulls": [
+    {
+      "id": 231,
+      "name": "phanpy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-30T01:18:04.212Z"
+    },
     {
       "id": 248,
       "name": "tyranitar",
@@ -116,17 +126,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-28T01:35:21.306Z"
-    },
-    {
-      "id": 584,
-      "name": "vanilluxe",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-27T22:25:16.785Z"
     }
   ],
   "pokemon": {
@@ -882,10 +881,10 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-16T21:37:48.096Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T21:37:48.096Z",
-      "lastPulledAt": "2026-10-16T21:37:48.096Z"
+      "lastPulledAt": "2026-10-30T01:18:04.212Z"
     },
     "233": {
       "id": 233,

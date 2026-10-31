@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 216,
-  "updatedAt": "2026-10-30T23:16:09.294Z",
+  "totalPulls": 217,
+  "updatedAt": "2026-10-31T02:31:41.690Z",
   "lastPull": {
-    "id": 657,
-    "name": "frogadier",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
+    "id": 778,
+    "name": "mimikyu-disguised",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
     "types": [
-      "water"
+      "ghost",
+      "fairy"
     ],
-    "totalStats": 405,
+    "totalStats": 476,
     "grade": "R",
-    "pulledAt": "2026-10-30T23:16:09.294Z"
+    "pulledAt": "2026-10-31T02:31:41.690Z"
   },
   "pulls": [
+    {
+      "id": 778,
+      "name": "mimikyu-disguised",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-10-31T02:31:41.690Z"
+    },
     {
       "id": 657,
       "name": "frogadier",
@@ -116,17 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-29T02:56:38.827Z"
-    },
-    {
-      "id": 98,
-      "name": "krabby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 325,
-      "grade": "N",
-      "pulledAt": "2026-10-28T23:40:32.691Z"
     }
   ],
   "pokemon": {
@@ -2512,6 +2514,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T14:13:16.972Z",
       "lastPulledAt": "2026-10-04T14:13:16.972Z"
+    },
+    "778": {
+      "id": 778,
+      "name": "mimikyu-disguised",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-10-31T02:31:41.690Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T02:31:41.690Z",
+      "lastPulledAt": "2026-10-31T02:31:41.690Z"
     },
     "789": {
       "id": 789,

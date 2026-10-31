@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 220,
-  "updatedAt": "2026-10-31T19:23:17.495Z",
+  "totalPulls": 221,
+  "updatedAt": "2026-10-31T22:45:04.125Z",
   "lastPull": {
-    "id": 221,
-    "name": "piloswine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+    "id": 368,
+    "name": "gorebyss",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
     "types": [
-      "ice",
-      "ground"
+      "water"
     ],
-    "totalStats": 450,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-31T19:23:17.495Z"
+    "pulledAt": "2026-10-31T22:45:04.125Z"
   },
   "pulls": [
+    {
+      "id": 368,
+      "name": "gorebyss",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-31T22:45:04.125Z"
+    },
     {
       "id": 221,
       "name": "piloswine",
@@ -118,18 +128,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-30T01:18:04.212Z"
-    },
-    {
-      "id": 248,
-      "name": "tyranitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
-      "types": [
-        "rock",
-        "dark"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-29T21:23:22.152Z"
     }
   ],
   "pokemon": {
@@ -1301,10 +1299,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-30T01:37:34.311Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T01:37:34.311Z",
-      "lastPulledAt": "2026-09-30T01:37:34.311Z"
+      "lastPulledAt": "2026-10-31T22:45:04.125Z"
     },
     "375": {
       "id": 375,

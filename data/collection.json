@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-31T08:52:43.915Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-31T15:14:57.584Z",
   "lastPull": {
-    "id": 350,
-    "name": "milotic",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "id": 564,
+    "name": "tirtouga",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
     "types": [
-      "water"
+      "water",
+      "rock"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-31T08:52:43.915Z"
+    "totalStats": 355,
+    "grade": "N",
+    "pulledAt": "2026-10-31T15:14:57.584Z"
   },
   "pulls": [
+    {
+      "id": 564,
+      "name": "tirtouga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-31T15:14:57.584Z"
+    },
     {
       "id": 350,
       "name": "milotic",
@@ -116,17 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-29T16:29:00.221Z"
-    },
-    {
-      "id": 744,
-      "name": "rockruff",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-10-29T09:47:35.808Z"
     }
   ],
   "pokemon": {
@@ -1891,6 +1893,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T06:55:26.595Z",
       "lastPulledAt": "2026-10-02T06:55:26.595Z"
+    },
+    "564": {
+      "id": 564,
+      "name": "tirtouga",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-31T15:14:57.584Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T15:14:57.584Z",
+      "lastPulledAt": "2026-10-31T15:14:57.584Z"
     },
     "581": {
       "id": 581,

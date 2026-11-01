@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 225,
-  "updatedAt": "2026-11-01T19:48:11.998Z",
+  "totalPulls": 226,
+  "updatedAt": "2026-11-01T23:12:46.153Z",
   "lastPull": {
-    "id": 288,
-    "name": "vigoroth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "id": 784,
+    "name": "kommo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
     "types": [
-      "normal"
+      "dragon",
+      "fighting"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-11-01T19:48:11.998Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-01T23:12:46.153Z"
   },
   "pulls": [
+    {
+      "id": 784,
+      "name": "kommo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T23:12:46.153Z"
+    },
     {
       "id": 288,
       "name": "vigoroth",
@@ -117,17 +130,6 @@
       "totalStats": 476,
       "grade": "R",
       "pulledAt": "2026-10-31T02:31:41.690Z"
-    },
-    {
-      "id": 657,
-      "name": "frogadier",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-30T23:16:09.294Z"
     }
   ],
   "pokemon": {
@@ -2576,6 +2578,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T02:31:41.690Z",
       "lastPulledAt": "2026-10-31T02:31:41.690Z"
+    },
+    "784": {
+      "id": 784,
+      "name": "kommo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T23:12:46.153Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T23:12:46.153Z",
+      "lastPulledAt": "2026-11-01T23:12:46.153Z"
     },
     "789": {
       "id": 789,

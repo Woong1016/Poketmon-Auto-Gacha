@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-11-01T08:09:50.962Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-11-01T15:14:28.871Z",
   "lastPull": {
-    "id": 887,
-    "name": "dragapult",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "id": 691,
+    "name": "dragalge",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
     "types": [
-      "dragon",
-      "ghost"
+      "poison",
+      "dragon"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-01T08:09:50.962Z"
+    "totalStats": 494,
+    "grade": "R",
+    "pulledAt": "2026-11-01T15:14:28.871Z"
   },
   "pulls": [
+    {
+      "id": 691,
+      "name": "dragalge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-11-01T15:14:28.871Z"
+    },
     {
       "id": 887,
       "name": "dragapult",
@@ -117,18 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-30T19:38:05.242Z"
-    },
-    {
-      "id": 62,
-      "name": "poliwrath",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-30T14:28:25.442Z"
     }
   ],
   "pokemon": {
@@ -2297,6 +2297,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T07:00:34.959Z",
       "lastPulledAt": "2026-10-11T07:00:34.959Z"
+    },
+    "691": {
+      "id": 691,
+      "name": "dragalge",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 494,
+      "grade": "R",
+      "pulledAt": "2026-11-01T15:14:28.871Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T15:14:28.871Z",
+      "lastPulledAt": "2026-11-01T15:14:28.871Z"
     },
     "701": {
       "id": 701,

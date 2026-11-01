@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 221,
-  "updatedAt": "2026-10-31T22:45:04.125Z",
+  "totalPulls": 222,
+  "updatedAt": "2026-11-01T01:32:09.321Z",
   "lastPull": {
-    "id": 368,
-    "name": "gorebyss",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+    "id": 975,
+    "name": "cetitan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
     "types": [
-      "water"
+      "ice"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-31T22:45:04.125Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-11-01T01:32:09.321Z"
   },
   "pulls": [
+    {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T01:32:09.321Z"
+    },
     {
       "id": 368,
       "name": "gorebyss",
@@ -117,17 +128,6 @@
       "totalStats": 304,
       "grade": "N",
       "pulledAt": "2026-10-30T07:21:31.250Z"
-    },
-    {
-      "id": 231,
-      "name": "phanpy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-30T01:18:04.212Z"
     }
   ],
   "pokemon": {
@@ -3009,6 +3009,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T13:37:20.083Z",
       "lastPulledAt": "2026-10-07T13:37:20.083Z"
+    },
+    "975": {
+      "id": 975,
+      "name": "cetitan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T01:32:09.321Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T01:32:09.321Z",
+      "lastPulledAt": "2026-11-01T01:32:09.321Z"
     },
     "978": {
       "id": 978,

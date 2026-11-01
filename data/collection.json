@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 222,
-  "updatedAt": "2026-11-01T01:32:09.321Z",
+  "totalPulls": 223,
+  "updatedAt": "2026-11-01T08:09:50.962Z",
   "lastPull": {
-    "id": 975,
-    "name": "cetitan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    "id": 887,
+    "name": "dragapult",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
     "types": [
-      "ice"
+      "dragon",
+      "ghost"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-11-01T01:32:09.321Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-01T08:09:50.962Z"
   },
   "pulls": [
+    {
+      "id": 887,
+      "name": "dragapult",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T08:09:50.962Z"
+    },
     {
       "id": 975,
       "name": "cetitan",
@@ -116,18 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-30T14:28:25.442Z"
-    },
-    {
-      "id": 742,
-      "name": "cutiefly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
-      "types": [
-        "bug",
-        "fairy"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-10-30T07:21:31.250Z"
     }
   ],
   "pokemon": {
@@ -2774,6 +2775,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T00:19:45.189Z",
       "lastPulledAt": "2026-10-14T00:19:45.189Z"
+    },
+    "887": {
+      "id": 887,
+      "name": "dragapult",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T08:09:50.962Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T08:09:50.962Z",
+      "lastPulledAt": "2026-11-01T08:09:50.962Z"
     },
     "896": {
       "id": 896,

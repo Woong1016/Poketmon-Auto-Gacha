@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 227,
-  "updatedAt": "2026-11-02T02:36:46.160Z",
+  "totalPulls": 228,
+  "updatedAt": "2026-11-02T09:58:16.364Z",
   "lastPull": {
-    "id": 834,
-    "name": "drednaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "id": 155,
+    "name": "cyndaquil",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
     "types": [
-      "water",
-      "rock"
+      "fire"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-02T02:36:46.160Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-11-02T09:58:16.364Z"
   },
   "pulls": [
+    {
+      "id": 155,
+      "name": "cyndaquil",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-11-02T09:58:16.364Z"
+    },
     {
       "id": 834,
       "name": "drednaw",
@@ -119,17 +129,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-10-31T15:14:57.584Z"
-    },
-    {
-      "id": 350,
-      "name": "milotic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-31T08:52:43.915Z"
     }
   ],
   "pokemon": {
@@ -683,10 +682,10 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-09-24T04:31:33.600Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T04:31:33.600Z",
-      "lastPulledAt": "2026-09-24T04:31:33.600Z"
+      "lastPulledAt": "2026-11-02T09:58:16.364Z"
     },
     "161": {
       "id": 161,

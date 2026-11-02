@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-11-02T09:58:16.364Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-11-02T20:15:45.419Z",
   "lastPull": {
-    "id": 155,
-    "name": "cyndaquil",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
+    "id": 811,
+    "name": "thwackey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
     "types": [
-      "fire"
+      "grass"
     ],
-    "totalStats": 309,
-    "grade": "N",
-    "pulledAt": "2026-11-02T09:58:16.364Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-11-02T20:15:45.419Z"
   },
   "pulls": [
+    {
+      "id": 811,
+      "name": "thwackey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-11-02T20:15:45.419Z"
+    },
     {
       "id": 155,
       "name": "cyndaquil",
@@ -117,18 +128,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-10-31T19:23:17.495Z"
-    },
-    {
-      "id": 564,
-      "name": "tirtouga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-31T15:14:57.584Z"
     }
   ],
   "pokemon": {
@@ -2664,10 +2663,10 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-20T18:41:34.896Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T18:41:34.896Z",
-      "lastPulledAt": "2026-10-20T18:41:34.896Z"
+      "lastPulledAt": "2026-11-02T20:15:45.419Z"
     },
     "823": {
       "id": 823,

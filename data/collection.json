@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 226,
-  "updatedAt": "2026-11-01T23:12:46.153Z",
+  "totalPulls": 227,
+  "updatedAt": "2026-11-02T02:36:46.160Z",
   "lastPull": {
-    "id": 784,
-    "name": "kommo-o",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
+    "id": 834,
+    "name": "drednaw",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
     "types": [
-      "dragon",
-      "fighting"
+      "water",
+      "rock"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-01T23:12:46.153Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-02T02:36:46.160Z"
   },
   "pulls": [
+    {
+      "id": 834,
+      "name": "drednaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-02T02:36:46.160Z"
+    },
     {
       "id": 784,
       "name": "kommo-o",
@@ -118,18 +130,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-31T08:52:43.915Z"
-    },
-    {
-      "id": 778,
-      "name": "mimikyu-disguised",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
-      "types": [
-        "ghost",
-        "fairy"
-      ],
-      "totalStats": 476,
-      "grade": "R",
-      "pulledAt": "2026-10-31T02:31:41.690Z"
     }
   ],
   "pokemon": {
@@ -2700,6 +2700,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T11:47:51.368Z",
       "lastPulledAt": "2026-10-22T11:47:51.368Z"
+    },
+    "834": {
+      "id": 834,
+      "name": "drednaw",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-02T02:36:46.160Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T02:36:46.160Z",
+      "lastPulledAt": "2026-11-02T02:36:46.160Z"
     },
     "836": {
       "id": 836,

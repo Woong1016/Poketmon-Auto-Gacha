@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 231,
-  "updatedAt": "2026-11-03T09:57:22.817Z",
+  "totalPulls": 232,
+  "updatedAt": "2026-11-03T17:43:32.689Z",
   "lastPull": {
-    "id": 105,
-    "name": "marowak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "id": 1014,
+    "name": "okidogi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
     "types": [
-      "ground"
+      "poison",
+      "fighting"
     ],
-    "totalStats": 425,
-    "grade": "R",
-    "pulledAt": "2026-11-03T09:57:22.817Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T17:43:32.689Z"
   },
   "pulls": [
+    {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T17:43:32.689Z"
+    },
     {
       "id": 105,
       "name": "marowak",
@@ -117,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-01T08:09:50.962Z"
-    },
-    {
-      "id": 975,
-      "name": "cetitan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-11-01T01:32:09.321Z"
     }
   ],
   "pokemon": {
@@ -3263,6 +3265,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T01:51:04.695Z",
       "lastPulledAt": "2026-10-23T01:51:04.695Z"
+    },
+    "1014": {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T17:43:32.689Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T17:43:32.689Z",
+      "lastPulledAt": "2026-11-03T17:43:32.689Z"
     },
     "1021": {
       "id": 1021,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 229,
-  "updatedAt": "2026-11-02T20:15:45.419Z",
+  "totalPulls": 230,
+  "updatedAt": "2026-11-03T02:27:32.961Z",
   "lastPull": {
-    "id": 811,
-    "name": "thwackey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "id": 760,
+    "name": "bewear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
     "types": [
-      "grass"
+      "normal",
+      "fighting"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-11-02T20:15:45.419Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T02:27:32.961Z"
   },
   "pulls": [
+    {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T02:27:32.961Z"
+    },
     {
       "id": 811,
       "name": "thwackey",
@@ -116,18 +129,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-31T22:45:04.125Z"
-    },
-    {
-      "id": 221,
-      "name": "piloswine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
-      "types": [
-        "ice",
-        "ground"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-31T19:23:17.495Z"
     }
   ],
   "pokemon": {
@@ -2529,6 +2530,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T18:35:57.835Z",
       "lastPulledAt": "2026-09-26T18:35:57.835Z"
+    },
+    "760": {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T02:27:32.961Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T02:27:32.961Z",
+      "lastPulledAt": "2026-11-03T02:27:32.961Z"
     },
     "762": {
       "id": 762,

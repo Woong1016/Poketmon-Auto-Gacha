@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 232,
-  "updatedAt": "2026-11-03T17:43:32.689Z",
+  "totalPulls": 233,
+  "updatedAt": "2026-11-03T22:35:40.850Z",
   "lastPull": {
-    "id": 1014,
-    "name": "okidogi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+    "id": 83,
+    "name": "farfetchd",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
     "types": [
-      "poison",
-      "fighting"
+      "normal",
+      "flying"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-11-03T17:43:32.689Z"
+    "totalStats": 377,
+    "grade": "N",
+    "pulledAt": "2026-11-03T22:35:40.850Z"
   },
   "pulls": [
+    {
+      "id": 83,
+      "name": "farfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 377,
+      "grade": "N",
+      "pulledAt": "2026-11-03T22:35:40.850Z"
+    },
     {
       "id": 1014,
       "name": "okidogi",
@@ -118,18 +130,6 @@
       "totalStats": 494,
       "grade": "R",
       "pulledAt": "2026-11-01T15:14:28.871Z"
-    },
-    {
-      "id": 887,
-      "name": "dragapult",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-01T08:09:50.962Z"
     }
   ],
   "pokemon": {
@@ -397,6 +397,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T01:19:10.056Z",
       "lastPulledAt": "2026-10-13T01:19:10.056Z"
+    },
+    "83": {
+      "id": 83,
+      "name": "farfetchd",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 377,
+      "grade": "N",
+      "pulledAt": "2026-11-03T22:35:40.850Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T22:35:40.850Z",
+      "lastPulledAt": "2026-11-03T22:35:40.850Z"
     },
     "86": {
       "id": 86,

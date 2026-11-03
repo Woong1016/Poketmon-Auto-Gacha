@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 230,
-  "updatedAt": "2026-11-03T02:27:32.961Z",
+  "totalPulls": 231,
+  "updatedAt": "2026-11-03T09:57:22.817Z",
   "lastPull": {
-    "id": 760,
-    "name": "bewear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "id": 105,
+    "name": "marowak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
     "types": [
-      "normal",
-      "fighting"
+      "ground"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-03T02:27:32.961Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-11-03T09:57:22.817Z"
   },
   "pulls": [
+    {
+      "id": 105,
+      "name": "marowak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-03T09:57:22.817Z"
+    },
     {
       "id": 760,
       "name": "bewear",
@@ -118,17 +128,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-11-01T01:32:09.321Z"
-    },
-    {
-      "id": 368,
-      "name": "gorebyss",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-31T22:45:04.125Z"
     }
   ],
   "pokemon": {
@@ -514,10 +513,10 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-10-15T05:46:25.714Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T05:46:25.714Z",
-      "lastPulledAt": "2026-10-15T05:46:25.714Z"
+      "lastPulledAt": "2026-11-03T09:57:22.817Z"
     },
     "106": {
       "id": 106,

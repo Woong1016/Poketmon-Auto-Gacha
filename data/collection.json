@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 233,
-  "updatedAt": "2026-11-03T22:35:40.850Z",
+  "totalPulls": 234,
+  "updatedAt": "2026-11-04T02:42:08.922Z",
   "lastPull": {
-    "id": 83,
-    "name": "farfetchd",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "id": 890,
+    "name": "eternatus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
     "types": [
-      "normal",
-      "flying"
+      "poison",
+      "dragon"
     ],
-    "totalStats": 377,
-    "grade": "N",
-    "pulledAt": "2026-11-03T22:35:40.850Z"
+    "totalStats": 690,
+    "grade": "SSR",
+    "pulledAt": "2026-11-04T02:42:08.922Z"
   },
   "pulls": [
+    {
+      "id": 890,
+      "name": "eternatus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 690,
+      "grade": "SSR",
+      "pulledAt": "2026-11-04T02:42:08.922Z"
+    },
     {
       "id": 83,
       "name": "farfetchd",
@@ -118,18 +130,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-11-01T19:48:11.998Z"
-    },
-    {
-      "id": 691,
-      "name": "dragalge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 494,
-      "grade": "R",
-      "pulledAt": "2026-11-01T15:14:28.871Z"
     }
   ],
   "pokemon": {
@@ -2887,6 +2887,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T08:09:50.962Z",
       "lastPulledAt": "2026-11-01T08:09:50.962Z"
+    },
+    "890": {
+      "id": 890,
+      "name": "eternatus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "totalStats": 690,
+      "grade": "SSR",
+      "pulledAt": "2026-11-04T02:42:08.922Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T02:42:08.922Z",
+      "lastPulledAt": "2026-11-04T02:42:08.922Z"
     },
     "896": {
       "id": 896,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 234,
-  "updatedAt": "2026-11-04T02:42:08.922Z",
+  "totalPulls": 235,
+  "updatedAt": "2026-11-04T09:58:24.632Z",
   "lastPull": {
-    "id": 890,
-    "name": "eternatus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
+    "id": 57,
+    "name": "primeape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
     "types": [
-      "poison",
-      "dragon"
+      "fighting"
     ],
-    "totalStats": 690,
-    "grade": "SSR",
-    "pulledAt": "2026-11-04T02:42:08.922Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-11-04T09:58:24.632Z"
   },
   "pulls": [
+    {
+      "id": 57,
+      "name": "primeape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-11-04T09:58:24.632Z"
+    },
     {
       "id": 890,
       "name": "eternatus",
@@ -119,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-01T23:12:46.153Z"
-    },
-    {
-      "id": 288,
-      "name": "vigoroth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-11-01T19:48:11.998Z"
     }
   ],
   "pokemon": {
@@ -347,10 +346,10 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-25T05:06:38.509Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T05:06:38.509Z",
-      "lastPulledAt": "2026-10-24T18:43:24.232Z"
+      "lastPulledAt": "2026-11-04T09:58:24.632Z"
     },
     "60": {
       "id": 60,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 237,
-  "updatedAt": "2026-11-04T23:33:25.146Z",
+  "totalPulls": 238,
+  "updatedAt": "2026-11-05T03:43:57.705Z",
   "lastPull": {
-    "id": 30,
-    "name": "nidorina",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "id": 563,
+    "name": "cofagrigus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
     "types": [
-      "poison"
+      "ghost"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-11-04T23:33:25.146Z"
+    "totalStats": 483,
+    "grade": "R",
+    "pulledAt": "2026-11-05T03:43:57.705Z"
   },
   "pulls": [
+    {
+      "id": 563,
+      "name": "cofagrigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-05T03:43:57.705Z"
+    },
     {
       "id": 30,
       "name": "nidorina",
@@ -116,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-02T20:15:45.419Z"
-    },
-    {
-      "id": 155,
-      "name": "cyndaquil",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 309,
-      "grade": "N",
-      "pulledAt": "2026-11-02T09:58:16.364Z"
     }
   ],
   "pokemon": {
@@ -1937,6 +1937,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T06:55:26.595Z",
       "lastPulledAt": "2026-10-02T06:55:26.595Z"
+    },
+    "563": {
+      "id": 563,
+      "name": "cofagrigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-05T03:43:57.705Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T03:43:57.705Z",
+      "lastPulledAt": "2026-11-05T03:43:57.705Z"
     },
     "564": {
       "id": 564,

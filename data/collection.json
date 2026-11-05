@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 239,
-  "updatedAt": "2026-11-05T11:39:06.644Z",
+  "totalPulls": 240,
+  "updatedAt": "2026-11-05T19:01:29.197Z",
   "lastPull": {
-    "id": 68,
-    "name": "machamp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "id": 799,
+    "name": "guzzlord",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
     "types": [
-      "fighting"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 505,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-11-05T11:39:06.644Z"
+    "pulledAt": "2026-11-05T19:01:29.197Z"
   },
   "pulls": [
+    {
+      "id": 799,
+      "name": "guzzlord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T19:01:29.197Z"
+    },
     {
       "id": 68,
       "name": "machamp",
@@ -115,18 +128,6 @@
       "totalStats": 425,
       "grade": "R",
       "pulledAt": "2026-11-03T09:57:22.817Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T02:27:32.961Z"
     }
   ],
   "pokemon": {
@@ -2713,6 +2714,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T00:33:59.770Z",
       "lastPulledAt": "2026-09-29T00:33:59.770Z"
+    },
+    "799": {
+      "id": 799,
+      "name": "guzzlord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-05T19:01:29.197Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T19:01:29.197Z",
+      "lastPulledAt": "2026-11-05T19:01:29.197Z"
     },
     "800": {
       "id": 800,

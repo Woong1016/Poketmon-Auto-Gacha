@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 241,
-  "updatedAt": "2026-11-06T00:13:19.563Z",
+  "totalPulls": 242,
+  "updatedAt": "2026-11-06T07:01:20.931Z",
   "lastPull": {
-    "id": 788,
-    "name": "tapu-fini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
+    "id": 40,
+    "name": "wigglytuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
     "types": [
-      "water",
+      "normal",
       "fairy"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-06T00:13:19.563Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-11-06T07:01:20.931Z"
   },
   "pulls": [
+    {
+      "id": 40,
+      "name": "wigglytuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-11-06T07:01:20.931Z"
+    },
     {
       "id": 788,
       "name": "tapu-fini",
@@ -117,18 +129,6 @@
       "totalStats": 377,
       "grade": "N",
       "pulledAt": "2026-11-03T22:35:40.850Z"
-    },
-    {
-      "id": 1014,
-      "name": "okidogi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T17:43:32.689Z"
     }
   ],
   "pokemon": {
@@ -284,10 +284,10 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-01T09:05:48.803Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T09:05:48.803Z",
-      "lastPulledAt": "2026-10-01T09:05:48.803Z"
+      "lastPulledAt": "2026-11-06T07:01:20.931Z"
     },
     "43": {
       "id": 43,

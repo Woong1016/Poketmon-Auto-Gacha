@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 240,
-  "updatedAt": "2026-11-05T19:01:29.197Z",
+  "totalPulls": 241,
+  "updatedAt": "2026-11-06T00:13:19.563Z",
   "lastPull": {
-    "id": 799,
-    "name": "guzzlord",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "id": 788,
+    "name": "tapu-fini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
     "types": [
-      "dark",
-      "dragon"
+      "water",
+      "fairy"
     ],
     "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-11-05T19:01:29.197Z"
+    "pulledAt": "2026-11-06T00:13:19.563Z"
   },
   "pulls": [
+    {
+      "id": 788,
+      "name": "tapu-fini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T00:13:19.563Z"
+    },
     {
       "id": 799,
       "name": "guzzlord",
@@ -117,17 +129,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-11-03T17:43:32.689Z"
-    },
-    {
-      "id": 105,
-      "name": "marowak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-11-03T09:57:22.817Z"
     }
   ],
   "pokemon": {
@@ -2669,6 +2670,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T23:12:46.153Z",
       "lastPulledAt": "2026-11-01T23:12:46.153Z"
+    },
+    "788": {
+      "id": 788,
+      "name": "tapu-fini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T00:13:19.563Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T00:13:19.563Z",
+      "lastPulledAt": "2026-11-06T00:13:19.563Z"
     },
     "789": {
       "id": 789,

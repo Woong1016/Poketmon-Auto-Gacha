@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-11-06T07:01:20.931Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-11-06T14:59:55.041Z",
   "lastPull": {
-    "id": 40,
-    "name": "wigglytuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "id": 103,
+    "name": "exeggutor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
     "types": [
-      "normal",
-      "fairy"
+      "grass",
+      "psychic"
     ],
-    "totalStats": 435,
-    "grade": "R",
-    "pulledAt": "2026-11-06T07:01:20.931Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-06T14:59:55.041Z"
   },
   "pulls": [
+    {
+      "id": 103,
+      "name": "exeggutor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T14:59:55.041Z"
+    },
     {
       "id": 40,
       "name": "wigglytuff",
@@ -117,18 +129,6 @@
       "totalStats": 690,
       "grade": "SSR",
       "pulledAt": "2026-11-04T02:42:08.922Z"
-    },
-    {
-      "id": 83,
-      "name": "farfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 377,
-      "grade": "N",
-      "pulledAt": "2026-11-03T22:35:40.850Z"
     }
   ],
   "pokemon": {
@@ -549,6 +549,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T07:24:45.282Z",
       "lastPulledAt": "2026-10-28T07:24:45.282Z"
+    },
+    "103": {
+      "id": 103,
+      "name": "exeggutor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T14:59:55.041Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T14:59:55.041Z",
+      "lastPulledAt": "2026-11-06T14:59:55.041Z"
     },
     "105": {
       "id": 105,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 243,
-  "updatedAt": "2026-11-06T14:59:55.041Z",
+  "totalPulls": 244,
+  "updatedAt": "2026-11-06T20:50:05.461Z",
   "lastPull": {
-    "id": 103,
-    "name": "exeggutor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "id": 705,
+    "name": "sliggoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
     "types": [
-      "grass",
-      "psychic"
+      "dragon"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-06T14:59:55.041Z"
+    "totalStats": 452,
+    "grade": "R",
+    "pulledAt": "2026-11-06T20:50:05.461Z"
   },
   "pulls": [
+    {
+      "id": 705,
+      "name": "sliggoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-11-06T20:50:05.461Z"
+    },
     {
       "id": 103,
       "name": "exeggutor",
@@ -117,18 +127,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-04T09:58:24.632Z"
-    },
-    {
-      "id": 890,
-      "name": "eternatus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 690,
-      "grade": "SSR",
-      "pulledAt": "2026-11-04T02:42:08.922Z"
     }
   ],
   "pokemon": {
@@ -2436,6 +2434,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T00:12:22.154Z",
       "lastPulledAt": "2026-09-25T00:12:22.154Z"
+    },
+    "705": {
+      "id": 705,
+      "name": "sliggoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-11-06T20:50:05.461Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T20:50:05.461Z",
+      "lastPulledAt": "2026-11-06T20:50:05.461Z"
     },
     "713": {
       "id": 713,

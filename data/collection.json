@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 245,
-  "updatedAt": "2026-11-07T00:34:05.496Z",
+  "totalPulls": 246,
+  "updatedAt": "2026-11-07T06:36:09.003Z",
   "lastPull": {
-    "id": 555,
-    "name": "darmanitan-standard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "id": 113,
+    "name": "chansey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
     "types": [
-      "fire"
+      "normal"
     ],
-    "totalStats": 480,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-11-07T00:34:05.496Z"
+    "pulledAt": "2026-11-07T06:36:09.003Z"
   },
   "pulls": [
+    {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-07T06:36:09.003Z"
+    },
     {
       "id": 555,
       "name": "darmanitan-standard",
@@ -116,17 +127,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-11-04T23:33:25.146Z"
-    },
-    {
-      "id": 790,
-      "name": "cosmoem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-11-04T17:56:31.010Z"
     }
   ],
   "pokemon": {
@@ -593,6 +593,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:17:55.384Z",
       "lastPulledAt": "2026-09-27T15:17:55.384Z"
+    },
+    "113": {
+      "id": 113,
+      "name": "chansey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-07T06:36:09.003Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T06:36:09.003Z",
+      "lastPulledAt": "2026-11-07T06:36:09.003Z"
     },
     "117": {
       "id": 117,

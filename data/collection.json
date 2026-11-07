@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 247,
-  "updatedAt": "2026-11-07T13:34:00.205Z",
+  "totalPulls": 248,
+  "updatedAt": "2026-11-07T18:18:51.338Z",
   "lastPull": {
-    "id": 669,
-    "name": "flabebe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+    "id": 993,
+    "name": "iron-jugulis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
     "types": [
-      "fairy"
+      "dark",
+      "flying"
     ],
-    "totalStats": 303,
-    "grade": "N",
-    "pulledAt": "2026-11-07T13:34:00.205Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-07T18:18:51.338Z"
   },
   "pulls": [
+    {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T18:18:51.338Z"
+    },
     {
       "id": 669,
       "name": "flabebe",
@@ -116,17 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-05T11:39:06.644Z"
-    },
-    {
-      "id": 563,
-      "name": "cofagrigus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-11-05T03:43:57.705Z"
     }
   ],
   "pokemon": {
@@ -3383,6 +3385,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T16:11:02.709Z",
       "lastPulledAt": "2026-10-22T16:11:02.709Z"
+    },
+    "993": {
+      "id": 993,
+      "name": "iron-jugulis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-07T18:18:51.338Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T18:18:51.338Z",
+      "lastPulledAt": "2026-11-07T18:18:51.338Z"
     },
     "996": {
       "id": 996,

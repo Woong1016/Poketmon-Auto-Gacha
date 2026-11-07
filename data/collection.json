@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 244,
-  "updatedAt": "2026-11-06T20:50:05.461Z",
+  "totalPulls": 245,
+  "updatedAt": "2026-11-07T00:34:05.496Z",
   "lastPull": {
-    "id": 705,
-    "name": "sliggoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "id": 555,
+    "name": "darmanitan-standard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
     "types": [
-      "dragon"
+      "fire"
     ],
-    "totalStats": 452,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-11-06T20:50:05.461Z"
+    "pulledAt": "2026-11-07T00:34:05.496Z"
   },
   "pulls": [
+    {
+      "id": 555,
+      "name": "darmanitan-standard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-07T00:34:05.496Z"
+    },
     {
       "id": 705,
       "name": "sliggoo",
@@ -116,17 +127,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-11-04T17:56:31.010Z"
-    },
-    {
-      "id": 57,
-      "name": "primeape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-11-04T09:58:24.632Z"
     }
   ],
   "pokemon": {
@@ -1952,6 +1952,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T00:55:33.821Z",
       "lastPulledAt": "2026-10-21T22:46:23.830Z"
+    },
+    "555": {
+      "id": 555,
+      "name": "darmanitan-standard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-07T00:34:05.496Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T00:34:05.496Z",
+      "lastPulledAt": "2026-11-07T00:34:05.496Z"
     },
     "560": {
       "id": 560,

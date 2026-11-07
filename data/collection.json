@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 246,
-  "updatedAt": "2026-11-07T06:36:09.003Z",
+  "totalPulls": 247,
+  "updatedAt": "2026-11-07T13:34:00.205Z",
   "lastPull": {
-    "id": 113,
-    "name": "chansey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "id": 669,
+    "name": "flabebe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
     "types": [
-      "normal"
+      "fairy"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-11-07T06:36:09.003Z"
+    "totalStats": 303,
+    "grade": "N",
+    "pulledAt": "2026-11-07T13:34:00.205Z"
   },
   "pulls": [
+    {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-11-07T13:34:00.205Z"
+    },
     {
       "id": 113,
       "name": "chansey",
@@ -116,17 +127,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-11-05T03:43:57.705Z"
-    },
-    {
-      "id": 30,
-      "name": "nidorina",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-11-04T23:33:25.146Z"
     }
   ],
   "pokemon": {
@@ -2356,6 +2356,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T09:38:30.294Z",
       "lastPulledAt": "2026-10-20T09:38:30.294Z"
+    },
+    "669": {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-11-07T13:34:00.205Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T13:34:00.205Z",
+      "lastPulledAt": "2026-11-07T13:34:00.205Z"
     },
     "671": {
       "id": 671,

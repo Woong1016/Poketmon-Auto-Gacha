@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 252,
-  "updatedAt": "2026-11-08T14:58:46.864Z",
+  "totalPulls": 253,
+  "updatedAt": "2026-11-08T19:32:29.163Z",
   "lastPull": {
-    "id": 985,
-    "name": "scream-tail",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+    "id": 22,
+    "name": "fearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "types": [
-      "fairy",
-      "psychic"
+      "normal",
+      "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T14:58:46.864Z"
+    "totalStats": 442,
+    "grade": "R",
+    "pulledAt": "2026-11-08T19:32:29.163Z"
   },
   "pulls": [
+    {
+      "id": 22,
+      "name": "fearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 442,
+      "grade": "R",
+      "pulledAt": "2026-11-08T19:32:29.163Z"
+    },
     {
       "id": 985,
       "name": "scream-tail",
@@ -116,18 +128,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-11-06T20:50:05.461Z"
-    },
-    {
-      "id": 103,
-      "name": "exeggutor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
-      "types": [
-        "grass",
-        "psychic"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T14:59:55.041Z"
     }
   ],
   "pokemon": {
@@ -237,10 +237,10 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-10-05T14:24:02.192Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T14:24:02.192Z",
-      "lastPulledAt": "2026-10-05T14:24:02.192Z"
+      "lastPulledAt": "2026-11-08T19:32:29.163Z"
     },
     "28": {
       "id": 28,

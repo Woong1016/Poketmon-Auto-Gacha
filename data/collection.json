@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-11-07T22:07:28.450Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-11-08T01:26:27.413Z",
   "lastPull": {
-    "id": 272,
-    "name": "ludicolo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "id": 700,
+    "name": "sylveon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
     "types": [
-      "water",
-      "grass"
+      "fairy"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-11-07T22:07:28.450Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-08T01:26:27.413Z"
   },
   "pulls": [
+    {
+      "id": 700,
+      "name": "sylveon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T01:26:27.413Z"
+    },
     {
       "id": 272,
       "name": "ludicolo",
@@ -118,18 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-06T00:13:19.563Z"
-    },
-    {
-      "id": 799,
-      "name": "guzzlord",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-05T19:01:29.197Z"
     }
   ],
   "pokemon": {
@@ -2467,6 +2465,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T15:14:28.871Z",
       "lastPulledAt": "2026-11-01T15:14:28.871Z"
+    },
+    "700": {
+      "id": 700,
+      "name": "sylveon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T01:26:27.413Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T01:26:27.413Z",
+      "lastPulledAt": "2026-11-08T01:26:27.413Z"
     },
     "701": {
       "id": 701,

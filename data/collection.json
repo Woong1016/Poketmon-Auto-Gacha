@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-11-08T01:26:27.413Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-11-08T07:53:32.747Z",
   "lastPull": {
-    "id": 700,
-    "name": "sylveon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
+    "id": 706,
+    "name": "goodra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
     "types": [
-      "fairy"
+      "dragon"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T01:26:27.413Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-08T07:53:32.747Z"
   },
   "pulls": [
+    {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-08T07:53:32.747Z"
+    },
     {
       "id": 700,
       "name": "sylveon",
@@ -116,18 +127,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-11-06T07:01:20.931Z"
-    },
-    {
-      "id": 788,
-      "name": "tapu-fini",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
-      "types": [
-        "water",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T00:13:19.563Z"
     }
   ],
   "pokemon": {
@@ -2526,6 +2525,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T20:50:05.461Z",
       "lastPulledAt": "2026-11-06T20:50:05.461Z"
+    },
+    "706": {
+      "id": 706,
+      "name": "goodra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-08T07:53:32.747Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T07:53:32.747Z",
+      "lastPulledAt": "2026-11-08T07:53:32.747Z"
     },
     "713": {
       "id": 713,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 256,
-  "updatedAt": "2026-11-09T10:26:34.259Z",
+  "totalPulls": 257,
+  "updatedAt": "2026-11-09T21:00:14.791Z",
   "lastPull": {
-    "id": 918,
-    "name": "spidops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    "id": 409,
+    "name": "rampardos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
     "types": [
-      "bug"
+      "rock"
     ],
-    "totalStats": 404,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-11-09T10:26:34.259Z"
+    "pulledAt": "2026-11-09T21:00:14.791Z"
   },
   "pulls": [
+    {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-09T21:00:14.791Z"
+    },
     {
       "id": 918,
       "name": "spidops",
@@ -117,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-07T18:18:51.338Z"
-    },
-    {
-      "id": 669,
-      "name": "flabebe",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-11-07T13:34:00.205Z"
     }
   ],
   "pokemon": {
@@ -1546,10 +1546,10 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-04T01:56:49.305Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T01:56:49.305Z",
-      "lastPulledAt": "2026-10-04T01:56:49.305Z"
+      "lastPulledAt": "2026-11-09T21:00:14.791Z"
     },
     "412": {
       "id": 412,

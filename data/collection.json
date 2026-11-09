@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 254,
-  "updatedAt": "2026-11-08T23:08:54.221Z",
+  "totalPulls": 255,
+  "updatedAt": "2026-11-09T02:41:04.589Z",
   "lastPull": {
-    "id": 225,
-    "name": "delibird",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
+    "id": 405,
+    "name": "luxray",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
     "types": [
-      "ice",
-      "flying"
+      "electric"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-08T23:08:54.221Z"
+    "totalStats": 523,
+    "grade": "SR",
+    "pulledAt": "2026-11-09T02:41:04.589Z"
   },
   "pulls": [
+    {
+      "id": 405,
+      "name": "luxray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 523,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T02:41:04.589Z"
+    },
     {
       "id": 225,
       "name": "delibird",
@@ -118,17 +128,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-11-07T06:36:09.003Z"
-    },
-    {
-      "id": 555,
-      "name": "darmanitan-standard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-07T00:34:05.496Z"
     }
   ],
   "pokemon": {
@@ -1505,6 +1504,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T02:58:57.717Z",
       "lastPulledAt": "2026-10-09T02:58:57.717Z"
+    },
+    "405": {
+      "id": 405,
+      "name": "luxray",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 523,
+      "grade": "SR",
+      "pulledAt": "2026-11-09T02:41:04.589Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T02:41:04.589Z",
+      "lastPulledAt": "2026-11-09T02:41:04.589Z"
     },
     "406": {
       "id": 406,

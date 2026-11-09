@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 255,
-  "updatedAt": "2026-11-09T02:41:04.589Z",
+  "totalPulls": 256,
+  "updatedAt": "2026-11-09T10:26:34.259Z",
   "lastPull": {
-    "id": 405,
-    "name": "luxray",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
+    "id": 918,
+    "name": "spidops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
     "types": [
-      "electric"
+      "bug"
     ],
-    "totalStats": 523,
-    "grade": "SR",
-    "pulledAt": "2026-11-09T02:41:04.589Z"
+    "totalStats": 404,
+    "grade": "R",
+    "pulledAt": "2026-11-09T10:26:34.259Z"
   },
   "pulls": [
+    {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-11-09T10:26:34.259Z"
+    },
     {
       "id": 405,
       "name": "luxray",
@@ -117,17 +128,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-11-07T13:34:00.205Z"
-    },
-    {
-      "id": 113,
-      "name": "chansey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-11-07T06:36:09.003Z"
     }
   ],
   "pokemon": {
@@ -3210,6 +3210,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T18:38:40.729Z",
       "lastPulledAt": "2026-10-16T05:10:20.408Z"
+    },
+    "918": {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-11-09T10:26:34.259Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T10:26:34.259Z",
+      "lastPulledAt": "2026-11-09T10:26:34.259Z"
     },
     "919": {
       "id": 919,

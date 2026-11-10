@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-11-09T21:00:14.791Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-11-10T03:32:53.664Z",
   "lastPull": {
-    "id": 409,
-    "name": "rampardos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+    "id": 770,
+    "name": "palossand",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
     "types": [
-      "rock"
+      "ghost",
+      "ground"
     ],
-    "totalStats": 495,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-11-09T21:00:14.791Z"
+    "pulledAt": "2026-11-10T03:32:53.664Z"
   },
   "pulls": [
+    {
+      "id": 770,
+      "name": "palossand",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-10T03:32:53.664Z"
+    },
     {
       "id": 409,
       "name": "rampardos",
@@ -116,18 +129,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-07T22:07:28.450Z"
-    },
-    {
-      "id": 993,
-      "name": "iron-jugulis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-07T18:18:51.338Z"
     }
   ],
   "pokemon": {
@@ -2790,6 +2791,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T14:13:16.972Z",
       "lastPulledAt": "2026-10-04T14:13:16.972Z"
+    },
+    "770": {
+      "id": 770,
+      "name": "palossand",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
+      "types": [
+        "ghost",
+        "ground"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-10T03:32:53.664Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T03:32:53.664Z",
+      "lastPulledAt": "2026-11-10T03:32:53.664Z"
     },
     "778": {
       "id": 778,

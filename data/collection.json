@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 259,
-  "updatedAt": "2026-11-10T11:47:11.475Z",
+  "totalPulls": 260,
+  "updatedAt": "2026-11-10T18:55:56.240Z",
   "lastPull": {
-    "id": 327,
-    "name": "spinda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "id": 781,
+    "name": "dhelmise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
     "types": [
-      "normal"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-11-10T11:47:11.475Z"
+    "totalStats": 517,
+    "grade": "SR",
+    "pulledAt": "2026-11-10T18:55:56.240Z"
   },
   "pulls": [
+    {
+      "id": 781,
+      "name": "dhelmise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 517,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T18:55:56.240Z"
+    },
     {
       "id": 327,
       "name": "spinda",
@@ -116,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-08T07:53:32.747Z"
-    },
-    {
-      "id": 700,
-      "name": "sylveon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T01:26:27.413Z"
     }
   ],
   "pokemon": {
@@ -2821,6 +2823,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T02:31:41.690Z",
       "lastPulledAt": "2026-10-31T02:31:41.690Z"
+    },
+    "781": {
+      "id": 781,
+      "name": "dhelmise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 517,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T18:55:56.240Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T18:55:56.240Z",
+      "lastPulledAt": "2026-11-10T18:55:56.240Z"
     },
     "784": {
       "id": 784,

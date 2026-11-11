@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-11-11T14:03:41.410Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-11-11T21:24:19.672Z",
   "lastPull": {
-    "id": 307,
-    "name": "meditite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "id": 633,
+    "name": "deino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
     "types": [
-      "fighting",
-      "psychic"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 280,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-11T14:03:41.410Z"
+    "pulledAt": "2026-11-11T21:24:19.672Z"
   },
   "pulls": [
+    {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-11T21:24:19.672Z"
+    },
     {
       "id": 307,
       "name": "meditite",
@@ -117,18 +129,6 @@
       "totalStats": 523,
       "grade": "SR",
       "pulledAt": "2026-11-09T02:41:04.589Z"
-    },
-    {
-      "id": 225,
-      "name": "delibird",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
-      "types": [
-        "ice",
-        "flying"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-08T23:08:54.221Z"
     }
   ],
   "pokemon": {
@@ -2309,10 +2309,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-17T08:35:11.612Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T08:35:11.612Z",
-      "lastPulledAt": "2026-10-17T08:35:11.612Z"
+      "lastPulledAt": "2026-11-11T21:24:19.672Z"
     },
     "641": {
       "id": 641,

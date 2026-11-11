@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 261,
-  "updatedAt": "2026-11-10T23:58:37.453Z",
+  "totalPulls": 262,
+  "updatedAt": "2026-11-11T05:58:03.502Z",
   "lastPull": {
-    "id": 356,
-    "name": "dusclops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "id": 989,
+    "name": "sandy-shocks",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
     "types": [
-      "ghost"
+      "electric",
+      "ground"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-11-10T23:58:37.453Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-11T05:58:03.502Z"
   },
   "pulls": [
+    {
+      "id": 989,
+      "name": "sandy-shocks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+      "types": [
+        "electric",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T05:58:03.502Z"
+    },
     {
       "id": 356,
       "name": "dusclops",
@@ -116,18 +129,6 @@
       "totalStats": 442,
       "grade": "R",
       "pulledAt": "2026-11-08T19:32:29.163Z"
-    },
-    {
-      "id": 985,
-      "name": "scream-tail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
-      "types": [
-        "fairy",
-        "psychic"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T14:58:46.864Z"
     }
   ],
   "pokemon": {
@@ -3523,6 +3524,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:13:19.710Z",
       "lastPulledAt": "2026-10-04T18:13:19.710Z"
+    },
+    "989": {
+      "id": 989,
+      "name": "sandy-shocks",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+      "types": [
+        "electric",
+        "ground"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T05:58:03.502Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T05:58:03.502Z",
+      "lastPulledAt": "2026-11-11T05:58:03.502Z"
     },
     "990": {
       "id": 990,

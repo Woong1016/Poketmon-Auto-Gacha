@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 262,
-  "updatedAt": "2026-11-11T05:58:03.502Z",
+  "totalPulls": 263,
+  "updatedAt": "2026-11-11T14:03:41.410Z",
   "lastPull": {
-    "id": 989,
-    "name": "sandy-shocks",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+    "id": 307,
+    "name": "meditite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
     "types": [
-      "electric",
-      "ground"
+      "fighting",
+      "psychic"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T05:58:03.502Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-11-11T14:03:41.410Z"
   },
   "pulls": [
+    {
+      "id": 307,
+      "name": "meditite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-11T14:03:41.410Z"
+    },
     {
       "id": 989,
       "name": "sandy-shocks",
@@ -117,18 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-08T23:08:54.221Z"
-    },
-    {
-      "id": 22,
-      "name": "fearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 442,
-      "grade": "R",
-      "pulledAt": "2026-11-08T19:32:29.163Z"
     }
   ],
   "pokemon": {
@@ -1258,6 +1258,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T22:34:56.825Z",
       "lastPulledAt": "2026-10-14T22:34:56.825Z"
+    },
+    "307": {
+      "id": 307,
+      "name": "meditite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-11T14:03:41.410Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T14:03:41.410Z",
+      "lastPulledAt": "2026-11-11T14:03:41.410Z"
     },
     "321": {
       "id": 321,

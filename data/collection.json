@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 266,
-  "updatedAt": "2026-11-12T10:12:12.722Z",
+  "totalPulls": 267,
+  "updatedAt": "2026-11-12T18:25:40.295Z",
   "lastPull": {
-    "id": 682,
-    "name": "spritzee",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+    "id": 648,
+    "name": "meloetta-aria",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
     "types": [
-      "fairy"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 341,
-    "grade": "N",
-    "pulledAt": "2026-11-12T10:12:12.722Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-12T18:25:40.295Z"
   },
   "pulls": [
+    {
+      "id": 648,
+      "name": "meloetta-aria",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-12T18:25:40.295Z"
+    },
     {
       "id": 682,
       "name": "spritzee",
@@ -118,17 +131,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-10T03:32:53.664Z"
-    },
-    {
-      "id": 409,
-      "name": "rampardos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-11-09T21:00:14.791Z"
     }
   ],
   "pokemon": {
@@ -2376,6 +2378,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:25:45.069Z",
       "lastPulledAt": "2026-10-03T22:25:45.069Z"
+    },
+    "648": {
+      "id": 648,
+      "name": "meloetta-aria",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-12T18:25:40.295Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T18:25:40.295Z",
+      "lastPulledAt": "2026-11-12T18:25:40.295Z"
     },
     "651": {
       "id": 651,

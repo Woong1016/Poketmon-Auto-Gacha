@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 265,
-  "updatedAt": "2026-11-12T02:27:33.273Z",
+  "totalPulls": 266,
+  "updatedAt": "2026-11-12T10:12:12.722Z",
   "lastPull": {
-    "id": 347,
-    "name": "anorith",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+    "id": 682,
+    "name": "spritzee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
     "types": [
-      "rock",
-      "bug"
+      "fairy"
     ],
-    "totalStats": 355,
+    "totalStats": 341,
     "grade": "N",
-    "pulledAt": "2026-11-12T02:27:33.273Z"
+    "pulledAt": "2026-11-12T10:12:12.722Z"
   },
   "pulls": [
+    {
+      "id": 682,
+      "name": "spritzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-12T10:12:12.722Z"
+    },
     {
       "id": 347,
       "name": "anorith",
@@ -119,17 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-09T21:00:14.791Z"
-    },
-    {
-      "id": 918,
-      "name": "spidops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 404,
-      "grade": "R",
-      "pulledAt": "2026-11-09T10:26:34.259Z"
     }
   ],
   "pokemon": {
@@ -2498,6 +2497,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T20:43:41.456Z",
       "lastPulledAt": "2026-10-06T20:43:41.456Z"
+    },
+    "682": {
+      "id": 682,
+      "name": "spritzee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-12T10:12:12.722Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T10:12:12.722Z",
+      "lastPulledAt": "2026-11-12T10:12:12.722Z"
     },
     "685": {
       "id": 685,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 264,
-  "updatedAt": "2026-11-11T21:24:19.672Z",
+  "totalPulls": 265,
+  "updatedAt": "2026-11-12T02:27:33.273Z",
   "lastPull": {
-    "id": 633,
-    "name": "deino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "id": 347,
+    "name": "anorith",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
     "types": [
-      "dark",
-      "dragon"
+      "rock",
+      "bug"
     ],
-    "totalStats": 300,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-11-11T21:24:19.672Z"
+    "pulledAt": "2026-11-12T02:27:33.273Z"
   },
   "pulls": [
+    {
+      "id": 347,
+      "name": "anorith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-11-12T02:27:33.273Z"
+    },
     {
       "id": 633,
       "name": "deino",
@@ -118,17 +130,6 @@
       "totalStats": 404,
       "grade": "R",
       "pulledAt": "2026-11-09T10:26:34.259Z"
-    },
-    {
-      "id": 405,
-      "name": "luxray",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 523,
-      "grade": "SR",
-      "pulledAt": "2026-11-09T02:41:04.589Z"
     }
   ],
   "pokemon": {
@@ -1367,6 +1368,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T21:56:22.818Z",
       "lastPulledAt": "2026-10-20T21:56:22.818Z"
+    },
+    "347": {
+      "id": 347,
+      "name": "anorith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+      "types": [
+        "rock",
+        "bug"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-11-12T02:27:33.273Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T02:27:33.273Z",
+      "lastPulledAt": "2026-11-12T02:27:33.273Z"
     },
     "348": {
       "id": 348,

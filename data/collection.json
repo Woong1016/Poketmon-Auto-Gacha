@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-11-12T18:25:40.295Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-11-12T23:48:54.122Z",
   "lastPull": {
-    "id": 648,
-    "name": "meloetta-aria",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+    "id": 773,
+    "name": "silvally",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
     "types": [
-      "normal",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-12T18:25:40.295Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-12T23:48:54.122Z"
   },
   "pulls": [
+    {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-12T23:48:54.122Z"
+    },
     {
       "id": 648,
       "name": "meloetta-aria",
@@ -119,18 +129,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-11-10T11:47:11.475Z"
-    },
-    {
-      "id": 770,
-      "name": "palossand",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
-      "types": [
-        "ghost",
-        "ground"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-10T03:32:53.664Z"
     }
   ],
   "pokemon": {
@@ -2887,6 +2885,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-10T03:32:53.664Z",
       "lastPulledAt": "2026-11-10T03:32:53.664Z"
+    },
+    "773": {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-12T23:48:54.122Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T23:48:54.122Z",
+      "lastPulledAt": "2026-11-12T23:48:54.122Z"
     },
     "778": {
       "id": 778,

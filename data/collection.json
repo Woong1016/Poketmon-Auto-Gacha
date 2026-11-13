@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-13T04:12:16.936Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-13T12:22:46.188Z",
   "lastPull": {
-    "id": 295,
-    "name": "exploud",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+    "id": 978,
+    "name": "tatsugiri-curly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
     "types": [
-      "normal"
+      "dragon",
+      "water"
     ],
-    "totalStats": 490,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-11-13T04:12:16.936Z"
+    "pulledAt": "2026-11-13T12:22:46.188Z"
   },
   "pulls": [
+    {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-13T12:22:46.188Z"
+    },
     {
       "id": 295,
       "name": "exploud",
@@ -117,18 +130,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-11-10T23:58:37.453Z"
-    },
-    {
-      "id": 781,
-      "name": "dhelmise",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 517,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T18:55:56.240Z"
     }
   ],
   "pokemon": {
@@ -3549,10 +3550,10 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-21T10:23:48.342Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T10:23:48.342Z",
-      "lastPulledAt": "2026-10-21T10:23:48.342Z"
+      "lastPulledAt": "2026-11-13T12:22:46.188Z"
     },
     "981": {
       "id": 981,

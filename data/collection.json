@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 268,
-  "updatedAt": "2026-11-12T23:48:54.122Z",
+  "totalPulls": 269,
+  "updatedAt": "2026-11-13T04:12:16.936Z",
   "lastPull": {
-    "id": 773,
-    "name": "silvally",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "id": 295,
+    "name": "exploud",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
     "types": [
       "normal"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-12T23:48:54.122Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-13T04:12:16.936Z"
   },
   "pulls": [
+    {
+      "id": 295,
+      "name": "exploud",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-13T04:12:16.936Z"
+    },
     {
       "id": 773,
       "name": "silvally",
@@ -118,17 +129,6 @@
       "totalStats": 517,
       "grade": "SR",
       "pulledAt": "2026-11-10T18:55:56.240Z"
-    },
-    {
-      "id": 327,
-      "name": "spinda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-11-10T11:47:11.475Z"
     }
   ],
   "pokemon": {
@@ -1226,6 +1226,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T09:57:15.962Z",
       "lastPulledAt": "2026-10-18T09:57:15.962Z"
+    },
+    "295": {
+      "id": 295,
+      "name": "exploud",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-13T04:12:16.936Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T04:12:16.936Z",
+      "lastPulledAt": "2026-11-13T04:12:16.936Z"
     },
     "303": {
       "id": 303,

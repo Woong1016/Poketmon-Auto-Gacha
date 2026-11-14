@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 274,
-  "updatedAt": "2026-11-14T14:31:19.502Z",
+  "totalPulls": 275,
+  "updatedAt": "2026-11-14T19:28:32.226Z",
   "lastPull": {
-    "id": 884,
-    "name": "duraludon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+    "id": 364,
+    "name": "sealeo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
     "types": [
-      "steel",
-      "dragon"
+      "ice",
+      "water"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-11-14T14:31:19.502Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-14T19:28:32.226Z"
   },
   "pulls": [
+    {
+      "id": 364,
+      "name": "sealeo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:28:32.226Z"
+    },
     {
       "id": 884,
       "name": "duraludon",
@@ -117,18 +129,6 @@
       "totalStats": 341,
       "grade": "N",
       "pulledAt": "2026-11-12T10:12:12.722Z"
-    },
-    {
-      "id": 347,
-      "name": "anorith",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
-      "types": [
-        "rock",
-        "bug"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-11-12T02:27:33.273Z"
     }
   ],
   "pokemon": {
@@ -1491,6 +1491,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T22:29:39.744Z",
       "lastPulledAt": "2026-10-15T22:29:39.744Z"
+    },
+    "364": {
+      "id": 364,
+      "name": "sealeo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-14T19:28:32.226Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T19:28:32.226Z",
+      "lastPulledAt": "2026-11-14T19:28:32.226Z"
     },
     "368": {
       "id": 368,

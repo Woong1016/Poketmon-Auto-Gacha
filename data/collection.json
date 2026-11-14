@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 272,
-  "updatedAt": "2026-11-14T00:51:10.581Z",
+  "totalPulls": 273,
+  "updatedAt": "2026-11-14T07:31:06.781Z",
   "lastPull": {
-    "id": 356,
-    "name": "dusclops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "id": 409,
+    "name": "rampardos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
     "types": [
-      "ghost"
+      "rock"
     ],
-    "totalStats": 455,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-11-14T00:51:10.581Z"
+    "pulledAt": "2026-11-14T07:31:06.781Z"
   },
   "pulls": [
+    {
+      "id": 409,
+      "name": "rampardos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-14T07:31:06.781Z"
+    },
     {
       "id": 356,
       "name": "dusclops",
@@ -117,18 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-11T21:24:19.672Z"
-    },
-    {
-      "id": 307,
-      "name": "meditite",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
-      "types": [
-        "fighting",
-        "psychic"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-11T14:03:41.410Z"
     }
   ],
   "pokemon": {
@@ -1625,10 +1624,10 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-04T01:56:49.305Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T01:56:49.305Z",
-      "lastPulledAt": "2026-11-09T21:00:14.791Z"
+      "lastPulledAt": "2026-11-14T07:31:06.781Z"
     },
     "412": {
       "id": 412,

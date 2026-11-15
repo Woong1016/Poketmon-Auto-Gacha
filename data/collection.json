@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-15T02:54:37.202Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-15T10:39:31.778Z",
   "lastPull": {
-    "id": 757,
-    "name": "salandit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
+    "id": 453,
+    "name": "croagunk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
     "types": [
       "poison",
-      "fire"
+      "fighting"
     ],
-    "totalStats": 320,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-15T02:54:37.202Z"
+    "pulledAt": "2026-11-15T10:39:31.778Z"
   },
   "pulls": [
+    {
+      "id": 453,
+      "name": "croagunk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-15T10:39:31.778Z"
+    },
     {
       "id": 757,
       "name": "salandit",
@@ -118,17 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-13T04:12:16.936Z"
-    },
-    {
-      "id": 773,
-      "name": "silvally",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-12T23:48:54.122Z"
     }
   ],
   "pokemon": {
@@ -1846,6 +1847,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T11:21:41.857Z",
       "lastPulledAt": "2026-09-26T11:21:41.857Z"
+    },
+    "453": {
+      "id": 453,
+      "name": "croagunk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-15T10:39:31.778Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T10:39:31.778Z",
+      "lastPulledAt": "2026-11-15T10:39:31.778Z"
     },
     "456": {
       "id": 456,

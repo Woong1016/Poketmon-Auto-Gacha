@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 276,
-  "updatedAt": "2026-11-14T23:19:21.769Z",
+  "totalPulls": 277,
+  "updatedAt": "2026-11-15T02:54:37.202Z",
   "lastPull": {
-    "id": 108,
-    "name": "lickitung",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "id": 757,
+    "name": "salandit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
     "types": [
-      "normal"
+      "poison",
+      "fire"
     ],
-    "totalStats": 385,
+    "totalStats": 320,
     "grade": "N",
-    "pulledAt": "2026-11-14T23:19:21.769Z"
+    "pulledAt": "2026-11-15T02:54:37.202Z"
   },
   "pulls": [
+    {
+      "id": 757,
+      "name": "salandit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-15T02:54:37.202Z"
+    },
     {
       "id": 108,
       "name": "lickitung",
@@ -116,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-12T23:48:54.122Z"
-    },
-    {
-      "id": 648,
-      "name": "meloetta-aria",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-12T18:25:40.295Z"
     }
   ],
   "pokemon": {
@@ -2883,6 +2884,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T18:35:57.835Z",
       "lastPulledAt": "2026-09-26T18:35:57.835Z"
+    },
+    "757": {
+      "id": 757,
+      "name": "salandit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-11-15T02:54:37.202Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T02:54:37.202Z",
+      "lastPulledAt": "2026-11-15T02:54:37.202Z"
     },
     "760": {
       "id": 760,

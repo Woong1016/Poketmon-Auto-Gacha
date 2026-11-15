@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 279,
-  "updatedAt": "2026-11-15T17:25:53.677Z",
+  "totalPulls": 280,
+  "updatedAt": "2026-11-15T22:01:17.900Z",
   "lastPull": {
-    "id": 699,
-    "name": "aurorus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "id": 2,
+    "name": "ivysaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
     "types": [
-      "rock",
-      "ice"
+      "grass",
+      "poison"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-11-15T17:25:53.677Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-15T22:01:17.900Z"
   },
   "pulls": [
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-15T22:01:17.900Z"
+    },
     {
       "id": 699,
       "name": "aurorus",
@@ -119,21 +131,25 @@
       "totalStats": 456,
       "grade": "R",
       "pulledAt": "2026-11-13T19:58:13.834Z"
-    },
-    {
-      "id": 978,
-      "name": "tatsugiri-curly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
-      "types": [
-        "dragon",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-11-13T12:22:46.188Z"
     }
   ],
   "pokemon": {
+    "2": {
+      "id": 2,
+      "name": "ivysaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-15T22:01:17.900Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T22:01:17.900Z",
+      "lastPulledAt": "2026-11-15T22:01:17.900Z"
+    },
     "3": {
       "id": 3,
       "name": "venusaur",

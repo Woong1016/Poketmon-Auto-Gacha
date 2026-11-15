@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-15T10:39:31.778Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-15T17:25:53.677Z",
   "lastPull": {
-    "id": 453,
-    "name": "croagunk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
+    "id": 699,
+    "name": "aurorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
     "types": [
-      "poison",
-      "fighting"
+      "rock",
+      "ice"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-15T10:39:31.778Z"
+    "totalStats": 521,
+    "grade": "SR",
+    "pulledAt": "2026-11-15T17:25:53.677Z"
   },
   "pulls": [
+    {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T17:25:53.677Z"
+    },
     {
       "id": 453,
       "name": "croagunk",
@@ -119,17 +131,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-13T12:22:46.188Z"
-    },
-    {
-      "id": 295,
-      "name": "exploud",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-13T04:12:16.936Z"
     }
   ],
   "pokemon": {
@@ -2654,6 +2655,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T15:14:28.871Z",
       "lastPulledAt": "2026-11-01T15:14:28.871Z"
+    },
+    "699": {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-11-15T17:25:53.677Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T17:25:53.677Z",
+      "lastPulledAt": "2026-11-15T17:25:53.677Z"
     },
     "700": {
       "id": 700,

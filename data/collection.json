@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 283,
-  "updatedAt": "2026-11-16T19:52:08.993Z",
+  "totalPulls": 284,
+  "updatedAt": "2026-11-17T02:52:03.351Z",
   "lastPull": {
-    "id": 567,
-    "name": "archeops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "id": 388,
+    "name": "grotle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
     "types": [
-      "rock",
-      "flying"
+      "grass"
     ],
-    "totalStats": 567,
-    "grade": "SR",
-    "pulledAt": "2026-11-16T19:52:08.993Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-17T02:52:03.351Z"
   },
   "pulls": [
+    {
+      "id": 388,
+      "name": "grotle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-17T02:52:03.351Z"
+    },
     {
       "id": 567,
       "name": "archeops",
@@ -121,18 +131,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-14T19:28:32.226Z"
-    },
-    {
-      "id": 884,
-      "name": "duraludon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T14:31:19.502Z"
     }
   ],
   "pokemon": {
@@ -1618,6 +1616,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T07:40:03.327Z",
       "lastPulledAt": "2026-09-23T07:40:03.327Z"
+    },
+    "388": {
+      "id": 388,
+      "name": "grotle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-17T02:52:03.351Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T02:52:03.351Z",
+      "lastPulledAt": "2026-11-17T02:52:03.351Z"
     },
     "400": {
       "id": 400,

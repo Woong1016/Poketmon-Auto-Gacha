@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-17T02:52:03.351Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-17T11:40:32.532Z",
   "lastPull": {
-    "id": 388,
-    "name": "grotle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
+    "id": 563,
+    "name": "cofagrigus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
     "types": [
-      "grass"
+      "ghost"
     ],
-    "totalStats": 405,
+    "totalStats": 483,
     "grade": "R",
-    "pulledAt": "2026-11-17T02:52:03.351Z"
+    "pulledAt": "2026-11-17T11:40:32.532Z"
   },
   "pulls": [
+    {
+      "id": 563,
+      "name": "cofagrigus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 483,
+      "grade": "R",
+      "pulledAt": "2026-11-17T11:40:32.532Z"
+    },
     {
       "id": 388,
       "name": "grotle",
@@ -119,18 +130,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-11-14T23:19:21.769Z"
-    },
-    {
-      "id": 364,
-      "name": "sealeo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-14T19:28:32.226Z"
     }
   ],
   "pokemon": {
@@ -2248,10 +2247,10 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-11-05T03:43:57.705Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-05T03:43:57.705Z",
-      "lastPulledAt": "2026-11-05T03:43:57.705Z"
+      "lastPulledAt": "2026-11-17T11:40:32.532Z"
     },
     "564": {
       "id": 564,

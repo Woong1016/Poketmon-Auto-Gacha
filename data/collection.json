@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 286,
-  "updatedAt": "2026-11-17T20:05:24.475Z",
+  "totalPulls": 287,
+  "updatedAt": "2026-11-18T02:25:04.287Z",
   "lastPull": {
-    "id": 20,
-    "name": "raticate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "id": 976,
+    "name": "veluza",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
     "types": [
-      "normal"
+      "water",
+      "psychic"
     ],
-    "totalStats": 413,
+    "totalStats": 478,
     "grade": "R",
-    "pulledAt": "2026-11-17T20:05:24.475Z"
+    "pulledAt": "2026-11-18T02:25:04.287Z"
   },
   "pulls": [
+    {
+      "id": 976,
+      "name": "veluza",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 478,
+      "grade": "R",
+      "pulledAt": "2026-11-18T02:25:04.287Z"
+    },
     {
       "id": 20,
       "name": "raticate",
@@ -118,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-15T10:39:31.778Z"
-    },
-    {
-      "id": 757,
-      "name": "salandit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
-      "types": [
-        "poison",
-        "fire"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-11-15T02:54:37.202Z"
     }
   ],
   "pokemon": {
@@ -3743,6 +3744,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T01:32:09.321Z",
       "lastPulledAt": "2026-11-01T01:32:09.321Z"
+    },
+    "976": {
+      "id": 976,
+      "name": "veluza",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 478,
+      "grade": "R",
+      "pulledAt": "2026-11-18T02:25:04.287Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T02:25:04.287Z",
+      "lastPulledAt": "2026-11-18T02:25:04.287Z"
     },
     "978": {
       "id": 978,

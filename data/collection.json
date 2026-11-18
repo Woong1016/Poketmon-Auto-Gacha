@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-18T10:37:42.437Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-18T19:05:36.065Z",
   "lastPull": {
-    "id": 778,
-    "name": "mimikyu-disguised",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "id": 116,
+    "name": "horsea",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
     "types": [
-      "ghost",
-      "fairy"
+      "water"
     ],
-    "totalStats": 476,
-    "grade": "R",
-    "pulledAt": "2026-11-18T10:37:42.437Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-11-18T19:05:36.065Z"
   },
   "pulls": [
+    {
+      "id": 116,
+      "name": "horsea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-18T19:05:36.065Z"
+    },
     {
       "id": 778,
       "name": "mimikyu-disguised",
@@ -119,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-15T22:01:17.900Z"
-    },
-    {
-      "id": 699,
-      "name": "aurorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T17:25:53.677Z"
     }
   ],
   "pokemon": {
@@ -658,6 +656,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-07T06:36:09.003Z",
       "lastPulledAt": "2026-11-07T06:36:09.003Z"
+    },
+    "116": {
+      "id": 116,
+      "name": "horsea",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-18T19:05:36.065Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-18T19:05:36.065Z",
+      "lastPulledAt": "2026-11-18T19:05:36.065Z"
     },
     "117": {
       "id": 117,

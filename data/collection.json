@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 291,
-  "updatedAt": "2026-11-19T08:54:28.149Z",
+  "totalPulls": 292,
+  "updatedAt": "2026-11-19T18:09:19.457Z",
   "lastPull": {
-    "id": 735,
-    "name": "gumshoos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+    "id": 458,
+    "name": "mantyke",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
     "types": [
-      "normal"
+      "water",
+      "flying"
     ],
-    "totalStats": 418,
-    "grade": "R",
-    "pulledAt": "2026-11-19T08:54:28.149Z"
+    "totalStats": 345,
+    "grade": "N",
+    "pulledAt": "2026-11-19T18:09:19.457Z"
   },
   "pulls": [
+    {
+      "id": 458,
+      "name": "mantyke",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 345,
+      "grade": "N",
+      "pulledAt": "2026-11-19T18:09:19.457Z"
+    },
     {
       "id": 735,
       "name": "gumshoos",
@@ -116,18 +129,6 @@
       "totalStats": 567,
       "grade": "SR",
       "pulledAt": "2026-11-16T19:52:08.993Z"
-    },
-    {
-      "id": 439,
-      "name": "mime-jr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-16T09:36:53.570Z"
     }
   ],
   "pokemon": {
@@ -1981,10 +1982,10 @@
       "totalStats": 345,
       "grade": "N",
       "pulledAt": "2026-10-26T17:21:08.960Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T17:21:08.960Z",
-      "lastPulledAt": "2026-10-26T17:21:08.960Z"
+      "lastPulledAt": "2026-11-19T18:09:19.457Z"
     },
     "463": {
       "id": 463,

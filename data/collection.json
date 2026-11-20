@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 293,
-  "updatedAt": "2026-11-20T00:39:05.412Z",
+  "totalPulls": 294,
+  "updatedAt": "2026-11-20T07:47:50.376Z",
   "lastPull": {
-    "id": 984,
-    "name": "great-tusk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+    "id": 185,
+    "name": "sudowoodo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
     "types": [
-      "ground",
-      "fighting"
+      "rock"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-20T00:39:05.412Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-11-20T07:47:50.376Z"
   },
   "pulls": [
+    {
+      "id": 185,
+      "name": "sudowoodo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-20T07:47:50.376Z"
+    },
     {
       "id": 984,
       "name": "great-tusk",
@@ -118,17 +128,6 @@
       "totalStats": 483,
       "grade": "R",
       "pulledAt": "2026-11-17T11:40:32.532Z"
-    },
-    {
-      "id": 388,
-      "name": "grotle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-17T02:52:03.351Z"
     }
   ],
   "pokemon": {
@@ -902,6 +901,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T10:22:55.526Z",
       "lastPulledAt": "2026-10-15T10:22:55.526Z"
+    },
+    "185": {
+      "id": 185,
+      "name": "sudowoodo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-11-20T07:47:50.376Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-20T07:47:50.376Z",
+      "lastPulledAt": "2026-11-20T07:47:50.376Z"
     },
     "186": {
       "id": 186,

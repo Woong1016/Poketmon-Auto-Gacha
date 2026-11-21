@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 296,
-  "updatedAt": "2026-11-20T22:47:27.154Z",
+  "totalPulls": 297,
+  "updatedAt": "2026-11-21T03:35:09.328Z",
   "lastPull": {
-    "id": 357,
-    "name": "tropius",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "id": 267,
+    "name": "beautifly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
     "types": [
-      "grass",
+      "bug",
       "flying"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-11-20T22:47:27.154Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-11-21T03:35:09.328Z"
   },
   "pulls": [
+    {
+      "id": 267,
+      "name": "beautifly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-11-21T03:35:09.328Z"
+    },
     {
       "id": 357,
       "name": "tropius",
@@ -118,18 +130,6 @@
       "totalStats": 476,
       "grade": "R",
       "pulledAt": "2026-11-18T10:37:42.437Z"
-    },
-    {
-      "id": 976,
-      "name": "veluza",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 478,
-      "grade": "R",
-      "pulledAt": "2026-11-18T02:25:04.287Z"
     }
   ],
   "pokemon": {
@@ -1210,6 +1210,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T14:01:25.341Z",
       "lastPulledAt": "2026-10-11T14:01:25.341Z"
+    },
+    "267": {
+      "id": 267,
+      "name": "beautifly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-11-21T03:35:09.328Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T03:35:09.328Z",
+      "lastPulledAt": "2026-11-21T03:35:09.328Z"
     },
     "272": {
       "id": 272,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 299,
-  "updatedAt": "2026-11-21T18:18:14.371Z",
+  "totalPulls": 300,
+  "updatedAt": "2026-11-21T23:29:47.308Z",
   "lastPull": {
-    "id": 990,
-    "name": "iron-treads",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    "id": 278,
+    "name": "wingull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
     "types": [
-      "ground",
-      "steel"
+      "water",
+      "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-21T18:18:14.371Z"
+    "totalStats": 270,
+    "grade": "N",
+    "pulledAt": "2026-11-21T23:29:47.308Z"
   },
   "pulls": [
+    {
+      "id": 278,
+      "name": "wingull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 270,
+      "grade": "N",
+      "pulledAt": "2026-11-21T23:29:47.308Z"
+    },
     {
       "id": 990,
       "name": "iron-treads",
@@ -118,18 +130,6 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-11-19T08:54:28.149Z"
-    },
-    {
-      "id": 199,
-      "name": "slowking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
-      "types": [
-        "water",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-19T01:11:41.227Z"
     }
   ],
   "pokemon": {
@@ -1270,10 +1270,10 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-10-17T15:52:11.676Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T15:52:11.676Z",
-      "lastPulledAt": "2026-10-17T15:52:11.676Z"
+      "lastPulledAt": "2026-11-21T23:29:47.308Z"
     },
     "283": {
       "id": 283,

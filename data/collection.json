@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-22T11:54:28.138Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-22T19:26:26.170Z",
   "lastPull": {
-    "id": 554,
-    "name": "darumaka",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+    "id": 686,
+    "name": "inkay",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
     "types": [
-      "fire"
+      "dark",
+      "psychic"
     ],
-    "totalStats": 315,
+    "totalStats": 288,
     "grade": "N",
-    "pulledAt": "2026-11-22T11:54:28.138Z"
+    "pulledAt": "2026-11-22T19:26:26.170Z"
   },
   "pulls": [
+    {
+      "id": 686,
+      "name": "inkay",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-22T19:26:26.170Z"
+    },
     {
       "id": 554,
       "name": "darumaka",
@@ -117,18 +130,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-20T07:47:50.376Z"
-    },
-    {
-      "id": 984,
-      "name": "great-tusk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-      "types": [
-        "ground",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-20T00:39:05.412Z"
     }
   ],
   "pokemon": {
@@ -2792,6 +2793,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-29T16:29:00.221Z",
       "lastPulledAt": "2026-10-29T16:29:00.221Z"
+    },
+    "686": {
+      "id": 686,
+      "name": "inkay",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+      "types": [
+        "dark",
+        "psychic"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-22T19:26:26.170Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T19:26:26.170Z",
+      "lastPulledAt": "2026-11-22T19:26:26.170Z"
     },
     "688": {
       "id": 688,

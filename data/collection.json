@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-22T03:26:42.897Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-22T11:54:28.138Z",
   "lastPull": {
-    "id": 103,
-    "name": "exeggutor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "id": 554,
+    "name": "darumaka",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
     "types": [
-      "grass",
-      "psychic"
+      "fire"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T03:26:42.897Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-11-22T11:54:28.138Z"
   },
   "pulls": [
+    {
+      "id": 554,
+      "name": "darumaka",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-11-22T11:54:28.138Z"
+    },
     {
       "id": 103,
       "name": "exeggutor",
@@ -119,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-20T00:39:05.412Z"
-    },
-    {
-      "id": 458,
-      "name": "mantyke",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 345,
-      "grade": "N",
-      "pulledAt": "2026-11-19T18:09:19.457Z"
     }
   ],
   "pokemon": {
@@ -2283,6 +2281,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-16T02:01:28.855Z",
       "lastPulledAt": "2026-11-16T02:01:28.855Z"
+    },
+    "554": {
+      "id": 554,
+      "name": "darumaka",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-11-22T11:54:28.138Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T11:54:28.138Z",
+      "lastPulledAt": "2026-11-22T11:54:28.138Z"
     },
     "555": {
       "id": 555,

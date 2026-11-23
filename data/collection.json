@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 305,
-  "updatedAt": "2026-11-23T08:05:28.316Z",
+  "totalPulls": 306,
+  "updatedAt": "2026-11-23T20:11:12.118Z",
   "lastPull": {
-    "id": 394,
-    "name": "prinplup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+    "id": 292,
+    "name": "shedinja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
     "types": [
-      "water"
+      "bug",
+      "ghost"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-23T08:05:28.316Z"
+    "totalStats": 236,
+    "grade": "N",
+    "pulledAt": "2026-11-23T20:11:12.118Z"
   },
   "pulls": [
+    {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-11-23T20:11:12.118Z"
+    },
     {
       "id": 394,
       "name": "prinplup",
@@ -117,18 +130,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-11-21T03:35:09.328Z"
-    },
-    {
-      "id": 357,
-      "name": "tropius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-11-20T22:47:27.154Z"
     }
   ],
   "pokemon": {
@@ -1335,6 +1336,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-13T19:58:13.834Z",
       "lastPulledAt": "2026-11-13T19:58:13.834Z"
+    },
+    "292": {
+      "id": 292,
+      "name": "shedinja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+      "types": [
+        "bug",
+        "ghost"
+      ],
+      "totalStats": 236,
+      "grade": "N",
+      "pulledAt": "2026-11-23T20:11:12.118Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T20:11:12.118Z",
+      "lastPulledAt": "2026-11-23T20:11:12.118Z"
     },
     "294": {
       "id": 294,

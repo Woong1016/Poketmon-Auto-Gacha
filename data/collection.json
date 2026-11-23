@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 303,
-  "updatedAt": "2026-11-22T19:26:26.170Z",
+  "totalPulls": 304,
+  "updatedAt": "2026-11-23T00:26:03.338Z",
   "lastPull": {
-    "id": 686,
-    "name": "inkay",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
+    "id": 86,
+    "name": "seel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
     "types": [
-      "dark",
-      "psychic"
+      "water"
     ],
-    "totalStats": 288,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-11-22T19:26:26.170Z"
+    "pulledAt": "2026-11-23T00:26:03.338Z"
   },
   "pulls": [
+    {
+      "id": 86,
+      "name": "seel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-23T00:26:03.338Z"
+    },
     {
       "id": 686,
       "name": "inkay",
@@ -119,17 +129,6 @@
       "totalStats": 507,
       "grade": "SR",
       "pulledAt": "2026-11-20T16:28:11.254Z"
-    },
-    {
-      "id": 185,
-      "name": "sudowoodo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-20T07:47:50.376Z"
     }
   ],
   "pokemon": {
@@ -485,10 +484,10 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-09-22T09:49:55.706Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T09:49:55.706Z",
-      "lastPulledAt": "2026-09-22T09:49:55.706Z"
+      "lastPulledAt": "2026-11-23T00:26:03.338Z"
     },
     "87": {
       "id": 87,

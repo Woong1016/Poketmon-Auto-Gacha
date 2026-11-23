@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 304,
-  "updatedAt": "2026-11-23T00:26:03.338Z",
+  "totalPulls": 305,
+  "updatedAt": "2026-11-23T08:05:28.316Z",
   "lastPull": {
-    "id": 86,
-    "name": "seel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "id": 394,
+    "name": "prinplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
     "types": [
       "water"
     ],
-    "totalStats": 325,
-    "grade": "N",
-    "pulledAt": "2026-11-23T00:26:03.338Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-23T08:05:28.316Z"
   },
   "pulls": [
+    {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-23T08:05:28.316Z"
+    },
     {
       "id": 86,
       "name": "seel",
@@ -118,17 +129,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-11-20T22:47:27.154Z"
-    },
-    {
-      "id": 865,
-      "name": "sirfetchd",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-11-20T16:28:11.254Z"
     }
   ],
   "pokemon": {
@@ -1706,6 +1706,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-17T02:52:03.351Z",
       "lastPulledAt": "2026-11-17T02:52:03.351Z"
+    },
+    "394": {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-23T08:05:28.316Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T08:05:28.316Z",
+      "lastPulledAt": "2026-11-23T08:05:28.316Z"
     },
     "400": {
       "id": 400,

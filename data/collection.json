@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 306,
-  "updatedAt": "2026-11-23T20:11:12.118Z",
+  "totalPulls": 307,
+  "updatedAt": "2026-11-24T04:51:15.979Z",
   "lastPull": {
-    "id": 292,
-    "name": "shedinja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "id": 584,
+    "name": "vanilluxe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
     "types": [
-      "bug",
-      "ghost"
+      "ice"
     ],
-    "totalStats": 236,
-    "grade": "N",
-    "pulledAt": "2026-11-23T20:11:12.118Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-11-24T04:51:15.979Z"
   },
   "pulls": [
+    {
+      "id": 584,
+      "name": "vanilluxe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-24T04:51:15.979Z"
+    },
     {
       "id": 292,
       "name": "shedinja",
@@ -118,18 +128,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-21T11:47:06.162Z"
-    },
-    {
-      "id": 267,
-      "name": "beautifly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-11-21T03:35:09.328Z"
     }
   ],
   "pokemon": {
@@ -2463,10 +2461,10 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-27T22:25:16.785Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-27T22:25:16.785Z",
-      "lastPulledAt": "2026-10-27T22:25:16.785Z"
+      "lastPulledAt": "2026-11-24T04:51:15.979Z"
     },
     "586": {
       "id": 586,

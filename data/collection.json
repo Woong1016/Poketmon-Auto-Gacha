@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-24T04:51:15.979Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-24T15:41:51.648Z",
   "lastPull": {
-    "id": 584,
-    "name": "vanilluxe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "id": 651,
+    "name": "quilladin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
     "types": [
-      "ice"
+      "grass"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-11-24T04:51:15.979Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-24T15:41:51.648Z"
   },
   "pulls": [
+    {
+      "id": 651,
+      "name": "quilladin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-24T15:41:51.648Z"
+    },
     {
       "id": 584,
       "name": "vanilluxe",
@@ -117,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-21T18:18:14.371Z"
-    },
-    {
-      "id": 925,
-      "name": "maushold-family-of-four",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 470,
-      "grade": "R",
-      "pulledAt": "2026-11-21T11:47:06.162Z"
     }
   ],
   "pokemon": {
@@ -2682,10 +2682,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-14T15:14:31.101Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T15:14:31.101Z",
-      "lastPulledAt": "2026-10-14T15:14:31.101Z"
+      "lastPulledAt": "2026-11-24T15:41:51.648Z"
     },
     "656": {
       "id": 656,

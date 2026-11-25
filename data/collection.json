@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 309,
-  "updatedAt": "2026-11-25T00:10:12.963Z",
+  "totalPulls": 310,
+  "updatedAt": "2026-11-25T08:51:57.127Z",
   "lastPull": {
-    "id": 946,
-    "name": "bramblin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    "id": 32,
+    "name": "nidoran-m",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
     "types": [
-      "grass",
-      "ghost"
+      "poison"
     ],
-    "totalStats": 275,
+    "totalStats": 273,
     "grade": "N",
-    "pulledAt": "2026-11-25T00:10:12.963Z"
+    "pulledAt": "2026-11-25T08:51:57.127Z"
   },
   "pulls": [
+    {
+      "id": 32,
+      "name": "nidoran-m",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 273,
+      "grade": "N",
+      "pulledAt": "2026-11-25T08:51:57.127Z"
+    },
     {
       "id": 946,
       "name": "bramblin",
@@ -117,18 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-22T03:26:42.897Z"
-    },
-    {
-      "id": 278,
-      "name": "wingull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-11-21T23:29:47.308Z"
     }
   ],
   "pokemon": {
@@ -303,6 +301,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-04T23:33:25.146Z",
       "lastPulledAt": "2026-11-04T23:33:25.146Z"
+    },
+    "32": {
+      "id": 32,
+      "name": "nidoran-m",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 273,
+      "grade": "N",
+      "pulledAt": "2026-11-25T08:51:57.127Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T08:51:57.127Z",
+      "lastPulledAt": "2026-11-25T08:51:57.127Z"
     },
     "40": {
       "id": 40,

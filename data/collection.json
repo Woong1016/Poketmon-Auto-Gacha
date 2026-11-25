@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 308,
-  "updatedAt": "2026-11-24T15:41:51.648Z",
+  "totalPulls": 309,
+  "updatedAt": "2026-11-25T00:10:12.963Z",
   "lastPull": {
-    "id": 651,
-    "name": "quilladin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
+    "id": 946,
+    "name": "bramblin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
     "types": [
-      "grass"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-24T15:41:51.648Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-11-25T00:10:12.963Z"
   },
   "pulls": [
+    {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-25T00:10:12.963Z"
+    },
     {
       "id": 651,
       "name": "quilladin",
@@ -116,18 +129,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-11-21T23:29:47.308Z"
-    },
-    {
-      "id": 990,
-      "name": "iron-treads",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
-      "types": [
-        "ground",
-        "steel"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T18:18:14.371Z"
     }
   ],
   "pokemon": {
@@ -3803,6 +3804,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T23:49:39.781Z",
       "lastPulledAt": "2026-10-24T23:25:04.747Z"
+    },
+    "946": {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-11-25T00:10:12.963Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T00:10:12.963Z",
+      "lastPulledAt": "2026-11-25T00:10:12.963Z"
     },
     "949": {
       "id": 949,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 311,
-  "updatedAt": "2026-11-25T19:06:36.097Z",
+  "totalPulls": 312,
+  "updatedAt": "2026-11-26T02:12:04.176Z",
   "lastPull": {
-    "id": 426,
-    "name": "drifblim",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
+    "id": 903,
+    "name": "sneasler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
     "types": [
-      "ghost",
-      "flying"
+      "fighting",
+      "poison"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-11-25T19:06:36.097Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-26T02:12:04.176Z"
   },
   "pulls": [
+    {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T02:12:04.176Z"
+    },
     {
       "id": 426,
       "name": "drifblim",
@@ -117,17 +129,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-11-22T19:26:26.170Z"
-    },
-    {
-      "id": 554,
-      "name": "darumaka",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-11-22T11:54:28.138Z"
     }
   ],
   "pokemon": {
@@ -3677,6 +3678,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T07:24:30.012Z",
       "lastPulledAt": "2026-10-10T07:24:30.012Z"
+    },
+    "903": {
+      "id": 903,
+      "name": "sneasler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
+      "types": [
+        "fighting",
+        "poison"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T02:12:04.176Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T02:12:04.176Z",
+      "lastPulledAt": "2026-11-26T02:12:04.176Z"
     },
     "904": {
       "id": 904,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-26T20:10:19.629Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-27T02:57:51.264Z",
   "lastPull": {
-    "id": 342,
-    "name": "crawdaunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "id": 692,
+    "name": "clauncher",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
     "types": [
-      "water",
-      "dark"
+      "water"
     ],
-    "totalStats": 468,
-    "grade": "R",
-    "pulledAt": "2026-11-26T20:10:19.629Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-27T02:57:51.264Z"
   },
   "pulls": [
+    {
+      "id": 692,
+      "name": "clauncher",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-27T02:57:51.264Z"
+    },
     {
       "id": 342,
       "name": "crawdaunt",
@@ -119,17 +129,6 @@
       "totalStats": 236,
       "grade": "N",
       "pulledAt": "2026-11-23T20:11:12.118Z"
-    },
-    {
-      "id": 394,
-      "name": "prinplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-23T08:05:28.316Z"
     }
   ],
   "pokemon": {
@@ -2903,6 +2902,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-01T15:14:28.871Z",
       "lastPulledAt": "2026-11-01T15:14:28.871Z"
+    },
+    "692": {
+      "id": 692,
+      "name": "clauncher",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-27T02:57:51.264Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T02:57:51.264Z",
+      "lastPulledAt": "2026-11-27T02:57:51.264Z"
     },
     "699": {
       "id": 699,

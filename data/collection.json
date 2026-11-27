@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 315,
-  "updatedAt": "2026-11-27T02:57:51.264Z",
+  "totalPulls": 316,
+  "updatedAt": "2026-11-27T12:00:09.026Z",
   "lastPull": {
-    "id": 692,
-    "name": "clauncher",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+    "id": 242,
+    "name": "blissey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-27T02:57:51.264Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-11-27T12:00:09.026Z"
   },
   "pulls": [
+    {
+      "id": 242,
+      "name": "blissey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-11-27T12:00:09.026Z"
+    },
     {
       "id": 692,
       "name": "clauncher",
@@ -117,18 +128,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-11-24T04:51:15.979Z"
-    },
-    {
-      "id": 292,
-      "name": "shedinja",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
-      "types": [
-        "bug",
-        "ghost"
-      ],
-      "totalStats": 236,
-      "grade": "N",
-      "pulledAt": "2026-11-23T20:11:12.118Z"
     }
   ],
   "pokemon": {
@@ -1174,10 +1173,10 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-09-22T21:29:02.239Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T21:29:02.239Z",
-      "lastPulledAt": "2026-09-22T21:29:02.239Z"
+      "lastPulledAt": "2026-11-27T12:00:09.026Z"
     },
     "248": {
       "id": 248,

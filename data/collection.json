@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-28T12:03:24.617Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-28T19:58:01.835Z",
   "lastPull": {
-    "id": 543,
-    "name": "venipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+    "id": 98,
+    "name": "krabby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
     "types": [
-      "bug",
-      "poison"
+      "water"
     ],
-    "totalStats": 260,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-11-28T12:03:24.617Z"
+    "pulledAt": "2026-11-28T19:58:01.835Z"
   },
   "pulls": [
+    {
+      "id": 98,
+      "name": "krabby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-28T19:58:01.835Z"
+    },
     {
       "id": 543,
       "name": "venipede",
@@ -119,17 +129,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-11-25T19:06:36.097Z"
-    },
-    {
-      "id": 32,
-      "name": "nidoran-m",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 273,
-      "grade": "N",
-      "pulledAt": "2026-11-25T08:51:57.127Z"
     }
   ],
   "pokemon": {
@@ -577,10 +576,10 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-10-28T23:40:32.691Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T23:40:32.691Z",
-      "lastPulledAt": "2026-10-28T23:40:32.691Z"
+      "lastPulledAt": "2026-11-28T19:58:01.835Z"
     },
     "99": {
       "id": 99,

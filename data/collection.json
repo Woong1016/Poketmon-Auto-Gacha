@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 318,
-  "updatedAt": "2026-11-28T03:18:30.123Z",
+  "totalPulls": 319,
+  "updatedAt": "2026-11-28T12:03:24.617Z",
   "lastPull": {
-    "id": 30,
-    "name": "nidorina",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "id": 543,
+    "name": "venipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
     "types": [
+      "bug",
       "poison"
     ],
-    "totalStats": 365,
+    "totalStats": 260,
     "grade": "N",
-    "pulledAt": "2026-11-28T03:18:30.123Z"
+    "pulledAt": "2026-11-28T12:03:24.617Z"
   },
   "pulls": [
+    {
+      "id": 543,
+      "name": "venipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-28T12:03:24.617Z"
+    },
     {
       "id": 30,
       "name": "nidorina",
@@ -117,18 +130,6 @@
       "totalStats": 273,
       "grade": "N",
       "pulledAt": "2026-11-25T08:51:57.127Z"
-    },
-    {
-      "id": 946,
-      "name": "bramblin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-11-25T00:10:12.963Z"
     }
   ],
   "pokemon": {
@@ -2343,6 +2344,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T00:55:33.821Z",
       "lastPulledAt": "2026-10-21T22:46:23.830Z"
+    },
+    "543": {
+      "id": 543,
+      "name": "venipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 260,
+      "grade": "N",
+      "pulledAt": "2026-11-28T12:03:24.617Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T12:03:24.617Z",
+      "lastPulledAt": "2026-11-28T12:03:24.617Z"
     },
     "546": {
       "id": 546,
